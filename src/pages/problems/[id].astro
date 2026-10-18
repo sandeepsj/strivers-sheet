@@ -26,6 +26,13 @@ const diff = p.kind === 'article' ? 'article' : p.difficulty;
         )
       }
       {
+        p.links.practice && (
+          <a class={`btn ${p.links.leetcode ? '' : 'primary'}`} href={p.links.practice} target="_blank" rel="noopener">
+            Practice on takeUforward ↗
+          </a>
+        )
+      }
+      {
         p.links.article && (
           <a class="btn" href={p.links.article} target="_blank" rel="noopener">
             Article ↗

@@ -5,6 +5,7 @@ interface Props {
   id: string;
 }
 const p = problemById.get(Astro.props.id)!;
+const LABEL = { practice: 'Practice', leetcode: 'LeetCode', article: 'Article', video: 'Video' };
 const diff = p.kind === 'article' ? 'article' : (p.difficulty ?? '');
 ---
 
@@ -17,8 +18,16 @@ const diff = p.kind === 'article' ? 'article' : (p.difficulty ?? '');
     {diff && <span class={`chip ${diff}`}>{p.kind === 'article' ? 'read' : diff}</span>}
   </span>
   <span class="links">
-    {p.links.leetcode && <a href={p.links.leetcode} target="_blank" rel="noopener">LeetCode</a>}
-    {p.links.article && <a href={p.links.article} target="_blank" rel="noopener">Article</a>}
-    {p.links.video && <a href={p.links.video} target="_blank" rel="noopener">Video</a>}
+    {
+      (['practice', 'leetcode', 'article', 'video'] as const).map((k) =>
+        p.links[k] ? (
+          <a href={p.links[k]} target="_blank" rel="noopener">
+            {LABEL[k]}
+          </a>
+        ) : (
+          <span aria-hidden="true" />
+        ),
+      )
+    }
   </span>
 </div>

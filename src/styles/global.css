@@ -213,10 +213,9 @@ input[type='checkbox'].solved:focus-visible {
   color: var(--muted);
 }
 .problem-row .links {
-  display: flex;
-  justify-content: flex-end;
-  min-width: 170px;
-  gap: 10px;
+  display: grid;
+  grid-template-columns: 56px 58px 46px 38px;
+  gap: 8px;
   font-size: 13px;
   flex: none;
 }
@@ -247,7 +246,6 @@ input[type='checkbox'].solved:focus-visible {
     flex-basis: calc(100% - 40px);
   }
   .problem-row .links {
-    justify-content: flex-start;
     margin-left: 32px;
   }
 }

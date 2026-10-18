@@ -48,6 +48,8 @@ function addProblem(item, sheetId) {
     difficulty: DIFFICULTY[item.difficulty] ?? null,
     summary: summaries[id] ?? '',
     links: {
+      // TUF's own judge; every practice item has one, including those with no LeetCode equivalent
+      practice: item.layoutType === 'practice' ? `${TUF}/practice/dsa/${encodeURIComponent(item.slug)}` : undefined,
       leetcode: leetcode(item.leetcode_link),
       article: absolute(item.free_blog_link),
       video: item.yt_video || undefined,

@@ -200,6 +200,7 @@
   "difficulty": "easy",
   "summary": "Print an N x N square of stars.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-1",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -216,6 +217,7 @@
   "difficulty": "easy",
   "summary": "Print a right-angled triangle of stars, row i having i stars.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-2",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -232,6 +234,7 @@
   "difficulty": "easy",
   "summary": "Print a right-angled number triangle where row i contains 1..i.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-3",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -248,6 +251,7 @@
   "difficulty": "easy",
   "summary": "Print a right-angled triangle where row i repeats the number i, i times.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-4",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -264,6 +268,7 @@
   "difficulty": "easy",
   "summary": "Print an inverted right-angled triangle of stars.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-5",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -280,6 +285,7 @@
   "difficulty": "easy",
   "summary": "Print an inverted right-angled number triangle, rows 1..N-i+1.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-6",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -296,6 +302,7 @@
   "difficulty": "easy",
   "summary": "Print a centered star pyramid.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-7",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -312,6 +319,7 @@
   "difficulty": "easy",
   "summary": "Print an inverted centered star pyramid.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-8",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -328,6 +336,7 @@
   "difficulty": "easy",
   "summary": "Print a diamond made of a pyramid followed by an inverted pyramid.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-9",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -344,6 +353,7 @@
   "difficulty": "easy",
   "summary": "Print a half diamond: stars increasing to N then decreasing.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-10",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -360,6 +370,7 @@
   "difficulty": "easy",
   "summary": "Print a triangle of alternating 1s and 0s.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-11",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -376,6 +387,7 @@
   "difficulty": "easy",
   "summary": "Print a number crown: increasing numbers, spaces, then decreasing numbers.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-12",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -392,6 +404,7 @@
   "difficulty": "easy",
   "summary": "Print Floyd's triangle with consecutive increasing numbers.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-13",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -408,6 +421,7 @@
   "difficulty": "easy",
   "summary": "Print a triangle of increasing letters A, AB, ABC, ...",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-14",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -424,6 +438,7 @@
   "difficulty": "easy",
   "summary": "Print an inverted triangle of increasing letters.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-15",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -440,6 +455,7 @@
   "difficulty": "easy",
   "summary": "Print a triangle where row i repeats the i-th letter.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-16",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -456,6 +472,7 @@
   "difficulty": "easy",
   "summary": "Print a letter pyramid that rises then falls alphabetically in each row (A, ABA, ABCBA ...).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-17",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -472,6 +489,7 @@
   "difficulty": "easy",
   "summary": "Print a triangle of letters counting backwards from the N-th letter.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-18",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -488,6 +506,7 @@
   "difficulty": "easy",
   "summary": "Print a hollow diamond / butterfly symmetric star pattern with a gap in the middle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-19",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -504,6 +523,7 @@
   "difficulty": "medium",
   "summary": "Print a star butterfly pattern.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-20",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -520,6 +540,7 @@
   "difficulty": "medium",
   "summary": "Print a hollow N x N square of stars.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-21",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -536,6 +557,7 @@
   "difficulty": "medium",
   "summary": "Print a concentric number square where each cell shows its distance-based layer value.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pattern-22",
    "video": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3"
   },
   "topics": [],
@@ -684,6 +706,7 @@
   "difficulty": "easy",
   "summary": "Count how many digits an integer has.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-all-digits-of-a-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-digits-in-a-number",
    "video": "https://youtu.be/1xNbjMdbjug"
   },
@@ -705,6 +728,7 @@
   "difficulty": "easy",
   "summary": "Count how many digits of an integer are odd.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-number-of-odd-digits-in-a-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-odd-digits-in-a-number"
   },
   "topics": [
@@ -725,6 +749,7 @@
   "difficulty": "medium",
   "summary": "Reverse the digits of an integer, handling overflow.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-a-number",
    "leetcode": "https://leetcode.com/problems/reverse-integer/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-digits-of-a-number",
    "video": "https://youtu.be/1xNbjMdbjug?t=930"
@@ -747,6 +772,7 @@
   "difficulty": "easy",
   "summary": "Check whether an integer reads the same forwards and backwards.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/palindrome-number",
    "leetcode": "https://leetcode.com/problems/palindrome-number/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-number-is-a-palindrome",
    "video": "https://youtu.be/1xNbjMdbjug?t=1230"
@@ -770,6 +796,7 @@
   "difficulty": "easy",
   "summary": "Find the largest digit of a non-negative integer.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/return-the-largest-digit-in-a-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-largest-digit-in-a-number"
   },
   "topics": [
@@ -790,6 +817,7 @@
   "difficulty": "easy",
   "summary": "Compute n! iteratively.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/factorial-of-a-given-number-i",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/factorial-of-a-number",
    "video": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3"
   },
@@ -811,6 +839,7 @@
   "difficulty": "easy",
   "summary": "Check whether a number equals the sum of its digits each raised to the digit count.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-the-number-if-armstrong",
    "leetcode": "https://leetcode.com/problems/armstrong-number/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/armstrong-number",
    "video": "https://youtu.be/1xNbjMdbjug?t=1418"
@@ -833,6 +862,7 @@
   "difficulty": "easy",
   "summary": "Check whether a number equals the sum of its proper divisors.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-for-perfect-number",
    "leetcode": "https://leetcode.com/problems/perfect-number/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/perfect-number"
   },
@@ -854,6 +884,7 @@
   "difficulty": "medium",
   "summary": "Determine whether n is prime by trial division up to sqrt(n).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-for-prime-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-number-is-prime",
    "video": "https://youtu.be/1xNbjMdbjug?t=2381"
   },
@@ -875,6 +906,7 @@
   "difficulty": "easy",
   "summary": "Count primes less than or equal to n.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-of-prime-numbers-till-n",
    "leetcode": "https://leetcode.com/problems/count-primes/"
   },
   "topics": [
@@ -895,6 +927,7 @@
   "difficulty": "medium",
   "summary": "Find the greatest common divisor of two numbers (Euclid's algorithm).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/gcd-of-two-numbers",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/gcd-euclidean-algorithm",
    "video": "https://youtu.be/1xNbjMdbjug?t=2684"
   },
@@ -916,7 +949,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Find the least common multiple of two numbers using their GCD.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lcm-of-two-numbers"
+  },
   "topics": [
    "Mathematics"
   ],
@@ -935,6 +970,7 @@
   "difficulty": "medium",
   "summary": "List all divisors of n in sorted order efficiently.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/divisors-of-a-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-divisors",
    "video": "https://youtu.be/1xNbjMdbjug?t=1580"
   },
@@ -957,6 +993,7 @@
   "difficulty": "easy",
   "summary": "Return the sum of all array elements.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-array-elements",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-array"
   },
   "topics": [
@@ -977,6 +1014,7 @@
   "difficulty": "easy",
   "summary": "Count how many array elements are odd.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-of-odd-numbers-in-array",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/odd-elements-in-an-array"
   },
   "topics": [
@@ -997,6 +1035,7 @@
   "difficulty": "easy",
   "summary": "Check whether an array is sorted in non-decreasing order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-the-array-is-sorted-i",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-an-array-is-sorted-in-ascending-order"
   },
   "topics": [
@@ -1017,6 +1056,7 @@
   "difficulty": "easy",
   "summary": "Reverse an array in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-an-array",
    "video": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4"
   },
   "topics": [
@@ -1037,6 +1077,7 @@
   "difficulty": "medium",
   "summary": "Find the element with the highest frequency (smallest on ties).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/highest-occurring-element-in-an-array",
    "leetcode": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/highest-freq-element"
   },
@@ -1058,6 +1099,7 @@
   "difficulty": "medium",
   "summary": "Find the element with the second highest frequency.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/second-highest-occurring-element",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/second-highest-occurring-element"
   },
   "topics": [
@@ -1078,7 +1120,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Return the sum of the highest and lowest element frequencies.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-highest-and-lowest-frequency"
+  },
   "topics": [
    "Hashing"
   ],
@@ -1097,6 +1141,7 @@
   "difficulty": "easy",
   "summary": "Reverse a character array in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-a-string-ii",
    "leetcode": "https://leetcode.com/problems/reverse-string/"
   },
   "topics": [
@@ -1117,6 +1162,7 @@
   "difficulty": "medium",
   "summary": "Check whether a string is a palindrome, considering only alphanumerics and ignoring case.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/palindrome-check",
    "leetcode": "https://leetcode.com/problems/valid-palindrome/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/valid-palindrome"
   },
@@ -1139,6 +1185,7 @@
   "difficulty": "medium",
   "summary": "Return the largest odd-valued substring prefix of a numeric string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/largest-odd-number-in-a-string",
    "leetcode": "https://leetcode.com/problems/largest-odd-number-in-string/"
   },
   "topics": [
@@ -1161,6 +1208,7 @@
   "difficulty": "medium",
   "summary": "Find the longest prefix shared by all strings in a list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-common-prefix",
    "leetcode": "https://leetcode.com/problems/longest-common-prefix/"
   },
   "topics": [
@@ -1185,6 +1233,7 @@
   "difficulty": "easy",
   "summary": "Check whether characters of one string can be consistently mapped to the other.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/isomorphic-string",
    "leetcode": "https://leetcode.com/problems/isomorphic-strings/"
   },
   "topics": [
@@ -1206,6 +1255,7 @@
   "difficulty": "medium",
   "summary": "Check whether one string is a rotation of another.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rotate-string",
    "leetcode": "https://leetcode.com/problems/rotate-string/"
   },
   "topics": [
@@ -1226,6 +1276,7 @@
   "difficulty": "easy",
   "summary": "Check whether two strings are anagrams of each other.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/valid-anagram",
    "leetcode": "https://leetcode.com/problems/valid-anagram/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-two-strings-are-anagrams"
   },
@@ -1251,6 +1302,7 @@
   "difficulty": "medium",
   "summary": "Reorder a string so characters appear in decreasing order of frequency.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sort-characters-by-frequency",
    "leetcode": "https://leetcode.com/problems/sort-characters-by-frequency/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-characters-by-frequency"
   },
@@ -1303,6 +1355,7 @@
   "difficulty": "easy",
   "summary": "Compute 1 + 2 + ... + n using recursion.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-first-n-numbers",
    "video": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3"
   },
   "topics": [
@@ -1323,6 +1376,7 @@
   "difficulty": "easy",
   "summary": "Compute n! using recursion.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/factorial-of-a-given-number-ii",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/factorial-of-a-number-using-recursion"
   },
   "topics": [
@@ -1343,7 +1397,9 @@
   "kind": "problem",
   "difficulty": "easy",
   "summary": "Sum array elements recursively.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-array-elements-ii"
+  },
   "topics": [
    "Arrays"
   ],
@@ -1362,6 +1418,7 @@
   "difficulty": "easy",
   "summary": "Reverse a string using recursion.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-a-string-i",
    "leetcode": "https://leetcode.com/problems/reverse-string/"
   },
   "topics": [
@@ -1382,6 +1439,7 @@
   "difficulty": "easy",
   "summary": "Check whether a string is a palindrome using recursion.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-string-is-palindrome-or-not-",
    "leetcode": "https://leetcode.com/problems/valid-palindrome/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-string-is-a-palindrome",
    "video": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4"
@@ -1404,7 +1462,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Determine whether a number is prime using recursion.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-a-number-is-prime-or-not"
+  },
   "topics": [
    "Mathematics"
   ],
@@ -1423,6 +1483,7 @@
   "difficulty": "medium",
   "summary": "Reverse an array using recursion.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-an-array-ii",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reversing-an-array-using-recursion"
   },
   "topics": [
@@ -1443,6 +1504,7 @@
   "difficulty": "easy",
   "summary": "Recursively check whether an array is sorted.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-the-array-is-sorted-ii",
    "leetcode": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-an-array-is-sorted-in-ascending-order",
    "video": "https://youtu.be/37E9ckMDdTk?t=17224"
@@ -1465,6 +1527,7 @@
   "difficulty": "easy",
   "summary": "Sum the digits of a number recursively.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-digits-in-a-given-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-digits-of-a-number-using-recursion"
   },
   "topics": [
@@ -1485,6 +1548,7 @@
   "difficulty": "medium",
   "summary": "Return the n-th Fibonacci number.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/fibonacci-number",
    "leetcode": "https://leetcode.com/problems/fibonacci-number/",
    "video": "https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=5"
   },
@@ -1508,6 +1572,7 @@
   "difficulty": "medium",
   "summary": "Sort by repeatedly selecting the minimum and placing it at the front.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/selection-sort",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/selection-sort-algorithm",
    "video": "https://youtu.be/HGk_ypEuS24?t=167"
   },
@@ -1530,6 +1595,7 @@
   "difficulty": "medium",
   "summary": "Sort by repeatedly swapping adjacent out-of-order elements.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/bubble-sort",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bubble-sort-algorithm",
    "video": "https://youtu.be/HGk_ypEuS24?t=1061"
   },
@@ -1552,6 +1618,7 @@
   "difficulty": "medium",
   "summary": "Sort by inserting each element into its place in the sorted prefix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insertion-sorting",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insertion-sort-algorithm",
    "video": "https://youtu.be/HGk_ypEuS24?t=1900"
   },
@@ -1574,6 +1641,7 @@
   "difficulty": "medium",
   "summary": "Divide-and-conquer sort that merges two sorted halves.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-sorting",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-sort-algorithm",
    "video": "https://youtu.be/ogjf7ORKfd8"
   },
@@ -1596,6 +1664,7 @@
   "difficulty": "medium",
   "summary": "Divide-and-conquer sort that partitions around a pivot.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/quick-sorting",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/quick-sort-algorithm",
    "video": "https://youtu.be/WIrA4YexLRQ"
   },
@@ -1617,7 +1686,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Implement bubble sort recursively.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/recursive-bubble-sort"
+  },
   "topics": [
    "Sorting",
    "Arrays",
@@ -1637,7 +1708,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Implement insertion sort recursively.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/recursive-insertion-sort"
+  },
   "topics": [
    "Sorting",
    "Arrays",
@@ -1658,6 +1731,7 @@
   "difficulty": "easy",
   "summary": "Return the first index of a target value, or -1.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/linear-search",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/linear-search-algorithm",
    "video": "https://youtu.be/wvcQg43_V8U?t=2465"
   },
@@ -1679,6 +1753,7 @@
   "difficulty": "easy",
   "summary": "Find the largest element of an array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/largest-element",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-largest-element-in-an-array",
    "video": "https://youtu.be/37E9ckMDdTk?t=526"
   },
@@ -1700,6 +1775,7 @@
   "difficulty": "easy",
   "summary": "Find the second largest distinct element without sorting.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/second-largest-element",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/second-largest-element",
    "video": "https://youtu.be/37E9ckMDdTk?t=810"
   },
@@ -1721,6 +1797,7 @@
   "difficulty": "easy",
   "summary": "Find the longest run of consecutive 1s in a binary array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-consecutive-ones",
    "leetcode": "https://leetcode.com/problems/max-consecutive-ones/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-consecutive-ones-in-a-binary-array",
    "video": "https://youtu.be/bYWLJb3vCWY?t=1124"
@@ -1744,6 +1821,7 @@
   "difficulty": "easy",
   "summary": "Rotate an array left by one position.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/left-rotate-array-by-one",
    "leetcode": "https://leetcode.com/problems/rotate-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-one",
    "video": "https://youtu.be/wvcQg43_V8U?t=61"
@@ -1766,6 +1844,7 @@
   "difficulty": "medium",
   "summary": "Rotate an array left by k positions in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/left-rotate-array",
    "leetcode": "https://leetcode.com/problems/rotate-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-k-places",
    "video": "https://youtu.be/wvcQg43_V8U?t=485"
@@ -1788,6 +1867,7 @@
   "difficulty": "easy",
   "summary": "Move all zeros to the end while keeping the order of non-zero elements.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/move-zeros-to-end",
    "leetcode": "https://leetcode.com/problems/move-zeroes/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/move-zeros-to-the-end-of-an-array",
    "video": "https://youtu.be/wvcQg43_V8U?t=1633"
@@ -1811,6 +1891,7 @@
   "difficulty": "easy",
   "summary": "Remove duplicates in place from a sorted array and return the new length.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/remove-duplicates-from-sorted-array",
    "leetcode": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-array-in-place",
    "video": "https://youtu.be/37E9ckMDdTk?t=1887"
@@ -1835,6 +1916,7 @@
   "difficulty": "easy",
   "summary": "Find the one number missing from 0..n (or 1..n) in an array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-missing-number",
    "leetcode": "https://leetcode.com/problems/missing-number/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/missing-number-solutions"
   },
@@ -1859,6 +1941,7 @@
   "difficulty": "medium",
   "summary": "Return the sorted union of two sorted arrays without duplicates.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/union-of-two-sorted-arrays",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/union-of-two-sorted-arrays",
    "video": "https://youtu.be/wvcQg43_V8U?t=2584"
   },
@@ -1880,6 +1963,7 @@
   "difficulty": "medium",
   "summary": "Return the common elements of two sorted arrays.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/intersection-of-two-sorted-arrays",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/intersection-of-two-arrays"
   },
   "topics": [
@@ -1900,6 +1984,7 @@
   "difficulty": "medium",
   "summary": "Find the element appearing more than n/2 times (Moore's voting).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/majority-element-i",
    "leetcode": "https://leetcode.com/problems/majority-element/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-n-by-2",
    "video": "https://youtu.be/nP_ns3uSh80"
@@ -1925,6 +2010,7 @@
   "difficulty": "medium",
   "summary": "Find all elements greater than every element to their right.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/leaders-in-an-array",
    "leetcode": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/leaders-in-an-array",
    "video": "https://youtu.be/cHrH9CQ8pmY"
@@ -1947,6 +2033,7 @@
   "difficulty": "medium",
   "summary": "Rearrange an array so positives and negatives alternate, preserving order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rearrange-array-elements-by-sign",
    "leetcode": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
    "video": "https://youtu.be/h4aBagy4Uok"
   },
@@ -1969,6 +2056,7 @@
   "difficulty": "medium",
   "summary": "Return the elements of a matrix in spiral order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/print-the-matrix-in-spiral-manner",
    "leetcode": "https://leetcode.com/problems/spiral-matrix/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/spiral-traversal-of-a-matrix",
    "video": "https://youtu.be/3Zv-s9UUrFM"
@@ -1993,6 +2081,7 @@
   "difficulty": "medium",
   "summary": "Generate the first n rows of Pascal's triangle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pascals-triangle-i",
    "leetcode": "https://leetcode.com/problems/pascals-triangle/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascals-triangle-first-n-rows",
    "video": "https://youtu.be/bR7mQgwQ_o8"
@@ -2017,6 +2106,7 @@
   "difficulty": "medium",
   "summary": "Return a single row of Pascal's triangle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pascals-triangle-ii",
    "leetcode": "https://leetcode.com/problems/pascals-triangle-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascal-triangle-ii"
   },
@@ -2039,6 +2129,7 @@
   "difficulty": "medium",
   "summary": "Return the value at a given row and column of Pascal's triangle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pascals-triangle-iii",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascals-triangle-first-n-rows"
   },
   "topics": [
@@ -2060,6 +2151,7 @@
   "difficulty": "medium",
   "summary": "Rotate an n x n matrix 90 degrees clockwise in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rotate-matrix-by-90-degrees",
    "leetcode": "https://leetcode.com/problems/rotate-image/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-matrix-90-degrees-clockwise",
    "video": "https://youtu.be/Z0R2u6gd3GU"
@@ -2085,6 +2177,7 @@
   "difficulty": "medium",
   "summary": "If a cell is 0, set its entire row and column to 0, in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/set-matrix-zeroes",
    "leetcode": "https://leetcode.com/problems/set-matrix-zeroes/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/set-matrix-zeroes",
    "video": "https://youtu.be/N0MgLvceX7M"
@@ -2110,6 +2203,7 @@
   "difficulty": "easy",
   "summary": "Find two indices whose values add up to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/two-sum",
    "leetcode": "https://leetcode.com/problems/two-sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/two-sum",
    "video": "https://youtu.be/UXDSeD9mN-k"
@@ -2137,6 +2231,7 @@
   "difficulty": "medium",
   "summary": "Find all unique triplets that sum to zero.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/3-sum",
    "leetcode": "https://leetcode.com/problems/3sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/3sum",
    "video": "https://youtu.be/DhFh8Kw7ymk"
@@ -2165,6 +2260,7 @@
   "difficulty": "hard",
   "summary": "Find all unique quadruplets that sum to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/4-sum",
    "leetcode": "https://leetcode.com/problems/4sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/4sum",
    "video": "https://youtu.be/eD95WRfh81c"
@@ -2190,6 +2286,7 @@
   "difficulty": "medium",
   "summary": "Sort an array of 0s, 1s and 2s in one pass (Dutch national flag).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sort-an-array-of-0's-1's-and-2's",
    "leetcode": "https://leetcode.com/problems/sort-colors/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-array-0s-1s-2s",
    "video": "https://youtu.be/tp8JIuCXBaU"
@@ -2216,6 +2313,7 @@
   "difficulty": "medium",
   "summary": "Find the contiguous subarray with the maximum sum.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kadane's-algorithm",
    "leetcode": "https://leetcode.com/problems/maximum-subarray/",
    "video": "https://youtu.be/AHZpyENo7k4"
   },
@@ -2241,6 +2339,7 @@
   "difficulty": "medium",
   "summary": "Rearrange numbers into the next lexicographically greater permutation.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/next-permutation",
    "leetcode": "https://leetcode.com/problems/next-permutation/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-permutation",
    "video": "https://youtu.be/JDOXKqF60RQ"
@@ -2266,6 +2365,7 @@
   "difficulty": "medium",
   "summary": "Find all elements appearing more than n/3 times.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/majority-element-ii",
    "leetcode": "https://leetcode.com/problems/majority-element-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-ii-n-by-3",
    "video": "https://youtu.be/vwZj1K0e9U8"
@@ -2292,6 +2392,7 @@
   "difficulty": "medium",
   "summary": "In 1..n, find the number that repeats and the one that is missing.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-repeating-and-missing-number",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-missing-and-repeating-numbers-in-an-array",
    "video": "https://youtu.be/2D0D8HE6uak"
   },
@@ -2317,6 +2418,7 @@
   "difficulty": "hard",
   "summary": "Count pairs i < j with a[i] > a[j].",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-inversions",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-inversions-in-an-array-using-merge-sort",
    "video": "https://youtu.be/AseUmwVNaoY"
   },
@@ -2341,6 +2443,7 @@
   "difficulty": "hard",
   "summary": "Count pairs i < j with a[i] > 2 * a[j].",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-pairs",
    "leetcode": "https://leetcode.com/problems/reverse-pairs/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-reverse-pairs",
    "video": "https://youtu.be/0e4bZaP3MDI"
@@ -2366,6 +2469,7 @@
   "difficulty": "medium",
   "summary": "Find the contiguous subarray with the maximum product.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-product-subarray-in-an-array",
    "leetcode": "https://leetcode.com/problems/maximum-product-subarray/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-product-subarray"
   },
@@ -2391,6 +2495,7 @@
   "difficulty": "medium",
   "summary": "Merge two sorted arrays so both stay sorted, without extra space.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-two-sorted-arrays-without-extra-space",
    "leetcode": "https://leetcode.com/problems/merge-sorted-array/",
    "video": "https://youtu.be/n7uwj04E0I4"
   },
@@ -2415,6 +2520,7 @@
   "difficulty": "medium",
   "summary": "Find the length of the longest run of consecutive integers in an unsorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-consecutive-sequence-in-an-array",
    "leetcode": "https://leetcode.com/problems/longest-consecutive-sequence/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-consecutive-sequence-in-an-array",
    "video": "https://youtu.be/oO5uLE7EUlM"
@@ -2444,6 +2550,7 @@
   "difficulty": "medium",
   "summary": "Find the length of the longest subarray summing to k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-subarray-with-sum-k",
    "leetcode": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
    "video": "https://youtu.be/frf7qxiN2qU"
   },
@@ -2468,6 +2575,7 @@
   "difficulty": "medium",
   "summary": "Find the length of the longest subarray with sum 0.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/largest-subarray-with-sum-0",
    "leetcode": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
    "video": "https://www.youtube.com/watch?v=xmguZ6GbatA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=23"
   },
@@ -2490,6 +2598,7 @@
   "difficulty": "medium",
   "summary": "Count subarrays whose sum equals k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-subarrays-with-given-sum",
    "leetcode": "https://leetcode.com/problems/subarray-sum-equals-k/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-given-sum",
    "video": "https://www.youtube.com/watch?v=xvNwoz-ufXA&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=32"
@@ -2516,6 +2625,7 @@
   "difficulty": "hard",
   "summary": "Count subarrays whose XOR equals k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-subarrays-with-given-xor-k",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-a-given-xor-k",
    "video": "https://youtu.be/eZr-6p0B7ME"
   },
@@ -2541,6 +2651,7 @@
   "difficulty": "easy",
   "summary": "Find a target in a sorted array using binary search.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-x-in-sorted-array",
    "leetcode": "https://leetcode.com/problems/binary-search/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-algorithm",
    "video": "https://youtu.be/MHf6awe89xw"
@@ -2565,6 +2676,7 @@
   "difficulty": "medium",
   "summary": "Find the first index with value >= x in a sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lower-bound-",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lower-bound-in-sorted-array",
    "video": "https://youtu.be/6zhGS79oQ4k"
   },
@@ -2587,6 +2699,7 @@
   "difficulty": "medium",
   "summary": "Find the first index with value > x in a sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/upper-bound",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/upper-bound-in-sorted-array",
    "video": "https://youtu.be/6zhGS79oQ4k"
   },
@@ -2609,6 +2722,7 @@
   "difficulty": "easy",
   "summary": "Return the index of target, or where it would be inserted, in a sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-insert-position",
    "leetcode": "https://leetcode.com/problems/search-insert-position/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-insert-position",
    "video": "https://youtu.be/6zhGS79oQ4k"
@@ -2633,6 +2747,7 @@
   "difficulty": "medium",
   "summary": "Find the largest element <= x and smallest element >= x.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/floor-and-ceil-in-sorted-array",
    "video": "https://www.youtube.com/watch?v=6zhGS79oQ4k&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=3"
   },
   "topics": [
@@ -2654,6 +2769,7 @@
   "difficulty": "medium",
   "summary": "Find the first and last positions of a target in a sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/first-and-last-occurrence",
    "leetcode": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/last-occurrence-in-a-sorted-array",
    "video": "https://youtu.be/hjR1IYVx9lY"
@@ -2678,6 +2794,7 @@
   "difficulty": "medium",
   "summary": "Search a target in a rotated sorted array of distinct values.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-in-rotated-sorted-array-i",
    "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-rotated-sorted-array",
    "video": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64"
@@ -2704,6 +2821,7 @@
   "difficulty": "medium",
   "summary": "Search a target in a rotated sorted array that may contain duplicates.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-in-rotated-sorted-array-2",
    "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-rotated-sorted-array-ii",
    "video": "https://youtu.be/w2G2W8l__pc"
@@ -2728,6 +2846,7 @@
   "difficulty": "medium",
   "summary": "Find the minimum element of a rotated sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-minimum-in-rotated-sorted-array",
    "leetcode": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-minimum-in-rotated-sorted-array",
    "video": "https://youtu.be/nhEMDKMB44g"
@@ -2753,6 +2872,7 @@
   "difficulty": "medium",
   "summary": "Find how many times a sorted array was rotated.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-out-how-many-times-the-array-is-rotated",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotation-count-sorted-array",
    "video": "https://youtu.be/jtSiWTPLwd0"
   },
@@ -2775,6 +2895,7 @@
   "difficulty": "medium",
   "summary": "In a sorted array where every element appears twice except one, find the single one in O(log n).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/single-element-in-sorted-array",
    "leetcode": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-element-in-a-sorted-array",
    "video": "https://youtu.be/AZOmHuHadxQ"
@@ -2801,6 +2922,7 @@
   "difficulty": "medium",
   "summary": "Count occurrences of a value in a sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-occurrences-in-a-sorted-array",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-occurrences-in-a-sorted-array",
    "video": "https://youtu.be/hjR1IYVx9lY"
   },
@@ -2823,6 +2945,7 @@
   "difficulty": "medium",
   "summary": "Compute the floor of the square root of n.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-square-root-of-a-number",
    "leetcode": "https://leetcode.com/problems/sqrtx/",
    "video": "https://youtu.be/Bsv3FPUX_BA"
   },
@@ -2845,6 +2968,7 @@
   "difficulty": "medium",
   "summary": "Find the integer n-th root of m, if it exists.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-nth-root-of-a-number",
    "video": "https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62"
   },
   "topics": [
@@ -2867,6 +2991,7 @@
   "difficulty": "medium",
   "summary": "Find the smallest divisor so the sum of ceil(a[i]/d) stays within a threshold.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-smallest-divisor",
    "leetcode": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-smallest-divisor-given-a-threshold",
    "video": "https://youtu.be/UvBKTVaG6U8"
@@ -2891,6 +3016,7 @@
   "difficulty": "hard",
   "summary": "Find the minimum eating speed to finish all banana piles within h hours.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/koko-eating-bananas",
    "leetcode": "https://leetcode.com/problems/koko-eating-bananas/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/koko-eating-bananas",
    "video": "https://youtu.be/qyfekrNni90"
@@ -2916,6 +3042,7 @@
   "difficulty": "hard",
   "summary": "Find the minimum day by which m bouquets of k adjacent bloomed flowers can be made.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-days-to-make-m-bouquets",
    "leetcode": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-days-to-make-m-bouquets",
    "video": "https://youtu.be/TXAuxeYBTdg"
@@ -2940,6 +3067,7 @@
   "difficulty": "hard",
   "summary": "Find the minimum ship capacity to ship all packages in order within d days.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/capacity-to-ship-packages-within-d-days",
    "leetcode": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/capacity-to-ship-packages-within-d-days",
    "video": "https://youtu.be/MG-Ac4TAvTY"
@@ -2963,6 +3091,7 @@
   "difficulty": "hard",
   "summary": "Find the k-th positive integer missing from a sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kth-missing-positive-number",
    "leetcode": "https://leetcode.com/problems/kth-missing-positive-number/",
    "video": "https://youtu.be/uZ0N_hZpyps"
   },
@@ -2985,6 +3114,7 @@
   "difficulty": "hard",
   "summary": "Split boards among k painters to minimize the maximum time any painter takes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/painters-partition",
    "leetcode": "https://leetcode.com/problems/split-array-largest-sum/",
    "video": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20"
   },
@@ -3007,6 +3137,7 @@
   "difficulty": "hard",
   "summary": "Place cows in stalls to maximize the minimum distance between any two.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/aggressive-cows",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/aggressive-cows",
    "video": "https://youtu.be/R_Mfw4ew-Vo"
   },
@@ -3032,6 +3163,7 @@
   "difficulty": "hard",
   "summary": "Allocate contiguous books to students to minimize the maximum pages assigned.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/book-allocation-problem",
    "leetcode": "https://leetcode.com/problems/split-array-largest-sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/book-allocation-problem",
    "video": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69"
@@ -3056,6 +3188,7 @@
   "difficulty": "medium",
   "summary": "Find any element strictly greater than its neighbours.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-peak-element",
    "leetcode": "https://leetcode.com/problems/find-peak-element/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-a-peak-element-in-an-array",
    "video": "https://youtu.be/cXxmbemS6XM"
@@ -3081,6 +3214,7 @@
   "difficulty": "hard",
   "summary": "Find the median of two sorted arrays in logarithmic time.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/median-of-2-sorted-arrays",
    "leetcode": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/median-of-2-sorted-arrays",
    "video": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65"
@@ -3108,6 +3242,7 @@
   "difficulty": "hard",
   "summary": "Find the k-th smallest element across two sorted arrays.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kth-element-of-2-sorted-arrays",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-element-of-two-sorted-arrays",
    "video": "https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66"
   },
@@ -3132,6 +3267,7 @@
   "difficulty": "hard",
   "summary": "Add k gas stations to minimize the maximum distance between adjacent stations.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimise-max-distance-to-gas-stations",
    "leetcode": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimize-maximum-distance-between-gas-stations",
    "video": "https://www.youtube.com/watch?v=kMSBvlZ-_HA&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=21"
@@ -3155,6 +3291,7 @@
   "difficulty": "hard",
   "summary": "Split an array into k subarrays minimizing the largest subarray sum.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/split-array---largest-sum",
    "leetcode": "https://leetcode.com/problems/split-array-largest-sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/split-array-largest-sum",
    "video": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20"
@@ -3181,6 +3318,7 @@
   "difficulty": "medium",
   "summary": "In a row-sorted binary matrix, find the row with the most 1s.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-row-with-maximum-1's",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-row-with-maximum-1s-in-a-sorted-binary-matrix",
    "video": "https://youtu.be/SCz-1TtYxDI"
   },
@@ -3203,6 +3341,7 @@
   "difficulty": "medium",
   "summary": "Search a matrix whose rows are sorted and each row starts after the previous ends.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-in-a-2d-matrix",
    "leetcode": "https://leetcode.com/problems/search-a-2d-matrix/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-sorted-2d-matrix",
    "video": "https://youtu.be/ZYpYur0znng"
@@ -3228,6 +3367,7 @@
   "difficulty": "medium",
   "summary": "Search a matrix sorted along both rows and columns.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-in-2d-matrix-ii",
    "leetcode": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-a-row-and-column-wise-sorted-matrix",
    "video": "https://youtu.be/9ZbB397jU4k"
@@ -3252,6 +3392,7 @@
   "difficulty": "medium",
   "summary": "Find a peak cell in a 2D grid strictly greater than its four neighbours.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-peak-element-ii",
    "leetcode": "https://leetcode.com/problems/find-a-peak-element-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-peak-element-2d-matrix",
    "video": "https://youtu.be/nGGp5XBzC4g?si=WCop5C6Azj5gAELH"
@@ -3276,6 +3417,7 @@
   "difficulty": "hard",
   "summary": "Find the median of a row-wise sorted matrix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/matrix-median",
    "leetcode": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/median-of-a-row-wise-sorted-matrix",
    "video": "https://youtu.be/Q9wXgdxJq48?si=ScI_0uzJh7yg8nrX"
@@ -3301,6 +3443,7 @@
   "difficulty": "medium",
   "summary": "Remove the outermost parentheses of every primitive part of a valid string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/remove-outermost-parentheses",
    "leetcode": "https://leetcode.com/problems/remove-outermost-parentheses/"
   },
   "topics": [
@@ -3322,6 +3465,7 @@
   "difficulty": "medium",
   "summary": "Return the maximum nesting depth of parentheses in a string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-nesting-depth-of-the-parentheses",
    "leetcode": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/"
   },
   "topics": [
@@ -3343,6 +3487,7 @@
   "difficulty": "easy",
   "summary": "Convert a Roman numeral to an integer.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/roman-to-integer",
    "leetcode": "https://leetcode.com/problems/roman-to-integer/"
   },
   "topics": [
@@ -3366,6 +3511,7 @@
   "difficulty": "medium",
   "summary": "Parse a string into a 32-bit integer, handling whitespace, sign and overflow.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/string-to-integer-atoi",
    "leetcode": "https://leetcode.com/problems/string-to-integer-atoi/"
   },
   "topics": [
@@ -3385,7 +3531,9 @@
   "kind": "problem",
   "difficulty": null,
   "summary": "Count substrings with exactly k distinct characters.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-number-of-substring"
+  },
   "topics": [],
   "patterns": [],
   "sheets": [
@@ -3400,6 +3548,7 @@
   "difficulty": "medium",
   "summary": "Find the longest substring that is a palindrome.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-palindromic-substring",
    "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/"
   },
   "topics": [
@@ -3422,6 +3571,7 @@
   "difficulty": "medium",
   "summary": "Sum (max frequency - min frequency) over all substrings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-beauty-of-all-substrings",
    "leetcode": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/"
   },
   "topics": [
@@ -3443,6 +3593,7 @@
   "difficulty": "medium",
   "summary": "Compute x raised to n using fast exponentiation.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pow(x%2Cn)",
    "leetcode": "https://leetcode.com/problems/powx-n/",
    "video": "https://youtu.be/l0YC3876qxg"
   },
@@ -3466,6 +3617,7 @@
   "difficulty": "medium",
   "summary": "Generate all valid combinations of n pairs of parentheses.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/generate-parentheses",
    "leetcode": "https://leetcode.com/problems/generate-parentheses/"
   },
   "topics": [
@@ -3490,6 +3642,7 @@
   "difficulty": "medium",
   "summary": "Generate all subsets of a set.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/power-set",
    "leetcode": "https://leetcode.com/problems/subsets/",
    "video": "https://www.youtube.com/watch?v=b7AYbpM5YrE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67"
   },
@@ -3512,6 +3665,7 @@
   "difficulty": "medium",
   "summary": "Count digit strings of length n with even digits at even indices and primes at odd indices, mod 1e9+7.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-good-numbers",
    "leetcode": "https://leetcode.com/problems/count-good-numbers/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-good-numbers"
   },
@@ -3533,7 +3687,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Reverse a stack using recursion only.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-a-stack"
+  },
   "topics": [
    "Recursion & Backtracking"
   ],
@@ -3567,7 +3723,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Check whether any subsequence sums to k.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-there-exists-a-subsequence-with-sum-k"
+  },
   "topics": [
    "Recursion & Backtracking"
   ],
@@ -3586,7 +3744,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Count subsequences that sum to k.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-all-subsequences-with-sum-k"
+  },
   "topics": [
    "Recursion & Backtracking"
   ],
@@ -3604,7 +3764,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Generate all binary strings of length n with no two adjacent 1s.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/generate-binary-strings-without-consecutive-1s"
+  },
   "topics": [
    "Recursion & Backtracking",
    "Strings"
@@ -3624,6 +3786,7 @@
   "difficulty": "medium",
   "summary": "Find all combinations of candidates (reusable) that sum to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/combination-sum",
    "leetcode": "https://leetcode.com/problems/combination-sum/",
    "video": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49"
   },
@@ -3651,6 +3814,7 @@
   "difficulty": "medium",
   "summary": "Find unique combinations summing to target, each candidate used once.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/combination-sum-ii",
    "leetcode": "https://leetcode.com/problems/combination-sum-ii/",
    "video": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50"
   },
@@ -3675,6 +3839,7 @@
   "difficulty": "medium",
   "summary": "Return the sums of all subsets of an array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/subsets-i",
    "leetcode": "https://leetcode.com/problems/subsets/",
    "video": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52"
   },
@@ -3698,6 +3863,7 @@
   "difficulty": "medium",
   "summary": "Generate all unique subsets of an array that may contain duplicates.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/subsets-ii",
    "leetcode": "https://leetcode.com/problems/subsets-ii/",
    "video": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53"
   },
@@ -3724,6 +3890,7 @@
   "difficulty": "hard",
   "summary": "Find all combinations of k distinct digits 1-9 that sum to n.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/combination-sum-iii",
    "leetcode": "https://leetcode.com/problems/combination-sum-iii/"
   },
   "topics": [
@@ -3746,6 +3913,7 @@
   "difficulty": "hard",
   "summary": "Return all letter strings a phone digit sequence could represent.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/letter-combinations-of-a-phone-number",
    "leetcode": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
   },
   "topics": [
@@ -3770,6 +3938,7 @@
   "difficulty": "hard",
   "summary": "Split a string into all possible lists of palindromic substrings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/palindrome-partitioning",
    "leetcode": "https://leetcode.com/problems/palindrome-partitioning/",
    "video": "https://youtu.be/_H8V5hJUGd0"
   },
@@ -3797,6 +3966,7 @@
   "difficulty": "hard",
   "summary": "Check whether a word can be formed by adjacent cells in a grid without reuse.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/word-search",
    "leetcode": "https://leetcode.com/problems/word-search/"
   },
   "topics": [
@@ -3823,6 +3993,7 @@
   "difficulty": "hard",
   "summary": "Place n queens on an n x n board so none attack each other; list all solutions.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/n-queen",
    "leetcode": "https://leetcode.com/problems/n-queens/",
    "video": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57"
   },
@@ -3849,6 +4020,7 @@
   "difficulty": "hard",
   "summary": "Find all paths for a rat from top-left to bottom-right of a grid maze.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rat-in-a-maze",
    "video": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60"
   },
   "topics": [
@@ -3871,6 +4043,7 @@
   "difficulty": "hard",
   "summary": "Check whether a graph can be coloured with m colours so adjacent nodes differ.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/m-coloring-problem",
    "video": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59"
   },
   "topics": [
@@ -3893,6 +4066,7 @@
   "difficulty": "hard",
   "summary": "Fill a 9x9 Sudoku board using backtracking.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sudoko-solver",
    "leetcode": "https://leetcode.com/problems/sudoku-solver/",
    "video": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58"
   },
@@ -3920,6 +4094,7 @@
   "difficulty": "hard",
   "summary": "Insert +, - and * between digits so the expression evaluates to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/expression-add-operators",
    "leetcode": "https://leetcode.com/problems/expression-add-operators/"
   },
   "topics": [
@@ -3958,7 +4133,9 @@
   "kind": "problem",
   "difficulty": "easy",
   "summary": "Walk a linked list from head to tail.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/traversal-in-linked-list"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4005,6 +4182,7 @@
   "difficulty": "medium",
   "summary": "Delete the head node of a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/deletion-of-the-head-of-ll",
    "leetcode": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
    "video": "https://youtu.be/VaECK03Dz-g?si=CRaBHbOo2bHFbOT5"
   },
@@ -4025,7 +4203,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Delete the last node of a linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/deletion-of-the-tail-of-ll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4043,7 +4223,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Delete the k-th node of a linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/deletion-of-the-kth-element-of-ll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4061,7 +4243,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Delete the first node whose value is x.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-the-element-with-value-x"
+  },
   "topics": [
    "Arrays"
   ],
@@ -4080,6 +4264,7 @@
   "difficulty": "medium",
   "summary": "Insert a new node at the head of a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insertion-at-the-head-of-ll",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-a-node-at-the-beginning-of-a-singly-linked-list",
    "video": "https://youtu.be/VaECK03Dz-g?si=vHSwdf9jhE05adKM&t=1934"
   },
@@ -4100,7 +4285,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Insert a new node at the tail of a linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insertion-at-the-tail-of-ll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4119,6 +4306,7 @@
   "difficulty": "medium",
   "summary": "Insert a node at the k-th position of a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insertion-at-the-kth-position-of-ll",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-node-at-kth-position-in-linked-list"
   },
   "topics": [
@@ -4139,6 +4327,7 @@
   "difficulty": "medium",
   "summary": "Insert a node before the first node with value x.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insertion-before-the-value-x-in-ll",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-node-before-value-x-in-linked-list"
   },
   "topics": [
@@ -4159,6 +4348,7 @@
   "difficulty": "easy",
   "summary": "Count the nodes of a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-length-of-the-linked-list",
    "video": "https://youtu.be/Nq7ok-OyEpg?si=xqQbukLfo2oZ6C6s&t=2240"
   },
   "topics": [
@@ -4179,6 +4369,7 @@
   "difficulty": "medium",
   "summary": "Check whether a value exists in a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-in-linked-list",
    "video": "https://youtu.be/Nq7ok-OyEpg?si=WNXcIaXZ_B6cNq0s&t=2524"
   },
   "topics": [
@@ -4242,7 +4433,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Build a doubly linked list from an array.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/convert-array-to-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4260,7 +4453,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Delete the last node of a doubly linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-tail-of-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4278,7 +4473,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Delete the k-th node of a doubly linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-kth-element-of-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4296,7 +4493,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Remove a given node from a doubly linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/removing-given-node-in-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4315,6 +4514,7 @@
   "difficulty": "medium",
   "summary": "Insert a node before the head of a doubly linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insert-node-before-head-in-dll",
    "video": "https://youtu.be/0eKMU10uEDI?si=J5a0pQTosimcO_aA&t=2684"
   },
   "topics": [
@@ -4334,7 +4534,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Insert a node before the tail of a doubly linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insert-node-before-tail-in-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4352,7 +4554,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Insert a node before the k-th node of a doubly linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insert-node-before-kth-node-in-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4370,7 +4574,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Insert a node before a given node of a doubly linked list.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insert-before-given-node-in-dll"
+  },
   "topics": [
    "Linked List"
   ],
@@ -4389,6 +4595,7 @@
   "difficulty": "medium",
   "summary": "Delete the head of a doubly linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-head-of-dll",
    "video": "https://youtu.be/0eKMU10uEDI?si=sE7jqrW46lfRHVLd&t=853"
   },
   "topics": [
@@ -4409,6 +4616,7 @@
   "difficulty": "medium",
   "summary": "Reverse a doubly linked list in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-a-doubly-linked-list",
    "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
    "video": "https://youtu.be/u3WUW2qe6ww?si=96Wwlju72IvmzkxE"
   },
@@ -4431,6 +4639,7 @@
   "difficulty": "medium",
   "summary": "Add two numbers stored as reversed-digit linked lists.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/add-two-numbers-in-ll",
    "leetcode": "https://leetcode.com/problems/add-two-numbers/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-two-numbers-linked-lists-reverse-order",
    "video": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32"
@@ -4456,6 +4665,7 @@
   "difficulty": "medium",
   "summary": "Group odd-indexed nodes before even-indexed ones, preserving order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/segregate-odd-and-even-nodes-in-ll",
    "leetcode": "https://leetcode.com/problems/odd-even-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/segregate-odd-and-even-nodes-in-linked-list",
    "video": "https://youtu.be/qf6qp7GzD5Q?si=JozAyXUdT8EJMSCQ"
@@ -4479,6 +4689,7 @@
   "difficulty": "medium",
   "summary": "Sort a linked list containing only 0s, 1s and 2s by relinking nodes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sort-a-ll-of-0's-1's-and-2's",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-linked-list-0s-1s-2s-changing-links",
    "video": "https://youtu.be/gRII7LhdJWc?si=l3qRC7w3NhY7OAqw"
   },
@@ -4501,6 +4712,7 @@
   "difficulty": "medium",
   "summary": "Remove the n-th node from the end of a linked list in one pass.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/remove-nth-node-from-the-back-of-the-ll",
    "leetcode": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-the-nth-node-from-the-end-of-a-linked-list",
    "video": "https://youtu.be/3kMKYQ2wNIU?si=DtFDnPU7z9HMz_GM"
@@ -4528,6 +4740,7 @@
   "difficulty": "medium",
   "summary": "Reverse a singly linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-a-ll",
    "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-a-singly-linked-list",
    "video": "https://youtu.be/D2vI2DNJGd8?si=RCaLSx01qR21IBdh"
@@ -4554,6 +4767,7 @@
   "difficulty": "medium",
   "summary": "Add one to a number whose digits are stored in a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/add-one-to-a-number-represented-by-ll",
    "leetcode": "https://leetcode.com/problems/plus-one-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-one-to-number-linked-list",
    "video": "https://youtu.be/aXQWhbvT3w0?si=uRgU9S4r5cVmnUy7"
@@ -4577,6 +4791,7 @@
   "difficulty": "easy",
   "summary": "Return the middle node using slow and fast pointers.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-middle-of-linked-list",
    "leetcode": "https://leetcode.com/problems/middle-of-the-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-middle-of-linked-list",
    "video": "https://youtu.be/7LjQ57RqgEc?si=ir_rRDio38rhamU_"
@@ -4602,6 +4817,7 @@
   "difficulty": "medium",
   "summary": "Delete the middle node of a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-the-middle-node-in-ll",
    "leetcode": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-the-middle-node-of-a-linked-list",
    "video": "https://youtu.be/ePpV-_pfOeI?si=Au9GsZkVO57j6SiN"
@@ -4625,6 +4841,7 @@
   "difficulty": "medium",
   "summary": "Check whether a linked list's values form a palindrome.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-ll-is-palindrome-or-not",
    "leetcode": "https://leetcode.com/problems/palindrome-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-linked-list-is-a-palindrome",
    "video": "https://youtu.be/lRY_G-u_8jk?si=BpM8hRYvXSYyjl-G"
@@ -4650,6 +4867,7 @@
   "difficulty": "medium",
   "summary": "Find the node where two linked lists merge.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-intersection-point-of-y-ll",
    "leetcode": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/intersection-of-two-linked-lists",
    "video": "https://youtu.be/0DYoPz2Tpt4?si=L-uJs5yXUxj4VJM2"
@@ -4674,6 +4892,7 @@
   "difficulty": "medium",
   "summary": "Detect whether a linked list has a cycle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/detect-a-loop-in-ll",
    "leetcode": "https://leetcode.com/problems/linked-list-cycle/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-cycle-linked-list",
    "video": "https://youtu.be/wiOo4DC5GGA?si=zagt6O6tFXc4_3cx"
@@ -4700,6 +4919,7 @@
   "difficulty": "medium",
   "summary": "Return the node where a linked list's cycle begins.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-starting-point-in-ll",
    "leetcode": "https://leetcode.com/problems/linked-list-cycle-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-start-of-cycle-linked-list",
    "video": "https://youtu.be/2Kd0KKmmHFc?si=7UreDPRjRvapeVB0"
@@ -4725,6 +4945,7 @@
   "difficulty": "medium",
   "summary": "Find the number of nodes in a linked list's cycle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/length-of-loop-in-ll",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/length-of-cycle-linked-list",
    "video": "https://youtu.be/I4g1qbkTPus?si=ONktpqewvx57T8pF"
   },
@@ -4747,6 +4968,7 @@
   "difficulty": "hard",
   "summary": "Reverse nodes of a linked list k at a time.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-ll-in-group-of-given-size-k",
    "leetcode": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-linked-list-k-groups",
    "video": "https://youtu.be/lIar1skcQYI?si=_jFghHKX4eaK36a1"
@@ -4773,6 +4995,7 @@
   "difficulty": "medium",
   "summary": "Rotate a linked list to the right by k places.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rotate-a-ll",
    "leetcode": "https://leetcode.com/problems/rotate-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-linked-list-right-k-places",
    "video": "https://youtu.be/uT7YI7XbTY8?si=ZaChW3a68c_v54Is"
@@ -4798,6 +5021,7 @@
   "difficulty": "easy",
   "summary": "Merge two sorted linked lists into one sorted list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-sorted-lists-",
    "leetcode": "https://leetcode.com/problems/merge-two-sorted-lists/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-two-sorted-linked-lists",
    "video": "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29"
@@ -4825,6 +5049,7 @@
   "difficulty": "hard",
   "summary": "Flatten a linked list of sorted child lists into one sorted list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/flattening-of-ll",
    "leetcode": "https://leetcode.com/problems/merge-k-sorted-lists/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-linked-list",
    "video": "https://youtu.be/ykelywHJWLg?si=InMg9MmTHzY22NSR"
@@ -4850,6 +5075,7 @@
   "difficulty": "medium",
   "summary": "Sort a linked list in O(n log n) time (merge sort).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sort-ll",
    "leetcode": "https://leetcode.com/problems/sort-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-a-linked-list-using-merge-sort",
    "video": "https://youtu.be/8ocB7a_c-Cc?si=Gv-Y8q8-WyARoV35"
@@ -4873,6 +5099,7 @@
   "difficulty": "hard",
   "summary": "Deep copy a linked list whose nodes also have a random pointer.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/clone-a-ll-with-random-and-next-pointer",
    "leetcode": "https://leetcode.com/problems/copy-list-with-random-pointer/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/clone-linked-list-random-pointer",
    "video": "https://youtu.be/q570bKdrnlw?si=epZtpWvtNwuTf23o"
@@ -4899,6 +5126,7 @@
   "difficulty": "medium",
   "summary": "Delete every node with a given key from a doubly linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-all-occurrences-of-a-key-in-dll",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-all-occurrences-of-a-key-in-a-doubly-linked-list",
    "video": "https://youtu.be/Mh0NH_SD92k?si=tCYshBRi1upMqSVz"
   },
@@ -4920,6 +5148,7 @@
   "difficulty": "medium",
   "summary": "Remove duplicate values from a sorted doubly linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/remove-duplicated-from-sorted-dll",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-doubly-linked-list",
    "video": "https://youtu.be/YJKVTnOJXSY?si=AsZoNUoewetsBjr0"
   },
@@ -4941,6 +5170,7 @@
   "difficulty": "medium",
   "summary": "Find all pairs in a sorted doubly linked list summing to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-pairs-with-given-sum-in-doubly-linked-list",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-pairs-with-given-sum-in-doubly-linked-list",
    "video": "https://youtu.be/YitR4dQsddE?si=iZAC259hdngV_OxC"
   },
@@ -4978,6 +5208,7 @@
   "difficulty": "easy",
   "summary": "Check whether the i-th bit of a number is 1.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-the-i-th-bit-is-set-or-not",
    "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   "topics": [
@@ -4998,6 +5229,7 @@
   "difficulty": "easy",
   "summary": "Check parity using the lowest bit.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-a-number-is-odd-or-not",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-even-or-odd",
    "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
@@ -5019,6 +5251,7 @@
   "difficulty": "easy",
   "summary": "Check whether n is a power of two with a bit trick.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-a-number-is-power-of-2-or-not",
    "leetcode": "https://leetcode.com/problems/power-of-two/",
    "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
@@ -5040,6 +5273,7 @@
   "difficulty": "easy",
   "summary": "Count the 1 bits in a number.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-the-number-of-set-bits",
    "leetcode": "https://leetcode.com/problems/number-of-1-bits/",
    "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
@@ -5060,7 +5294,9 @@
   "kind": "problem",
   "difficulty": null,
   "summary": "Set the rightmost 0 bit of a number to 1.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/set-the-rightmost-unset-bit"
+  },
   "topics": [],
   "patterns": [],
   "sheets": [
@@ -5075,6 +5311,7 @@
   "difficulty": "easy",
   "summary": "Swap two numbers without a temporary variable (XOR).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/swap-two-numbers",
    "video": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV"
   },
   "topics": [
@@ -5095,6 +5332,7 @@
   "difficulty": "easy",
   "summary": "Count bit flips needed to turn one number into another.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-bit-flips-to-convert-number",
    "leetcode": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
    "video": "https://youtu.be/OOdrmcfZXd8?si=rnkRVz1UiVBKWC69"
   },
@@ -5117,6 +5355,7 @@
   "difficulty": "easy",
   "summary": "Every element appears twice except one; find it.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/single-number---i",
    "leetcode": "https://leetcode.com/problems/single-number/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-number-i",
    "video": "https://youtu.be/bYWLJb3vCWY?t=1369"
@@ -5140,6 +5379,7 @@
   "difficulty": "medium",
   "summary": "Every element appears three times except one; find it.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/single-number---ii",
    "leetcode": "https://leetcode.com/problems/single-number-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-number-ii"
   },
@@ -5164,6 +5404,7 @@
   "difficulty": "hard",
   "summary": "Exactly two elements appear once and the rest twice; find both.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/single-number---iii",
    "leetcode": "https://leetcode.com/problems/single-number-iii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-number-iii",
    "video": "https://youtu.be/UA5JnV1J2sI?si=VFBRJyb3boZvx_r1"
@@ -5188,6 +5429,7 @@
   "difficulty": "medium",
   "summary": "Divide two integers without *, / or %, truncating toward zero.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/divide-two-numbers-without-multiplication-and-division",
    "leetcode": "https://leetcode.com/problems/divide-two-integers/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/divide-two-integers-without-multiplication-division-modulo",
    "video": "https://youtu.be/pBD4B1tzgVc?si=G9c5pEE-RrzeU6sz"
@@ -5210,6 +5452,7 @@
   "difficulty": "medium",
   "summary": "Generate all subsets using bitmasks.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/power-set-bit-manipulation",
    "leetcode": "https://leetcode.com/problems/subsets/",
    "video": "https://youtu.be/LqKaUv1G3_I?si=UXU_T5OsHiokPRvP"
   },
@@ -5232,6 +5475,7 @@
   "difficulty": "medium",
   "summary": "Compute XOR of all integers from L to R in O(1).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/xor-of-numbers-in-a-given-range",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/xor-of-numbers-in-a-range-l-to-r",
    "video": "https://youtu.be/WqGb7159h7Q?si=uGUEbNUUaIN_6Vvr"
   },
@@ -5253,6 +5497,7 @@
   "difficulty": "medium",
   "summary": "Maximize the number of children satisfied by cookies of given sizes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/assign-cookies",
    "leetcode": "https://leetcode.com/problems/assign-cookies/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/assign-cookies",
    "video": "https://youtu.be/DIX2p7vb9co?si=GofAIDimue-Av0Fi"
@@ -5279,6 +5524,7 @@
   "difficulty": "medium",
   "summary": "Decide whether you can give correct change to every customer in line.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lemonade-change",
    "leetcode": "https://leetcode.com/problems/lemonade-change/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lemonade-change",
    "video": "https://youtu.be/n_tmibEhO6Q?si=q1NW8MfPy0QU6fIl"
@@ -5302,6 +5548,7 @@
   "difficulty": "medium",
   "summary": "Maximize value in a knapsack when items can be taken fractionally.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/fractional-knapsack",
    "video": "https://youtu.be/1ibsQrnuEEg?si=8R2By3wpHo0zZVHE"
   },
   "topics": [
@@ -5324,6 +5571,7 @@
   "difficulty": "medium",
   "summary": "Decide whether you can reach the last index given max jump lengths.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/jump-game---i",
    "leetcode": "https://leetcode.com/problems/jump-game/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game",
    "video": "https://youtu.be/tZAa_jJ3SwQ?si=voKd7n9VTLDRRNzJ"
@@ -5351,6 +5599,7 @@
   "difficulty": "medium",
   "summary": "Compute the average waiting time under shortest-job-first scheduling.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/shortest-job-first",
    "video": "https://youtu.be/3-QbX1iDbXs?si=IH8QZUblr01F7UoQ"
   },
   "topics": [
@@ -5372,6 +5621,7 @@
   "difficulty": "medium",
   "summary": "Schedule deadline-bound jobs to maximize total profit.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/job-sequencing-problem",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/job-sequencing-problem",
    "video": "https://youtu.be/QbwltemZbRg?si=wvcemJ5BLPlTRmkG"
   },
@@ -5396,6 +5646,7 @@
   "difficulty": "medium",
   "summary": "Pick the maximum number of non-overlapping meetings in one room.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/n-meetings-in-one-room",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/n-meetings-in-one-room",
    "video": "https://youtu.be/mKfhTotEguk?si=2RELeq18mpmIIN3Q"
   },
@@ -5421,6 +5672,7 @@
   "difficulty": "medium",
   "summary": "Remove the fewest intervals so the rest don't overlap.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/non-overlapping-intervals",
    "leetcode": "https://leetcode.com/problems/non-overlapping-intervals/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/non-overlapping-intervals",
    "video": "https://youtu.be/HDHQ8lAWakY?si=JVtLqboGdpUTOVjf"
@@ -5449,6 +5701,7 @@
   "difficulty": "medium",
   "summary": "Insert an interval into a sorted list of intervals and merge overlaps.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insert-interval",
    "leetcode": "https://leetcode.com/problems/insert-interval/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-interval",
    "video": "https://youtu.be/xxRE-46OCC8?si=a7aPuIw16zDx2lAa"
@@ -5475,6 +5728,7 @@
   "difficulty": "medium",
   "summary": "Merge all overlapping intervals.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-intervals",
    "leetcode": "https://leetcode.com/problems/merge-intervals/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-overlapping-intervals",
    "video": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6"
@@ -5501,6 +5755,7 @@
   "difficulty": "medium",
   "summary": "Find the minimum number of platforms needed so no train waits.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-number-of-platforms-required-for-a-railway",
    "leetcode": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-platforms-required-for-a-railway-station",
    "video": "https://youtu.be/AsGzwR_FWok?si=165acXU_dtqOHuo9"
@@ -5526,6 +5781,7 @@
   "difficulty": "hard",
   "summary": "Check whether a string of (, ) and * can be a valid parenthesis string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/valid-paranthesis-checker",
    "leetcode": "https://leetcode.com/problems/valid-parenthesis-string/",
    "video": "https://youtu.be/cHT6sG_hUZI?si=XRHeyh7jOaLaTy3g"
   },
@@ -5550,6 +5806,7 @@
   "difficulty": "hard",
   "summary": "Give minimum candies so children with higher ratings than neighbours get more.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/candy",
    "leetcode": "https://leetcode.com/problems/candy/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/candy-distribution-problem",
    "video": "https://youtu.be/IIqVFvKE6RY?si=EjmuXZJNLQLUkEd7"
@@ -5576,6 +5833,7 @@
   "difficulty": "hard",
   "summary": "Find the minimum number of jumps to reach the last index.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/jump-game-ii",
    "leetcode": "https://leetcode.com/problems/jump-game-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game-ii-minimum-jumps",
    "video": "https://youtu.be/7SBVnw7GSTk?si=9uUouBELh9K3m2jZ"
@@ -5614,6 +5872,7 @@
   "difficulty": "medium",
   "summary": "Take exactly k cards from either end to maximize the score.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-points-you-can-obtain-from-cards-",
    "leetcode": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-points-you-can-obtain-from-cards",
    "video": "https://youtu.be/pBWCOCS636U?si=-X64rY67noxvOwrG"
@@ -5638,6 +5897,7 @@
   "difficulty": "medium",
   "summary": "Find the longest substring with all distinct characters.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-substring-without-repeating-characters",
    "leetcode": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-without-repeating-characters",
    "video": "https://youtu.be/-zSxTJkcdAo?si=I2zfR-vlDMg0zU9z"
@@ -5665,6 +5925,7 @@
   "difficulty": "medium",
   "summary": "Longest run of 1s if you may flip at most k zeros.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/max-consecutive-ones-iii",
    "leetcode": "https://leetcode.com/problems/max-consecutive-ones-iii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/max-consecutive-ones-iii",
    "video": "https://youtu.be/3E4JBHSLpYk?si=SoOW64pP6otEKxBw"
@@ -5689,6 +5950,7 @@
   "difficulty": "medium",
   "summary": "Longest subarray containing at most two distinct values.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/fruit-into-baskets",
    "leetcode": "https://leetcode.com/problems/fruit-into-baskets/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/fruit-into-baskets",
    "video": "https://youtu.be/e3bs0uA1NhQ?si=gR8pO62u-nJeFAXk"
@@ -5713,6 +5975,7 @@
   "difficulty": "hard",
   "summary": "Longest substring with at most k distinct characters.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-substring-with-at-most-k-distinct-characters",
    "leetcode": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-with-at-most-k-distinct-characters",
    "video": "https://youtu.be/teM9ZsVRQyc?si=Kh0_u6aCkkBU3Q33"
@@ -5739,6 +6002,7 @@
   "difficulty": "hard",
   "summary": "Longest substring of one repeated letter after at most k replacements.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-repeating-character-replacement",
    "leetcode": "https://leetcode.com/problems/longest-repeating-character-replacement/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-repeating-character-replacement",
    "video": "https://youtu.be/_eNhaDCr6P0?si=pBWcEjozF5poom0p"
@@ -5766,6 +6030,7 @@
   "difficulty": "hard",
   "summary": "Smallest substring of s containing every character of t (with counts).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-window-substring-",
    "leetcode": "https://leetcode.com/problems/minimum-window-substring/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-window-substring",
    "video": "https://youtu.be/WJaij9ffOIY?si=-xnsWIH84zWU0ICd"
@@ -5793,6 +6058,7 @@
   "difficulty": "hard",
   "summary": "Smallest substring of s that contains t as a subsequence.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-window-subsequence",
    "leetcode": "https://leetcode.com/problems/minimum-window-subsequence/"
   },
   "topics": [
@@ -5814,6 +6080,7 @@
   "difficulty": "medium",
   "summary": "Count substrings that contain at least one each of a, b and c.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-substrings-containing-all-three-characters",
    "leetcode": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-substrings-containing-all-three-characters-a-b-and-c",
    "video": "https://youtu.be/xtqN4qlgr8s?si=kuaLHVOLXhh5Z2tW"
@@ -5838,6 +6105,7 @@
   "difficulty": "medium",
   "summary": "Count binary subarrays whose sum equals a goal.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/binary-subarrays-with-sum",
    "leetcode": "https://leetcode.com/problems/binary-subarrays-with-sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-subarrays-with-sum",
    "video": "https://youtu.be/XnMdNUkX6VM?si=Nyt8EveeLUg8lmty"
@@ -5864,6 +6132,7 @@
   "difficulty": "hard",
   "summary": "Count subarrays with exactly k odd numbers.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-number-of-nice-subarrays",
    "leetcode": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nice-subarrays",
    "video": "https://youtu.be/j_QOv9OT9Og?si=Oq5-5hyFkzVSOZpP"
@@ -5889,6 +6158,7 @@
   "difficulty": "hard",
   "summary": "Count subarrays with exactly k distinct integers.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/subarrays-with-k-different-integers",
    "leetcode": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
    "video": "https://youtu.be/7wYGbV_LsX4?si=KWa48RgLDCvdNqRb"
   },
@@ -5925,6 +6195,7 @@
   "difficulty": "medium",
   "summary": "Implement push, pop and top of a stack with an array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-stack-using-arrays",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-an-array",
    "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
@@ -5948,6 +6219,7 @@
   "difficulty": "medium",
   "summary": "Implement a queue with an array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-queue-using-arrays",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-an-array",
    "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
@@ -5971,6 +6243,7 @@
   "difficulty": "medium",
   "summary": "Implement a LIFO stack using only queue operations.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-stack-using-queue",
    "leetcode": "https://leetcode.com/problems/implement-stack-using-queues/",
    "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
@@ -5992,6 +6265,7 @@
   "difficulty": "medium",
   "summary": "Implement a FIFO queue using two stacks.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-queue-using-stack",
    "leetcode": "https://leetcode.com/problems/implement-queue-using-stacks/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-stacks",
    "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
@@ -6016,6 +6290,7 @@
   "difficulty": "medium",
   "summary": "Implement a stack with a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-stack-using-linkedlist",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-a-linked-list",
    "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
@@ -6037,6 +6312,7 @@
   "difficulty": "medium",
   "summary": "Implement a queue with a linked list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-queue-using-linkedlist",
    "video": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w"
   },
   "topics": [
@@ -6057,6 +6333,7 @@
   "difficulty": "medium",
   "summary": "Check whether brackets (), {}, [] are balanced and properly nested.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/balanced-paranthesis",
    "leetcode": "https://leetcode.com/problems/valid-parentheses/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-balanced-parentheses-using-a-stack",
    "video": "https://youtu.be/xwjS0iZhw4I?si=UoyKpFn4Q3nf5h2R"
@@ -6083,6 +6360,7 @@
   "difficulty": "medium",
   "summary": "Convert an infix expression to postfix using a stack.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/infix-to-postfix-conversion",
    "video": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
   },
   "topics": [
@@ -6103,6 +6381,7 @@
   "difficulty": "medium",
   "summary": "Convert an infix expression to prefix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/infix-to-prefix-conversion",
    "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
   },
   "topics": [
@@ -6123,6 +6402,7 @@
   "difficulty": "medium",
   "summary": "Convert a prefix expression to fully parenthesized infix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/prefix-to-infix-conversion",
    "video": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh"
   },
   "topics": [
@@ -6143,6 +6423,7 @@
   "difficulty": "medium",
   "summary": "Convert a prefix expression to postfix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/prefix-to-postfix-conversion",
    "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
   },
   "topics": [
@@ -6163,6 +6444,7 @@
   "difficulty": "medium",
   "summary": "Convert a postfix expression to infix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/postfix-to-infix-conversion",
    "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
   },
   "topics": [
@@ -6183,6 +6465,7 @@
   "difficulty": "medium",
   "summary": "Convert a postfix expression to prefix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/postfix-to-prefix-conversion",
    "video": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P"
   },
   "topics": [
@@ -6203,6 +6486,7 @@
   "difficulty": "medium",
   "summary": "For each element, find the next greater element to its right.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/next-greater-element",
    "leetcode": "https://leetcode.com/problems/next-greater-element-i/",
    "video": "https://youtu.be/e7XQLtOQM3I?si=QdcHpTtx6gAHsext"
   },
@@ -6227,6 +6511,7 @@
   "difficulty": "medium",
   "summary": "Next greater element in a circular array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/next-greater-element---2",
    "leetcode": "https://leetcode.com/problems/next-greater-element-ii/",
    "video": "https://youtu.be/7PrncD7v9YQ?si=UkBc7eVy9HGlBpeW"
   },
@@ -6251,6 +6536,7 @@
   "difficulty": "medium",
   "summary": "Simulate collisions of asteroids moving left and right.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/asteroid-collision",
    "leetcode": "https://leetcode.com/problems/asteroid-collision/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/asteroid-collision",
    "video": "https://youtu.be/_eYGqw_VDR4?si=YyxibcHq800RqgIQ"
@@ -6277,6 +6563,7 @@
   "difficulty": "medium",
   "summary": "Sum the minimum of every subarray, mod 1e9+7.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-subarray-minimums",
    "leetcode": "https://leetcode.com/problems/sum-of-subarray-minimums/",
    "video": "https://youtu.be/v0e8p9JCgRc?si=XAU7ekECgS5nboRw"
   },
@@ -6302,6 +6589,7 @@
   "difficulty": "medium",
   "summary": "Sum (max - min) over all subarrays.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sum-of-subarray-ranges",
    "leetcode": "https://leetcode.com/problems/sum-of-subarray-ranges/",
    "video": "https://youtu.be/gIrMptNPf5M?si=Q_GHuBvzZVs27X_U"
   },
@@ -6325,6 +6613,7 @@
   "difficulty": "medium",
   "summary": "Remove k digits from a number to make it as small as possible.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/remove-k-digits",
    "leetcode": "https://leetcode.com/problems/remove-k-digits/",
    "video": "https://youtu.be/jmbuRzYPGrg?si=WN387gwQ7aXWkUao"
   },
@@ -6347,7 +6636,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "For each element, find the next smaller element to its right.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/next-smaller-element"
+  },
   "topics": [
    "Stack & Queues",
    "Arrays"
@@ -6368,6 +6659,7 @@
   "difficulty": "medium",
   "summary": "Design a stack that also returns its minimum in O(1).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-min-stack",
    "leetcode": "https://leetcode.com/problems/min-stack/",
    "video": "https://youtu.be/NdDIaH91P0g?si=4_Jbsq5trFvfSdUY"
   },
@@ -6392,6 +6684,7 @@
   "difficulty": "hard",
   "summary": "Return the maximum of every window of size k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sliding-window-maximum",
    "leetcode": "https://leetcode.com/problems/sliding-window-maximum/",
    "video": "https://youtu.be/NwBvene4Imo?si=eU1PY-bcQfk5wdog"
   },
@@ -6419,6 +6712,7 @@
   "difficulty": "hard",
   "summary": "Compute how much water is trapped between bars after rain.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/trapping-rainwater",
    "leetcode": "https://leetcode.com/problems/trapping-rain-water/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trapping-rain-water",
    "video": "https://youtu.be/1_5VuquLbXg?si=NFG6df318_6OtGvg"
@@ -6446,6 +6740,7 @@
   "difficulty": "hard",
   "summary": "Find the largest rectangle area in a histogram.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/largest-rectangle-in-a-histogram",
    "leetcode": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-rectangle-in-histogram",
    "video": "https://youtu.be/Bzat9vgD0fs?si=DiBlLejXcr6EJoyB"
@@ -6473,6 +6768,7 @@
   "difficulty": "hard",
   "summary": "Find the largest all-1s rectangle in a binary matrix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-rectangles",
    "leetcode": "https://leetcode.com/problems/maximal-rectangle/",
    "video": "https://youtu.be/tOylVCugy9k"
   },
@@ -6497,6 +6793,7 @@
   "difficulty": "medium",
   "summary": "For each day, count consecutive previous days with price <= today's.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/stock-span-problem",
    "leetcode": "https://leetcode.com/problems/online-stock-span/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/stock-span-problem",
    "video": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha"
@@ -6522,6 +6819,7 @@
   "difficulty": "medium",
   "summary": "Find the person everyone knows but who knows no one.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/celebrity-problem",
    "leetcode": "https://leetcode.com/problems/find-the-celebrity/",
    "video": "https://youtu.be/cEadsbTeze4?si=olXYfOs7l-SEn2zl"
   },
@@ -6546,6 +6844,7 @@
   "difficulty": "hard",
   "summary": "Design a least-recently-used cache with O(1) get and put.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lru-cache",
    "leetcode": "https://leetcode.com/problems/lru-cache/",
    "video": "https://www.youtube.com/watch?v=z9bJUPxzFOw"
   },
@@ -6572,6 +6871,7 @@
   "difficulty": "hard",
   "summary": "Design a least-frequently-used cache with O(1) get and put.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lfu-cache",
    "leetcode": "https://leetcode.com/problems/lfu-cache/",
    "video": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79"
   },
@@ -6597,7 +6897,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "For given indices, count elements to the right that are greater.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-greater-elements-to-the-right"
+  },
   "topics": [
    "Stack & Queues",
    "Arrays"
@@ -6633,6 +6935,7 @@
   "difficulty": "easy",
   "summary": "Return the inorder (left, root, right) traversal of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/inorder-traversal",
    "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
    "video": "https://youtu.be/lxTGsVXjwvM"
   },
@@ -6657,6 +6960,7 @@
   "difficulty": "easy",
   "summary": "Return the preorder (root, left, right) traversal of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/preorder-traversal",
    "leetcode": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
    "video": "https://youtu.be/RlUu72JrOCQ"
   },
@@ -6678,6 +6982,7 @@
   "difficulty": "easy",
   "summary": "Return the postorder (left, right, root) traversal of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/postorder-traversal",
    "leetcode": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
    "video": "https://youtu.be/2YBhNLodD8Q"
   },
@@ -6700,6 +7005,7 @@
   "difficulty": "medium",
   "summary": "Return a binary tree's values level by level.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/level-order-traversal",
    "leetcode": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-level-order-traversal",
    "video": "https://youtu.be/EoAsWbO7sqg"
@@ -6726,6 +7032,7 @@
   "difficulty": "medium",
   "summary": "Produce preorder, inorder and postorder in a single stack-based pass.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/pre%2C-post%2C-inorder-in-one-traversal",
    "video": "https://youtu.be/ySp2epYvgTE"
   },
   "topics": [
@@ -6747,6 +7054,7 @@
   "difficulty": "medium",
   "summary": "Find the height of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-depth-in-bt",
    "leetcode": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
    "video": "https://youtu.be/eD3tmO66aBA"
   },
@@ -6772,6 +7080,7 @@
   "difficulty": "medium",
   "summary": "Check whether two binary trees are structurally identical with equal values.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-two-trees-are-identical-or-not",
    "leetcode": "https://leetcode.com/problems/same-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-identical-binary-trees",
    "video": "https://youtu.be/BhuvF_-PWS0"
@@ -6796,6 +7105,7 @@
   "difficulty": "medium",
   "summary": "Check whether every node's subtree heights differ by at most one.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-for-balanced-binary-tree",
    "leetcode": "https://leetcode.com/problems/balanced-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-binary-tree-is-height-balanced",
    "video": "https://youtu.be/Yt50Jfbd8Po"
@@ -6820,6 +7130,7 @@
   "difficulty": "medium",
   "summary": "Find the longest path between any two nodes of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/diameter-of-binary-tree",
    "leetcode": "https://leetcode.com/problems/diameter-of-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
    "video": "https://youtu.be/Rezetez59Nk"
@@ -6846,6 +7157,7 @@
   "difficulty": "hard",
   "summary": "Find the maximum sum of any path in a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-path-sum-",
    "leetcode": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-maximum-path-sum",
    "video": "https://youtu.be/WszrfSwMz58"
@@ -6873,6 +7185,7 @@
   "difficulty": "medium",
   "summary": "Check whether a binary tree is a mirror of itself.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-for-symmetrical-bts",
    "leetcode": "https://leetcode.com/problems/symmetric-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/symmetric-binary-tree",
    "video": "https://www.youtube.com/watch?v=nKggNAiEpBE"
@@ -6897,6 +7210,7 @@
   "difficulty": "medium",
   "summary": "Check (or enforce) that each node equals the sum of its children.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/children-sum-property-in-binary-tree",
    "video": "https://youtu.be/fnmisPM6cVo"
   },
   "topics": [
@@ -6918,6 +7232,7 @@
   "difficulty": "medium",
   "summary": "Level order traversal alternating left-to-right and right-to-left.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/zig-zag-or-spiral-traversal",
    "leetcode": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
    "video": "https://youtu.be/3OXWEdlIGl4"
   },
@@ -6941,6 +7256,7 @@
   "difficulty": "medium",
   "summary": "Return the boundary of a binary tree anticlockwise: left edge, leaves, right edge.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/boundary-traversal",
    "leetcode": "https://leetcode.com/problems/boundary-of-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/boundary-traversal-of-a-binary-tree",
    "video": "https://youtu.be/0ca1nvR0be4"
@@ -6965,6 +7281,7 @@
   "difficulty": "hard",
   "summary": "Return nodes grouped by vertical column, ordered top to bottom.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/vertical-order-traversal",
    "leetcode": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/vertical-order-traversal-of-a-binary-tree",
    "video": "https://youtu.be/q_a6lpbKJdw"
@@ -6990,6 +7307,7 @@
   "difficulty": "medium",
   "summary": "Return the nodes visible when a binary tree is viewed from above.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/top-view-of-bt",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/top-view-of-binary-tree",
    "video": "https://youtu.be/Et9OCDNvJ78"
   },
@@ -7013,6 +7331,7 @@
   "difficulty": "medium",
   "summary": "Return the nodes visible when a binary tree is viewed from below.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/bottom-view-of-bt",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bottom-view-of-binary-tree",
    "video": "https://youtu.be/0FtVY6I4pB8"
   },
@@ -7035,6 +7354,7 @@
   "difficulty": "medium",
   "summary": "Return the nodes visible from the right (or left) side of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/right-left-view-of-bt",
    "leetcode": "https://leetcode.com/problems/binary-tree-right-side-view/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-and-right-views-of-a-binary-tree",
    "video": "https://youtu.be/KV4mRzTjlAk"
@@ -7060,6 +7380,7 @@
   "difficulty": "medium",
   "summary": "List every root-to-leaf path of a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/print-root-to-leaf-path-in-bt",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-root-to-leaf-path-in-binary-tree",
    "video": "https://youtu.be/fmflMqVOC7k"
   },
@@ -7083,6 +7404,7 @@
   "difficulty": "hard",
   "summary": "Find the lowest common ancestor of two nodes in a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lca-in-bt",
    "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lowest-common-ancestor-in-a-binary-tree",
    "video": "https://youtu.be/_-QHfMDde90"
@@ -7109,6 +7431,7 @@
   "difficulty": "hard",
   "summary": "Find the maximum width of any level, counting gaps between end nodes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-width-of-bt",
    "leetcode": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
    "video": "https://youtu.be/ZbybYvcVLks"
   },
@@ -7132,6 +7455,7 @@
   "difficulty": "hard",
   "summary": "Return all nodes exactly k edges away from a target node.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/print-all-nodes-at-a-distance-of-k-in-bt",
    "leetcode": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/nodes-distance-k-binary-tree",
    "video": "https://youtu.be/i9ORlEy6EsI"
@@ -7155,6 +7479,7 @@
   "difficulty": "hard",
   "summary": "Time to burn a whole tree when fire spreads to neighbours each second.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-time-taken-to-burn-the-bt-from-a-given-node",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-time-burn-binary-tree",
    "video": "https://youtu.be/2r5wLmQfD6g"
   },
@@ -7178,6 +7503,7 @@
   "difficulty": "medium",
   "summary": "Count nodes of a complete binary tree in less than O(n).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-total-nodes-in-a-complete-bt",
    "leetcode": "https://leetcode.com/problems/count-complete-tree-nodes/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nodes-in-a-complete-binary-tree",
    "video": "https://youtu.be/u-yWemKGWO0"
@@ -7200,6 +7526,7 @@
   "difficulty": "hard",
   "summary": "Flatten a binary tree in place into a preorder right-skewed list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/flatten-binary-tree-to-linked-list",
    "leetcode": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-binary-tree-to-linked-list",
    "video": "https://youtu.be/sWf7k1x9XR4"
@@ -7225,6 +7552,7 @@
   "difficulty": "medium",
   "summary": "Which traversal pairs uniquely determine a binary tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/requirements-needed-to-construct-a-unique-bt",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/requirements-needed-to-construct-a-unique-binary-tree",
    "video": "https://youtu.be/9GMECGQgWrQ"
   },
@@ -7246,6 +7574,7 @@
   "difficulty": "medium",
   "summary": "Build a binary tree from its preorder and inorder traversals.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/construct-a-bt-from-preorder-and-inorder",
    "leetcode": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-binary-tree-from-preorder-and-inorder",
    "video": "https://youtu.be/aZNaLrVebKQ"
@@ -7273,6 +7602,7 @@
   "difficulty": "medium",
   "summary": "Build a binary tree from its postorder and inorder traversals.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/construct-a-bt-from-postorder-and-inorder",
    "leetcode": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
    "video": "https://youtu.be/LgLRTaEMRVc"
   },
@@ -7296,6 +7626,7 @@
   "difficulty": "hard",
   "summary": "Encode a binary tree to a string and decode it back.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/serialize-and-de-serialize-bt",
    "leetcode": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/serialize-and-deserialize-a-binary-tree",
    "video": "https://youtu.be/-YbXySKJsX8"
@@ -7323,6 +7654,7 @@
   "difficulty": "hard",
   "summary": "Inorder traversal in O(1) extra space using threaded links.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/morris-inorder-traversal-",
    "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/morris-inorder-traversal",
    "video": "https://youtu.be/80Zug6D1_r4"
@@ -7347,6 +7679,7 @@
   "difficulty": "hard",
   "summary": "Preorder traversal in O(1) extra space using threaded links.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/morris-preorder-traversal-",
    "leetcode": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/morris-preorder-traversal",
    "video": "https://youtu.be/80Zug6D1_r4"
@@ -7386,6 +7719,7 @@
   "difficulty": "easy",
   "summary": "Find the node with a given value in a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/search-in-bst",
    "leetcode": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-a-binary-search-tree",
    "video": "https://youtu.be/KcNt6v_56cc"
@@ -7410,6 +7744,7 @@
   "difficulty": "medium",
   "summary": "Find the floor and ceil of a key in a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/floor-and-ceil-in-a-bst",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/floor-and-ceil-in-a-bst",
    "video": "https://www.youtube.com/watch?v=xm_W1ub-K-w&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=43"
   },
@@ -7430,7 +7765,9 @@
   "kind": "problem",
   "difficulty": null,
   "summary": "Find the minimum and maximum values in a BST.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-and-maximum-in-bst"
+  },
   "topics": [],
   "patterns": [],
   "sheets": [
@@ -7445,6 +7782,7 @@
   "difficulty": "medium",
   "summary": "Insert a value into a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/insert-a-given-node-in-bst",
    "leetcode": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-into-a-binary-search-tree",
    "video": "https://youtu.be/FiFiNvM29ps"
@@ -7469,6 +7807,7 @@
   "difficulty": "medium",
   "summary": "Delete a key from a BST, keeping it valid.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-a-node-in-bst",
    "leetcode": "https://leetcode.com/problems/delete-node-in-a-bst/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-node-in-a-bst",
    "video": "https://youtu.be/kouxiP_H5WE"
@@ -7493,6 +7832,7 @@
   "difficulty": "medium",
   "summary": "Find the k-th smallest and k-th largest values in a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kth-smallest-and-largest-element-in-bst",
    "leetcode": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-smallest-and-largest-elements-in-a-bst",
    "video": "https://youtu.be/9TJYWh0adfk"
@@ -7518,6 +7858,7 @@
   "difficulty": "medium",
   "summary": "Validate whether a binary tree is a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-a-tree-is-a-bst-or-not",
    "leetcode": "https://leetcode.com/problems/validate-binary-search-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/validate-binary-search-tree",
    "video": "https://youtu.be/f-sj7I5oXEI"
@@ -7546,6 +7887,7 @@
   "difficulty": "medium",
   "summary": "Find the lowest common ancestor of two nodes in a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/lca-in-bst",
    "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lowest-common-ancestor-of-a-binary-search-tree",
    "video": "https://youtu.be/cX_kPV_foZc"
@@ -7572,6 +7914,7 @@
   "difficulty": "medium",
   "summary": "Build a BST from its preorder traversal.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/construct-a-bst-from-a-preorder-traversal",
    "leetcode": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-bst-from-preorder-traversal",
    "video": "https://youtu.be/UmJT3j26t1I"
@@ -7596,6 +7939,7 @@
   "difficulty": "medium",
   "summary": "Find the inorder successor and predecessor of a key in a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/inorder-successor-and-predecessor-in-bst",
    "leetcode": "https://leetcode.com/problems/inorder-successor-in-bst/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/inorder-successor-and-predecessor-in-a-bst",
    "video": "https://youtu.be/SXKAD2svfmI"
@@ -7620,6 +7964,7 @@
   "difficulty": "medium",
   "summary": "Design an iterator returning BST values in ascending order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/bst-iterator",
    "leetcode": "https://leetcode.com/problems/binary-search-tree-iterator/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-tree-iterator",
    "video": "https://youtu.be/D2jMcmxU4bs"
@@ -7644,6 +7989,7 @@
   "difficulty": "medium",
   "summary": "Check whether two BST nodes sum to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/two-sum-in-bst",
    "leetcode": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/two-sum-in-bst",
    "video": "https://youtu.be/ssL3sHwPeb4"
@@ -7668,6 +8014,7 @@
   "difficulty": "hard",
   "summary": "Two nodes of a BST were swapped; restore it without changing structure.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/correct-bst-with-two-nodes-swapped",
    "leetcode": "https://leetcode.com/problems/recover-binary-search-tree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/recover-binary-search-tree",
    "video": "https://youtu.be/ZWGW7FminDM"
@@ -7692,6 +8039,7 @@
   "difficulty": "hard",
   "summary": "Find the size of the largest subtree that is a BST.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/largest-bst-in-binary-tree",
    "leetcode": "https://leetcode.com/problems/largest-bst-subtree/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-bst-in-binary-tree",
    "video": "https://youtu.be/X0oXMdtUDwo"
@@ -7728,7 +8076,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Restore the heap property by sifting a node down or up.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/heapify-algorithm"
+  },
   "topics": [
    "Heaps"
   ],
@@ -7748,7 +8098,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Turn an array into a heap in O(n).",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/build-heap-from-a-given-array"
+  },
   "topics": [
    "Heaps",
    "Arrays"
@@ -7769,7 +8121,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Implement insert, extract-min and peek for a min-heap.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-min-heap"
+  },
   "topics": [
    "Heaps"
   ],
@@ -7788,7 +8142,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Implement insert, extract-max and peek for a max-heap.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-max-heap"
+  },
   "topics": [
    "Heaps"
   ],
@@ -7808,7 +8164,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Check whether an array satisfies the min-heap property.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/check-if-an-array-represents-a-min-heap-"
+  },
   "topics": [
    "Heaps"
   ],
@@ -7826,7 +8184,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Convert a min-heap array into a max-heap.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/convert-min-heap-to-max-heap"
+  },
   "topics": [
    "Heaps"
   ],
@@ -7845,6 +8205,7 @@
   "difficulty": "hard",
   "summary": "Sort an array using a heap.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/heap-sort",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/heap-sort"
   },
   "topics": [
@@ -7868,6 +8229,7 @@
   "difficulty": "hard",
   "summary": "Find the k-th largest element in an unsorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/k-th-largest-element-in-an-array",
    "leetcode": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/k-th-largest-element-in-an-array"
   },
@@ -7895,6 +8257,7 @@
   "difficulty": "hard",
   "summary": "Return the k-th largest element after each insertion in a stream.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kth-largest-element-in-a-stream-of-running-integers",
    "leetcode": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-largest-element-stream"
   },
@@ -7934,6 +8297,7 @@
   "difficulty": "hard",
   "summary": "Merge k sorted linked lists into one sorted list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-k-sorted-lists",
    "leetcode": "https://leetcode.com/problems/merge-k-sorted-lists/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-k-sorted-linked-lists"
   },
@@ -7957,6 +8321,7 @@
   "difficulty": "medium",
   "summary": "Replace each element with its rank among distinct values.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/replace-elements-by-their-rank",
    "leetcode": "https://leetcode.com/problems/rank-transform-of-an-array/"
   },
   "topics": [
@@ -7978,6 +8343,7 @@
   "difficulty": "medium",
   "summary": "Minimum time to run tasks when identical tasks need n idle slots between them.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/task-scheduler",
    "leetcode": "https://leetcode.com/problems/task-scheduler/"
   },
   "topics": [
@@ -8003,6 +8369,7 @@
   "difficulty": "medium",
   "summary": "Check whether cards can be grouped into runs of consecutive values of size k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/hand-of-straights",
    "leetcode": "https://leetcode.com/problems/hand-of-straights/"
   },
   "topics": [
@@ -8026,6 +8393,7 @@
   "difficulty": "medium",
   "summary": "Design post, follow/unfollow and a 10-most-recent news feed.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/design-twitter",
    "leetcode": "https://leetcode.com/problems/design-twitter/"
   },
   "topics": [
@@ -8048,6 +8416,7 @@
   "difficulty": "medium",
   "summary": "Join sticks pairwise at cost equal to their sum; minimize total cost.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-cost-to-connect-sticks",
    "leetcode": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/"
   },
   "topics": [
@@ -8069,7 +8438,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Return the top k sums formed by one element from each of two arrays.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-sum-combination"
+  },
   "topics": [
    "Heaps",
    "Mathematics"
@@ -8091,6 +8462,7 @@
   "difficulty": "hard",
   "summary": "Support adding numbers and querying the running median.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-median-from-data-stream",
    "leetcode": "https://leetcode.com/problems/find-median-from-data-stream/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-median-data-stream"
   },
@@ -8116,6 +8488,7 @@
   "difficulty": "medium",
   "summary": "Return the k most frequent elements.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/top-k-frequent-elements",
    "leetcode": "https://leetcode.com/problems/top-k-frequent-elements/"
   },
   "topics": [
@@ -8158,6 +8531,7 @@
   "difficulty": "medium",
   "summary": "Breadth-first and depth-first traversal of graphs.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/traversal-techniques",
    "video": "https://youtu.be/Qzf1a--rhp8"
   },
   "topics": [
@@ -8179,6 +8553,7 @@
   "difficulty": "medium",
   "summary": "Count connected components in an undirected graph.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/connected-components",
    "leetcode": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/"
   },
   "topics": [
@@ -8201,6 +8576,7 @@
   "difficulty": "medium",
   "summary": "Count groups of directly or indirectly connected cities.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-provinces",
    "leetcode": "https://leetcode.com/problems/number-of-provinces/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-provinces",
    "video": "https://youtu.be/ACzkVtewUYA"
@@ -8224,6 +8600,7 @@
   "difficulty": "medium",
   "summary": "Count islands of 1s in a grid connected horizontally or vertically.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-islands",
    "leetcode": "https://leetcode.com/problems/number-of-islands/",
    "video": "https://www.youtube.com/watch?v=muncqlKJrH0&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=8"
   },
@@ -8249,6 +8626,7 @@
   "difficulty": "medium",
   "summary": "Recolour the connected region of a starting pixel.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/flood-fill-algorithm",
    "leetcode": "https://leetcode.com/problems/flood-fill/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flood-fill-algorithm"
   },
@@ -8272,6 +8650,7 @@
   "difficulty": "medium",
   "summary": "Count land cells that cannot reach the grid boundary.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-enclaves",
    "leetcode": "https://leetcode.com/problems/number-of-enclaves/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-enclaves",
    "video": "https://youtu.be/rxKcepXQgU4"
@@ -8296,6 +8675,7 @@
   "difficulty": "medium",
   "summary": "Minimum minutes until all oranges rot when rot spreads to neighbours.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rotten-oranges",
    "leetcode": "https://leetcode.com/problems/rotting-oranges/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotting-oranges",
    "video": "https://www.youtube.com/watch?v=yf3oUhkvqA0"
@@ -8323,6 +8703,7 @@
   "difficulty": "medium",
   "summary": "For each cell, distance to the nearest cell containing 1.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/distance-of-nearest-cell-having-one",
    "leetcode": "https://leetcode.com/problems/01-matrix/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/distance-of-the-nearest-cell-having-1-in-a-binary-matrix",
    "video": "https://youtu.be/edXdVwkYHF8"
@@ -8346,6 +8727,7 @@
   "difficulty": "medium",
   "summary": "Capture all O regions not connected to the border by flipping them to X.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/surrounded-regions",
    "leetcode": "https://leetcode.com/problems/surrounded-regions/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/surrounded-regions",
    "video": "https://youtu.be/BtdgAys4yMk"
@@ -8371,6 +8753,7 @@
   "difficulty": "medium",
   "summary": "Count islands with distinct shapes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-distinct-islands",
    "leetcode": "https://leetcode.com/problems/number-of-distinct-islands/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-distinct-islands"
   },
@@ -8395,6 +8778,7 @@
   "difficulty": "medium",
   "summary": "Detect a cycle in an undirected graph using BFS or DFS.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/detect-a-cycle-in-an-undirected-graph",
    "leetcode": "https://leetcode.com/problems/course-schedule/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-an-undirected-graph",
    "video": "https://youtu.be/zQ3zgFypzX4"
@@ -8419,6 +8803,7 @@
   "difficulty": "medium",
   "summary": "Check whether a graph can be 2-coloured.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/bipartite-graph",
    "leetcode": "https://leetcode.com/problems/is-graph-bipartite/",
    "video": "https://youtu.be/KG5YFfR0j8A"
   },
@@ -8444,6 +8829,7 @@
   "difficulty": "medium",
   "summary": "Order a DAG's nodes so every edge goes forward (DFS or Kahn's BFS).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/topological-sort-or-kahns-algorithm",
    "video": "https://youtu.be/5lZ0iJMrUMk"
   },
   "topics": [
@@ -8465,6 +8851,7 @@
   "difficulty": "medium",
   "summary": "Detect a cycle in a directed graph.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/detect-a-cycle-in-a-directed-graph",
    "leetcode": "https://leetcode.com/problems/course-schedule/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-a-directed-graph",
    "video": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12"
@@ -8488,6 +8875,7 @@
   "difficulty": "hard",
   "summary": "Find nodes from which every path leads to a terminal node.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-eventual-safe-states",
    "leetcode": "https://leetcode.com/problems/find-eventual-safe-states/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-eventual-safe-states",
    "video": "https://youtu.be/2gtg3VsDGyc"
@@ -8511,6 +8899,7 @@
   "difficulty": "hard",
   "summary": "Decide whether all courses can be finished given prerequisites.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/course-schedule-i",
    "leetcode": "https://leetcode.com/problems/course-schedule/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/course-schedule-i",
    "video": "https://youtu.be/WAOfKpxYHR8"
@@ -8535,6 +8924,7 @@
   "difficulty": "hard",
   "summary": "Return a valid order to take all courses, or empty if impossible.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/course-schedule-ii",
    "leetcode": "https://leetcode.com/problems/course-schedule-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/course-schedule-ii",
    "video": "https://youtu.be/WAOfKpxYHR8"
@@ -8560,6 +8950,7 @@
   "difficulty": "hard",
   "summary": "Derive a character order from words sorted in an alien language.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/alient-dictionary",
    "leetcode": "https://leetcode.com/problems/alien-dictionary/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/alien-dictionary",
    "video": "https://youtu.be/U3N_je7tWAs"
@@ -8586,6 +8977,7 @@
   "difficulty": "medium",
   "summary": "Shortest paths from a source in a weighted DAG via topological order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/shortest-path-in-dag",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-a-directed-acyclic-graph-dag",
    "video": "https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27"
   },
@@ -8608,6 +9000,7 @@
   "difficulty": "medium",
   "summary": "Shortest distances from a source in an unweighted graph using BFS.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/shortest-path-in-undirected-graph-with-unit-weights",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-an-unweighted-undirected-graph-using-bfs",
    "video": "https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28"
   },
@@ -8630,6 +9023,7 @@
   "difficulty": "hard",
   "summary": "Length of the shortest one-letter-change transformation sequence between two words.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/word-ladder-i",
    "leetcode": "https://leetcode.com/problems/word-ladder/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder",
    "video": "https://youtu.be/tRPda0rcf8E"
@@ -8656,6 +9050,7 @@
   "difficulty": "hard",
   "summary": "Return all shortest transformation sequences between two words.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/word-ladder-ii",
    "leetcode": "https://leetcode.com/problems/word-ladder-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder-ii",
    "video": "https://youtu.be/AD4SFl7tu7I?si=EpcJQTWm2YeURvEG"
@@ -8683,6 +9078,7 @@
   "difficulty": "medium",
   "summary": "Single-source shortest paths in a graph with non-negative weights.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/dijkstra's-algorithm",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/dijkstras-algorithm",
    "video": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35"
   },
@@ -8710,6 +9106,7 @@
   "difficulty": "medium",
   "summary": "Return the actual shortest path between two nodes in a weighted graph.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/print-shortest-path-",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-shortest-path"
   },
   "topics": [
@@ -8731,6 +9128,7 @@
   "difficulty": "medium",
   "summary": "Shortest clear path from top-left to bottom-right in a binary grid.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/shortest-path-with-minimum-effort",
    "leetcode": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-distance-binary-maze",
    "video": "https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36"
@@ -8755,6 +9153,7 @@
   "difficulty": "medium",
   "summary": "Find a route minimizing the maximum height difference between consecutive cells.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/path-with-minimum-effort",
    "leetcode": "https://leetcode.com/problems/path-with-minimum-effort/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/path-with-minimum-effort",
    "video": "https://youtu.be/0ytpZyiZFhA"
@@ -8780,6 +9179,7 @@
   "difficulty": "hard",
   "summary": "Cheapest flight from source to destination using at most k stops.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/cheapest-flight-within-k-stops",
    "leetcode": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/cheapest-flights-within-k-stops",
    "video": "https://youtu.be/9XybHVqTHcQ"
@@ -8806,6 +9206,7 @@
   "difficulty": "hard",
   "summary": "Fewest multiplications (mod 100000) to turn start into end.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-multiplications-to-reach-end",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-multiplications-to-reach-end",
    "video": "https://www.youtube.com/watch?v=_BvEJ3VIDWw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=39"
   },
@@ -8827,6 +9228,7 @@
   "difficulty": "hard",
   "summary": "Count the shortest-time paths from node 0 to n-1.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-ways-to-arrive-at-destination",
    "leetcode": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-ways-to-arrive-at-destination",
    "video": "https://youtu.be/_-0mx0SmYxA"
@@ -8850,6 +9252,7 @@
   "difficulty": "hard",
   "summary": "Shortest paths with negative edges, detecting negative cycles.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/bellman-ford-algorithm",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bellman-ford-algorithm",
    "video": "https://youtu.be/0vVofAhAYjc"
   },
@@ -8873,6 +9276,7 @@
   "difficulty": "hard",
   "summary": "All-pairs shortest paths.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/floyd-warshall-algorithm",
    "video": "https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42"
   },
   "topics": [
@@ -8894,6 +9298,7 @@
   "difficulty": "hard",
   "summary": "City with fewest others reachable within a distance threshold.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-city-with-the-smallest-number-of-neighbors",
    "leetcode": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-city-smallest-number-neighbors-threshold-distance",
    "video": "https://youtu.be/9XybHVqTHcQ"
@@ -8917,6 +9322,7 @@
   "difficulty": "medium",
   "summary": "Time for a signal from one node to reach all nodes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/network-delay-time",
    "leetcode": "https://leetcode.com/problems/network-delay-time/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/network-delay-time"
   },
@@ -8940,6 +9346,7 @@
   "difficulty": "hard",
   "summary": "Earliest time you can swim from top-left to bottom-right as water rises.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/swim-in-rising-water",
    "leetcode": "https://leetcode.com/problems/swim-in-rising-water/"
   },
   "topics": [
@@ -8978,6 +9385,7 @@
   "difficulty": "medium",
   "summary": "Union-Find with path compression and union by rank/size.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/disjoint-set-",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/disjoint-set-union",
    "video": "https://youtu.be/aBxjDBC4M1U"
   },
@@ -9001,6 +9409,7 @@
   "difficulty": "medium",
   "summary": "Compute the total weight of a minimum spanning tree (Prim's / Kruskal's).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-mst-weight",
    "leetcode": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-mst-weight",
    "video": "https://youtu.be/mJcZjjKzeqk"
@@ -9026,6 +9435,7 @@
   "difficulty": "medium",
   "summary": "Fewest cable moves to connect all computers.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-operations-to-make-network-connected",
    "leetcode": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
    "video": "https://youtu.be/FYrl7iz9_ZU"
   },
@@ -9048,6 +9458,7 @@
   "difficulty": "medium",
   "summary": "Merge accounts that share any email address.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/accounts-merge",
    "leetcode": "https://leetcode.com/problems/accounts-merge/",
    "video": "https://youtu.be/FMwpt_aQOGw"
   },
@@ -9073,6 +9484,7 @@
   "difficulty": "hard",
   "summary": "Count islands after each land addition in a grid.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-islands-ii",
    "leetcode": "https://leetcode.com/problems/number-of-islands-ii/",
    "video": "https://youtu.be/Rn6B-Q4SNyA"
   },
@@ -9097,6 +9509,7 @@
   "difficulty": "hard",
   "summary": "Largest island possible after changing at most one 0 to 1.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/making-a-large-island",
    "leetcode": "https://leetcode.com/problems/making-a-large-island/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/making-a-large-island",
    "video": "https://youtu.be/lgiz0Oup6gM"
@@ -9123,6 +9536,7 @@
   "difficulty": "hard",
   "summary": "Maximum stones removable when each removed stone shares a row or column with another.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/most-stones-removed-with-same-row-or-column",
    "leetcode": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/most-stones-removed-same-row-column",
    "video": "https://youtu.be/OwMNX8SPavM"
@@ -9147,6 +9561,7 @@
   "difficulty": "hard",
   "summary": "Find strongly connected components with two DFS passes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kosaraju's-algorithm",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kosarajus-algorithm",
    "video": "https://www.youtube.com/watch?v=V8qIqJxCioo&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=27"
   },
@@ -9169,6 +9584,7 @@
   "difficulty": "hard",
   "summary": "Find edges whose removal disconnects the graph.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/bridges-in-graph",
    "leetcode": "https://leetcode.com/problems/critical-connections-in-a-network/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bridges-in-graph-tarjan-algorithm",
    "video": "https://youtu.be/qrAub5z8FeA"
@@ -9193,6 +9609,7 @@
   "difficulty": "hard",
   "summary": "Find vertices whose removal disconnects the graph.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/articulation-point-in-graph",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/articulation-points-in-graph",
    "video": "https://youtu.be/j1QDfU21iZk"
   },
@@ -9231,6 +9648,7 @@
   "difficulty": "medium",
   "summary": "Count ways to climb n stairs taking 1 or 2 steps at a time.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/climbing-stairs",
    "leetcode": "https://leetcode.com/problems/climbing-stairs/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/climbing-stairs",
    "video": "https://youtu.be/mLfjzJsN8us"
@@ -9256,6 +9674,7 @@
   "difficulty": "medium",
   "summary": "Minimum energy for a frog jumping 1 or 2 steps, cost = height difference.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/frog-jump",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-minimum-energy",
    "video": "https://www.youtube.com/watch?v=EgG3jsGoPvQ"
   },
@@ -9278,6 +9697,7 @@
   "difficulty": "medium",
   "summary": "Frog jump where the frog can jump up to k steps.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/frog-jump-with-k-distances",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-with-k-distances",
    "video": "https://www.youtube.com/watch?v=Kmh3rhyEtB8"
   },
@@ -9301,6 +9721,7 @@
   "difficulty": "medium",
   "summary": "Maximum sum of array elements with no two adjacent picked.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-sum-of-non-adjacent-elements",
    "leetcode": "https://leetcode.com/problems/house-robber/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-sum-of-non-adjacent-elements",
    "video": "https://www.youtube.com/watch?v=GrMBfJNk_NY"
@@ -9325,6 +9746,7 @@
   "difficulty": "medium",
   "summary": "Maximize money robbed from houses without robbing two adjacent ones.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/house-robber",
    "leetcode": "https://leetcode.com/problems/house-robber/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/house-robber-ii",
    "video": "https://www.youtube.com/watch?v=3WaxQMELSkw"
@@ -9352,6 +9774,7 @@
   "difficulty": "medium",
   "summary": "Maximize points over days without repeating the same activity on consecutive days.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/ninja's-training",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/ninjas-training",
    "video": "https://www.youtube.com/watch?v=AE39gJYuRog"
   },
@@ -9375,6 +9798,7 @@
   "difficulty": "medium",
   "summary": "Count paths from top-left to bottom-right moving only right or down.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/grid-unique-paths",
    "leetcode": "https://leetcode.com/problems/unique-paths/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/grid-unique-paths",
    "video": "https://www.youtube.com/watch?v=sdE0A2Oxofw"
@@ -9401,6 +9825,7 @@
   "difficulty": "hard",
   "summary": "Count grid paths moving right or down while avoiding obstacles.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/unique-paths-ii",
    "leetcode": "https://leetcode.com/problems/unique-paths-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/unique-paths-ii-obstacles",
    "video": "https://www.youtube.com/watch?v=TmhpgXScLyY"
@@ -9425,6 +9850,7 @@
   "difficulty": "medium",
   "summary": "Minimum sum of a path falling row by row to adjacent columns.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-falling-path-sum",
    "leetcode": "https://leetcode.com/problems/minimum-falling-path-sum/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-falling-path-sum",
    "video": "https://youtu.be/_rgTlyky1uQ"
@@ -9449,6 +9875,7 @@
   "difficulty": "medium",
   "summary": "Minimum path sum from top to bottom of a triangle.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/triangle",
    "leetcode": "https://leetcode.com/problems/triangle/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/triangle-minimum-path-sum",
    "video": "https://www.youtube.com/watch?v=SrP-PiLSYC0"
@@ -9473,6 +9900,7 @@
   "difficulty": "hard",
   "summary": "Two robots move down a grid collecting cherries; maximize the total.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/cherry-pickup-ii",
    "leetcode": "https://leetcode.com/problems/cherry-pickup-ii/"
   },
   "topics": [
@@ -9495,6 +9923,7 @@
   "difficulty": null,
   "summary": "Count square submatrices made entirely of 1s.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-square-submatrices-with-all-one",
    "leetcode": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
    "video": "https://youtu.be/auS1fynpnjo"
   },
@@ -9512,6 +9941,7 @@
   "difficulty": "medium",
   "summary": "Maximize profit from one buy followed by one sell.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock",
    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock",
    "video": "https://youtu.be/excAOvwF_Wk"
@@ -9537,6 +9967,7 @@
   "difficulty": "medium",
   "summary": "Maximize profit with unlimited transactions.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-ii",
    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-ii",
    "video": "https://youtu.be/nGJmxkUJQGs"
@@ -9561,6 +9992,7 @@
   "difficulty": "hard",
   "summary": "Maximize profit with at most two transactions.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-iii",
    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-iii",
    "video": "https://youtu.be/-uQGzhYj8BQ"
@@ -9585,6 +10017,7 @@
   "difficulty": "hard",
   "summary": "Maximize profit with at most k transactions.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-iv",
    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-iv",
    "video": "https://youtu.be/IV1dHbk5CDc"
@@ -9609,6 +10042,7 @@
   "difficulty": "medium",
   "summary": "Maximize profit with unlimited transactions and a fee per transaction.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-transaction-fee",
    "video": "https://youtu.be/k4eK-vEmnKg"
@@ -9634,6 +10068,7 @@
   "difficulty": "medium",
   "summary": "Maximize profit when you must wait a day after selling before buying.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/best-time-to-buy-and-sell-stock-with-cooldown",
    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-cooldown",
    "video": "https://youtu.be/IGIe46xw3YY"
@@ -9657,6 +10092,7 @@
   "difficulty": "medium",
   "summary": "Decide whether some subset sums to a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/subset-sum-equals-to-target",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/subset-sum-equal-to-target",
    "video": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52"
   },
@@ -9680,6 +10116,7 @@
   "difficulty": "medium",
   "summary": "Decide whether an array can be split into two equal-sum subsets.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/partition-equal-subset-sum",
    "leetcode": "https://leetcode.com/problems/partition-equal-subset-sum/",
    "video": "https://www.youtube.com/watch?v=7win3dcgo3k"
   },
@@ -9703,6 +10140,7 @@
   "difficulty": "hard",
   "summary": "Split an array into two subsets minimizing the difference of their sums.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
    "leetcode": "https://leetcode.com/problems/last-stone-weight-ii/",
    "video": "https://www.youtube.com/watch?v=GS_OqZb2CWc"
   },
@@ -9725,6 +10163,7 @@
   "difficulty": "medium",
   "summary": "Count subsets that sum to k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-subsets-with-sum-k",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subsets-with-sum-k",
    "video": "https://www.youtube.com/watch?v=ZHyb-A2Mte4"
   },
@@ -9746,6 +10185,7 @@
   "difficulty": "medium",
   "summary": "Count ways to split into two subsets whose sums differ by d.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-partitions-with-given-difference",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-partitions-with-a-given-difference",
    "video": "https://www.youtube.com/watch?v=zoilQD1kYSg"
   },
@@ -9768,6 +10208,7 @@
   "difficulty": "medium",
   "summary": "Maximize value in a knapsack where each item is taken whole or not at all.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/0-and-1-knapsack",
    "video": "https://youtu.be/GqOmJHQZivw"
   },
   "topics": [
@@ -9792,6 +10233,7 @@
   "difficulty": "medium",
   "summary": "Fewest coins (unlimited supply) to make an amount.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-coins",
    "leetcode": "https://leetcode.com/problems/coin-change/",
    "video": "https://www.youtube.com/watch?v=myPeWb3Y68A"
   },
@@ -9817,6 +10259,7 @@
   "difficulty": "medium",
   "summary": "Count ways to assign + or - to each number to reach a target.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/target-sum",
    "leetcode": "https://leetcode.com/problems/target-sum/",
    "video": "https://www.youtube.com/watch?v=b3GD8263-PQ"
   },
@@ -9842,6 +10285,7 @@
   "difficulty": "hard",
   "summary": "Count combinations of coins (unlimited supply) that make an amount.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/coin-change-ii",
    "leetcode": "https://leetcode.com/problems/coin-change-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/coin-change-ii-combinations",
    "video": "https://www.youtube.com/watch?v=HgyouUi11zk"
@@ -9868,6 +10312,7 @@
   "difficulty": "medium",
   "summary": "Knapsack where each item can be taken any number of times.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/unbounded-knapsack",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/unbounded-knapsack",
    "video": "https://youtu.be/OgvOZ6OrJoY"
   },
@@ -9890,6 +10335,7 @@
   "difficulty": "hard",
   "summary": "Cut a rod into pieces to maximize total price.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rod-cutting-problem",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rod-cutting-problem",
    "video": "https://youtu.be/mO8XpGoJwuo"
   },
@@ -9913,6 +10359,7 @@
   "difficulty": "medium",
   "summary": "Length of the longest strictly increasing subsequence.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-increasing-subsequence",
    "leetcode": "https://leetcode.com/problems/longest-increasing-subsequence/",
    "video": "https://youtu.be/on2hvxBXJH4"
   },
@@ -9942,6 +10389,7 @@
   "difficulty": "hard",
   "summary": "Return one longest increasing subsequence itself.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/print-longest-increasing-subsequence",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-longest-increasing-subsequence",
    "video": "https://youtu.be/IFfYfonAFGc"
   },
@@ -9963,6 +10411,7 @@
   "difficulty": "medium",
   "summary": "Largest subset where every pair divides one another.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/largest-divisible-subset",
    "leetcode": "https://leetcode.com/problems/largest-divisible-subset/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-divisible-subset",
    "video": "https://youtu.be/gDuZwBW9VvM"
@@ -9987,6 +10436,7 @@
   "difficulty": "medium",
   "summary": "Longest chain of words where each adds exactly one letter to the previous.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-string-chain",
    "leetcode": "https://leetcode.com/problems/longest-string-chain/",
    "video": "https://youtu.be/YY8iBaYcc4g"
   },
@@ -10010,6 +10460,7 @@
   "difficulty": "medium",
   "summary": "Longest subsequence that strictly increases then strictly decreases.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-bitonic-subsequence",
    "video": "https://youtu.be/y4vN0WNdrlg"
   },
   "topics": [
@@ -10030,6 +10481,7 @@
   "difficulty": "medium",
   "summary": "Count how many longest increasing subsequences exist.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-longest-increasing-subsequences",
    "leetcode": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
    "video": "https://youtu.be/cKVl1TFdNXg"
   },
@@ -10054,6 +10506,7 @@
   "difficulty": "medium",
   "summary": "Length of the longest subsequence common to two strings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-common-subsequence",
    "leetcode": "https://leetcode.com/problems/longest-common-subsequence/",
    "video": "https://youtu.be/-zI4mrF2Pb4"
   },
@@ -10081,6 +10534,7 @@
   "difficulty": "medium",
   "summary": "Length of the longest contiguous substring common to two strings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-common-substring",
    "video": "https://youtu.be/_wP9mWNPL5w"
   },
   "topics": [
@@ -10103,6 +10557,7 @@
   "difficulty": "medium",
   "summary": "Length of the longest palindromic subsequence of a string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-palindromic-subsequence",
    "leetcode": "https://leetcode.com/problems/longest-palindromic-subsequence/",
    "video": "https://youtu.be/6i_T5kkfv4A"
   },
@@ -10126,6 +10581,7 @@
   "difficulty": "hard",
   "summary": "Fewest insertions to make a string a palindrome.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-insertions-to-make-string-palindrome",
    "leetcode": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
    "video": "https://www.youtube.com/watch?v=xPBLEj41rFU"
   },
@@ -10149,6 +10605,7 @@
   "difficulty": "medium",
   "summary": "Fewest insertions and deletions to turn one string into another.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-insertions-or-deletions-to-convert-string-a-to-b",
    "leetcode": "https://leetcode.com/problems/delete-operation-for-two-strings/",
    "video": "https://www.youtube.com/watch?v=yMnH0jrir0Q"
   },
@@ -10171,6 +10628,7 @@
   "difficulty": "hard",
   "summary": "Shortest string that has both given strings as subsequences.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/shortest-common-supersequence",
    "leetcode": "https://leetcode.com/problems/shortest-common-supersequence/",
    "video": "https://youtu.be/xElxAuBcvsU"
   },
@@ -10193,6 +10651,7 @@
   "difficulty": "hard",
   "summary": "Count distinct subsequences of s that equal t.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/distinct-subsequences",
    "leetcode": "https://leetcode.com/problems/distinct-subsequences/",
    "video": "https://youtu.be/nVG7eTiD2bY"
   },
@@ -10217,6 +10676,7 @@
   "difficulty": "hard",
   "summary": "Minimum insert/delete/replace operations to convert one word to another.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/edit-distance",
    "leetcode": "https://leetcode.com/problems/edit-distance/",
    "video": "https://youtu.be/fJaKO8FbDdo"
   },
@@ -10243,6 +10703,7 @@
   "difficulty": "hard",
   "summary": "Match a string against a pattern containing ? and *.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/wildcard-matching",
    "leetcode": "https://leetcode.com/problems/wildcard-matching/",
    "video": "https://youtu.be/ZmlQ3vgAOMo"
   },
@@ -10268,6 +10729,7 @@
   "difficulty": "medium",
   "summary": "Decide whether a string can be segmented into dictionary words.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/word-break",
    "leetcode": "https://leetcode.com/problems/word-break/"
   },
   "topics": [
@@ -10292,6 +10754,7 @@
   "difficulty": "hard",
   "summary": "Count palindromic subsequences of a given length or kind, modulo 1e9+7.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-palindromic-subsequences",
    "leetcode": "https://leetcode.com/problems/count-palindromic-subsequences/"
   },
   "topics": [
@@ -10313,6 +10776,7 @@
   "difficulty": "hard",
   "summary": "Minimum scalar multiplications to multiply a chain of matrices.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/matrix-chain-multiplication",
    "video": "https://youtu.be/vRVfmbCFW7Y"
   },
   "topics": [
@@ -10336,6 +10800,7 @@
   "difficulty": "hard",
   "summary": "Order balloon bursts to maximize coins earned from neighbour products.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/burst-balloons",
    "leetcode": "https://leetcode.com/problems/burst-balloons/",
    "video": "https://youtu.be/Yz4LlDSlkns"
   },
@@ -10360,6 +10825,7 @@
   "difficulty": "hard",
   "summary": "Minimum cuts to split a string into palindromes.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/palindrome-partitioning-ii-",
    "leetcode": "https://leetcode.com/problems/palindrome-partitioning-ii/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/palindrome-partitioning-ii-minimum-cuts",
    "video": "https://youtu.be/_H8V5hJUGd0"
@@ -10385,6 +10851,7 @@
   "difficulty": "hard",
   "summary": "Partition into subarrays of length <= k, each replaced by its max; maximize total.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/partition-array-for-maximum-sum",
    "leetcode": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
    "video": "https://youtu.be/PhWWJmaKfMc"
   },
@@ -10407,6 +10874,7 @@
   "difficulty": "hard",
   "summary": "Order cuts of a stick to minimize total cutting cost.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-cost-to-cut-the-stick",
    "leetcode": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
    "video": "https://youtu.be/xwomavsC86c"
   },
@@ -10429,6 +10897,7 @@
   "difficulty": "hard",
   "summary": "Count ways to parenthesize a boolean expression so it evaluates to true.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/different-ways-to-evaluate-a-boolean-expression",
    "leetcode": "https://leetcode.com/problems/parsing-a-boolean-expression/",
    "video": "https://youtu.be/MM7fXopgyjw"
   },
@@ -10467,6 +10936,7 @@
   "difficulty": "medium",
   "summary": "Implement a trie with insert, search and startsWith.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/trie-implementation-and-operations",
    "leetcode": "https://leetcode.com/problems/implement-trie-prefix-tree/",
    "video": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp"
   },
@@ -10491,6 +10961,7 @@
   "difficulty": "medium",
   "summary": "Trie with counts: words equal to, words starting with, and erase.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/trie-implementation-and-advanced-operations",
    "leetcode": "https://leetcode.com/problems/implement-trie-ii-prefix-tree/"
   },
   "topics": [
@@ -10516,6 +10987,7 @@
   "difficulty": "medium",
   "summary": "Longest word whose every prefix is also in the list.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-word-with-all-prefixes",
    "leetcode": "https://leetcode.com/problems/longest-word-with-all-prefixes/",
    "video": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3"
   },
@@ -10542,6 +11014,7 @@
   "difficulty": "hard",
   "summary": "Count distinct substrings of a string using a trie.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/number-of-distinct-substrings-in-a-string",
    "leetcode": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/",
    "video": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4"
   },
@@ -10566,6 +11039,7 @@
   "difficulty": "medium",
   "summary": "Maximum XOR of any two numbers using a binary trie.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-xor-of-two-numbers-in-an-array",
    "leetcode": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
    "video": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6"
   },
@@ -10592,6 +11066,7 @@
   "difficulty": "hard",
   "summary": "For each query (x, m), maximum x XOR a[i] over a[i] <= m.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-xor-with-an-element-from-an-array",
    "leetcode": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
    "video": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7"
   },
@@ -10617,6 +11092,7 @@
   "difficulty": "medium",
   "summary": "Reverse the order of words in a string, trimming extra spaces.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/reverse-every-word-in-a-string",
    "leetcode": "https://leetcode.com/problems/reverse-words-in-a-string/"
   },
   "topics": [
@@ -10639,6 +11115,7 @@
   "difficulty": "medium",
   "summary": "Fewest bracket reversals to make an expression balanced.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
    "leetcode": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"
   },
   "topics": [
@@ -10661,6 +11138,7 @@
   "difficulty": "medium",
   "summary": "Return the n-th term of the count-and-say sequence.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-and-say",
    "leetcode": "https://leetcode.com/problems/count-and-say/"
   },
   "topics": [
@@ -10696,7 +11174,9 @@
   "kind": "problem",
   "difficulty": "hard",
   "summary": "Find pattern occurrences using a rolling hash.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/rabin-karp-algorithm"
+  },
   "topics": [
    "Strings"
   ],
@@ -10716,7 +11196,9 @@
   "kind": "problem",
   "difficulty": "hard",
   "summary": "Z-array: longest substring starting at each index that matches a prefix.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/z-function"
+  },
   "topics": [
    "Strings"
   ],
@@ -10737,6 +11219,7 @@
   "difficulty": "hard",
   "summary": "Pattern matching in linear time with the LPS (prefix function) array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/kmp-algorithm-or-lps-array",
    "leetcode": "https://leetcode.com/problems/implement-strstr/"
   },
   "topics": [
@@ -10759,6 +11242,7 @@
   "difficulty": "hard",
   "summary": "Shortest palindrome formed by adding characters to the front.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/shortest-palindrome",
    "leetcode": "https://leetcode.com/problems/shortest-palindrome/"
   },
   "topics": [
@@ -10783,6 +11267,7 @@
   "difficulty": "hard",
   "summary": "Longest proper prefix that is also a suffix.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-happy-prefix",
    "leetcode": "https://leetcode.com/problems/longest-happy-prefix/"
   },
   "topics": [
@@ -10803,7 +11288,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "List all primes up to n using the Sieve of Eratosthenes.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/print-all-primes-till-n"
+  },
   "topics": [
    "Mathematics",
    "Arrays"
@@ -10824,6 +11311,7 @@
   "difficulty": "medium",
   "summary": "Find the prime factorization of a number (or many, via smallest prime factor).",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/prime-factorisation-of-a-number",
    "video": "https://youtu.be/LT7XhVdeRyg?si=6HkjQokJRPTFai21"
   },
   "topics": [
@@ -10845,6 +11333,7 @@
   "difficulty": "hard",
   "summary": "Answer queries counting primes between L and R.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/count-primes-in-range-l-to-r",
    "leetcode": "https://leetcode.com/problems/count-primes/",
    "video": "https://youtu.be/g5Fuxn_AvSk?si=fv6Q-Po7wrMW0a5n"
   },
@@ -10868,6 +11357,7 @@
   "difficulty": "medium",
   "summary": "Merge all overlapping intervals.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-overlapping-subintervals",
    "leetcode": "https://leetcode.com/problems/merge-intervals/",
    "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-overlapping-intervals",
    "video": "https://youtu.be/IexN60k62jo"
@@ -10892,6 +11382,7 @@
   "difficulty": "medium",
   "summary": "Find the duplicate in n+1 numbers from 1..n without modifying the array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-the-duplicate-number",
    "leetcode": "https://leetcode.com/problems/find-the-duplicate-number/",
    "video": "https://www.youtube.com/watch?v=32Ll35mhWg0&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=1"
   },
@@ -10914,6 +11405,7 @@
   "difficulty": "medium",
   "summary": "Delete a given node (not the tail) with access only to that node.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/delete-node-in-a-linked-list-o1",
    "leetcode": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
    "video": "https://www.youtube.com/watch?v=icnp4FJdZ_c&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=31"
   },
@@ -10935,6 +11427,7 @@
   "difficulty": "hard",
   "summary": "Return the k-th permutation of 1..n in lexicographic order.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/permutation-sequence",
    "leetcode": "https://leetcode.com/problems/permutation-sequence/",
    "video": "https://www.youtube.com/watch?v=wT7gcXLYoao&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=55"
   },
@@ -10957,6 +11450,7 @@
   "difficulty": "medium",
   "summary": "Generate all unique permutations of a string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/permutations-of-a-string",
    "leetcode": "https://leetcode.com/problems/permutations-ii/",
    "video": "https://www.youtube.com/watch?v=f2ic2Rsc9pU&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52"
   },
@@ -10980,6 +11474,7 @@
   "difficulty": "hard",
   "summary": "Allocate contiguous books to students to minimize the maximum pages assigned.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/allocate-minimum-number-of-pages",
    "video": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69"
   },
   "topics": [],
@@ -10996,6 +11491,7 @@
   "difficulty": "hard",
   "summary": "Merge k sorted arrays into one sorted array.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/merge-k-sorted-arrays",
    "leetcode": "https://leetcode.com/problems/merge-k-sorted-lists/"
   },
   "topics": [
@@ -11017,7 +11513,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Sort a stack using recursion and no other data structure.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/sort-a-stack"
+  },
   "topics": [
    "Stack & Queues"
   ],
@@ -11037,6 +11535,7 @@
   "difficulty": "medium",
   "summary": "For every window size, the maximum of window minimums.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-of-minimums-for-every-window-size",
    "leetcode": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/"
   },
   "topics": [
@@ -11058,6 +11557,7 @@
   "difficulty": "medium",
   "summary": "Find the longest palindromic substring.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/longest-palindrome-in-a-string",
    "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/"
   },
   "topics": [],
@@ -11074,6 +11574,7 @@
   "difficulty": "medium",
   "summary": "Return the first index where a pattern occurs in a string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/implement-strstr",
    "leetcode": "https://leetcode.com/problems/string-to-integer-atoi/"
   },
   "topics": [],
@@ -11090,6 +11591,7 @@
   "difficulty": "medium",
   "summary": "Compare two dot-separated version strings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/compare-version-numbers",
    "leetcode": "https://leetcode.com/problems/compare-version-numbers/"
   },
   "topics": [
@@ -11110,6 +11612,7 @@
   "difficulty": "medium",
   "summary": "Link each node of a perfect binary tree to its right neighbour on the same level.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/populating-next-right-pointers-in-each-node",
    "leetcode": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
   },
   "topics": [
@@ -11147,6 +11650,7 @@
   "difficulty": "medium",
   "summary": "Convert a binary tree to a doubly linked list in inorder order, in place.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/binary-tree-to-doubly-linked-list",
    "leetcode": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
    "video": "https://www.youtube.com/watch?v=sWf7k1x9XR4&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=39"
   },
@@ -11169,6 +11673,7 @@
   "difficulty": "hard",
   "summary": "Report the running median after each number arrives.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/find-median-in-a-stream",
    "leetcode": "https://leetcode.com/problems/find-median-from-data-stream/"
   },
   "topics": [
@@ -11190,6 +11695,7 @@
   "difficulty": "medium",
   "summary": "Count distinct numbers in every window of size k.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/distinct-numbers-in-each-subarray",
    "leetcode": "https://leetcode.com/problems/distinct-numbers-in-each-subarray/"
   },
   "topics": [
@@ -11211,6 +11717,7 @@
   "difficulty": "medium",
   "summary": "Deep copy a connected undirected graph.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/clone-graph",
    "leetcode": "https://leetcode.com/problems/clone-graph/"
   },
   "topics": [
@@ -11232,7 +11739,9 @@
   "kind": "problem",
   "difficulty": "medium",
   "summary": "Maximum sum of a strictly increasing subsequence.",
-  "links": {},
+  "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-sum-increasing-subsequence"
+  },
   "topics": [
    "Dynamic Programming"
   ],
@@ -11251,6 +11760,7 @@
   "difficulty": "hard",
   "summary": "Minimum moves to find the critical floor with k eggs and n floors.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/super-egg-drop",
    "leetcode": "https://leetcode.com/problems/super-egg-drop/"
   },
   "topics": [
@@ -11272,6 +11782,7 @@
   "difficulty": "hard",
   "summary": "Pick non-overlapping jobs to maximize total profit.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/maximum-profit-in-job-scheduling",
    "leetcode": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/"
   },
   "topics": [
@@ -11437,6 +11948,7 @@
   "difficulty": "medium",
   "summary": "Check whether n nodes and given edges form a valid tree.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/graph-valid-tree",
    "leetcode": "https://leetcode.com/problems/graph-valid-tree/"
   },
   "topics": [
@@ -11458,6 +11970,7 @@
   "difficulty": "easy",
   "summary": "Check whether a person can attend all meetings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/meeting-rooms",
    "leetcode": "https://leetcode.com/problems/meeting-rooms/"
   },
   "topics": [
@@ -11480,6 +11993,7 @@
   "difficulty": "medium",
   "summary": "Minimum number of rooms needed to hold all meetings.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/meeting-rooms-ii",
    "leetcode": "https://leetcode.com/problems/meeting-rooms-ii/"
   },
   "topics": [
@@ -11518,6 +12032,7 @@
   "difficulty": "medium",
   "summary": "Group strings that are anagrams of each other.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/group-words-by-anagrams",
    "leetcode": "https://leetcode.com/problems/group-anagrams/"
   },
   "topics": [
@@ -11540,6 +12055,7 @@
   "difficulty": "medium",
   "summary": "Count palindromic substrings of a string.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/palindromic-substrings",
    "leetcode": "https://leetcode.com/problems/palindromic-substrings/"
   },
   "topics": [],
@@ -11556,6 +12072,7 @@
   "difficulty": "medium",
   "summary": "Encode a list of strings into one string and decode it back.",
   "links": {
+   "practice": "https://takeuforward.org/practice/dsa/encode-and-decode-strings",
    "leetcode": "https://leetcode.com/problems/encode-and-decode-strings/"
   },
   "topics": [

@@ -10,7 +10,7 @@ export interface Problem {
   kind: 'problem' | 'article';
   difficulty: Difficulty;
   summary: string;
-  links: { leetcode?: string; article?: string; video?: string };
+  links: { practice?: string; leetcode?: string; article?: string; video?: string };
   topics: string[];
   patterns: string[];
   sheets: string[];

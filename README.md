@@ -32,6 +32,8 @@ npm run data:build   # normalize + dedupe -> src/data/problems.json, src/data/sh
   `scripts/fetch-sheets.mjs` decodes it, so no headless browser is needed.
 - The problem id is takeuforward's item slug. It is shared across their sheets (slug and item id map 1:1).
   LeetCode links are not used for deduplication, because TUF points several distinct problems at the same LeetCode link.
+- Every practice problem links to takeuforward's own judge (`/practice/dsa/<slug>`). About 168 of them have
+  no LeetCode equivalent (patterns, linked-list basics, GFG-style classics), so that is their only judge.
 - `scripts/summaries/*.json` holds short summaries written for this site. They are not copied problem
   statements. The build fails if a summary refers to an unknown id. It also fails if a sheet's item count
   doesn't match the total that TUF reports.
