@@ -1,0 +1,82 @@
+---
+import Base from '../layouts/Base.astro';
+import Progress from '../components/Progress.tsx';
+import { problems, sheets, sheetProblemIds, url } from '../lib/data';
+
+const allIds = problems.map((p) => p.id);
+---
+
+<Base title="Striver's Sheets Tracker">
+  <section class="hero">
+    <h1>Every Striver sheet. One solved list.</h1>
+    <p class="muted">
+      {problems.length} unique problems across {sheets.length} sheets. Mark a problem solved once and it is solved in every
+      sheet that contains it. Progress and notes are saved to your own Google Drive.
+    </p>
+    <div class="overall card">
+      <Progress client:load ids={allIds} label="unique problems solved" />
+    </div>
+  </section>
+
+  <section class="grid">
+    {
+      sheets.map((s) => (
+        <a class="sheet card" href={url(`/sheets/${s.id}/`)}>
+          <span class="short">{s.short}</span>
+          <h2>{s.name}</h2>
+          <p class="muted">
+            {s.count} items · {s.sections.length} sections
+          </p>
+          <Progress client:visible ids={sheetProblemIds(s)} />
+        </a>
+      ))
+    }
+  </section>
+</Base>
+
+<style>
+  .hero h1 {
+    font-size: clamp(28px, 5vw, 42px);
+    margin: 8px 0 10px;
+  }
+  .hero p {
+    max-width: 640px;
+    margin: 0 0 20px;
+  }
+  .overall {
+    padding: 16px 18px;
+    max-width: 520px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 14px;
+    margin-top: 32px;
+  }
+  .sheet {
+    padding: 18px;
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    transition: border-color 0.15s;
+  }
+  .sheet:hover {
+    text-decoration: none;
+    border-color: var(--accent);
+  }
+  .sheet h2 {
+    font-size: 18px;
+    margin: 0;
+  }
+  .sheet p {
+    margin: 0 0 12px;
+    font-size: 13px;
+  }
+  .short {
+    font: 500 12px var(--font-mono);
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+</style>

@@ -1,0 +1,3004 @@
+[
+ {
+  "id": "a2z",
+  "slug": "strivers-a2z-dsa-sheet",
+  "name": "Striver’s A2Z DSA Sheet",
+  "short": "A2Z",
+  "description": "Learn data structures and algorithms in a clear sequence, from programming foundations to advanced problems.\nBuild your coding interview skills through independent practice, better approaches, and regular revision.",
+  "count": 495,
+  "sections": [
+   {
+    "id": "beginner-problem",
+    "title": "Beginner Problems",
+    "groups": [
+     {
+      "id": "fundamentals-of-programming",
+      "title": "Fundamentals of Programming",
+      "problemIds": [
+       "breaking-the-myth",
+       "programming-and-what-are-computers",
+       "how-to-think-like-a-programmer",
+       "flowcharts-and-pseudocode",
+       "flowchart-problem-solving",
+       "dry-runs-edge-cases-and-debugging",
+       "programming-languages-and-choosing-a-path"
+      ]
+     },
+     {
+      "id": "language-basics",
+      "title": "Language Basics",
+      "problemIds": [
+       "learn-cpp",
+       "learn-java",
+       "learn-python"
+      ]
+     },
+     {
+      "id": "logic-building-patterns",
+      "title": "Logic Building (Patterns)",
+      "problemIds": [
+       "easy-and-medium",
+       "hard"
+      ]
+     },
+     {
+      "id": "patterns",
+      "title": "Patterns",
+      "problemIds": [
+       "pattern-1",
+       "pattern-2",
+       "pattern-3",
+       "pattern-4",
+       "pattern-5",
+       "pattern-6",
+       "pattern-7",
+       "pattern-8",
+       "pattern-9",
+       "pattern-10",
+       "pattern-11",
+       "pattern-12",
+       "pattern-13",
+       "pattern-14",
+       "pattern-15",
+       "pattern-16",
+       "pattern-17",
+       "pattern-18",
+       "pattern-19",
+       "pattern-20",
+       "pattern-21",
+       "pattern-22"
+      ]
+     },
+     {
+      "id": "time-complexity",
+      "title": "Time Complexity",
+      "problemIds": [
+       "theory-with-examples"
+      ]
+     },
+     {
+      "id": "standard-libraries-and-collections",
+      "title": "Standard Libraries & Collections",
+      "problemIds": [
+       "stl",
+       "java-collections",
+       "python-libraries-part-1",
+       "python-libraries-part-2"
+      ]
+     },
+     {
+      "id": "concept-basics",
+      "title": "Concept Basics",
+      "problemIds": [
+       "basic-maths",
+       "basic-arrays-hashing-and-strings",
+       "basic-hashing",
+       "basic-string"
+      ]
+     },
+     {
+      "id": "basic-maths",
+      "title": "Basic Maths",
+      "problemIds": [
+       "count-all-digits-of-a-number",
+       "count-number-of-odd-digits-in-a-number",
+       "reverse-a-number",
+       "palindrome-number",
+       "return-the-largest-digit-in-a-number",
+       "factorial-of-a-given-number-i",
+       "check-if-the-number-if-armstrong",
+       "check-for-perfect-number",
+       "check-for-prime-number",
+       "count-of-prime-numbers-till-n",
+       "gcd-of-two-numbers",
+       "lcm-of-two-numbers",
+       "divisors-of-a-number"
+      ]
+     },
+     {
+      "id": "basic-arrays",
+      "title": "Basic Arrays",
+      "problemIds": [
+       "sum-of-array-elements",
+       "count-of-odd-numbers-in-array",
+       "check-if-the-array-is-sorted-i",
+       "reverse-an-array"
+      ]
+     },
+     {
+      "id": "basic-hashing",
+      "title": "Basic Hashing",
+      "problemIds": [
+       "highest-occurring-element-in-an-array",
+       "second-highest-occurring-element",
+       "sum-of-highest-and-lowest-frequency"
+      ]
+     },
+     {
+      "id": "basic-strings",
+      "title": "Basic Strings",
+      "problemIds": [
+       "reverse-a-string-ii",
+       "palindrome-check",
+       "largest-odd-number-in-a-string",
+       "longest-common-prefix",
+       "isomorphic-string",
+       "rotate-string",
+       "valid-anagram",
+       "sort-characters-by-frequency"
+      ]
+     },
+     {
+      "id": "basic-recursion",
+      "title": "Basic Recursion",
+      "problemIds": [
+       "recursion-theory",
+       "recursion-concepts-with-parameters",
+       "sum-of-first-n-numbers",
+       "factorial-of-a-given-number-ii",
+       "sum-of-array-elements-ii",
+       "reverse-a-string-i",
+       "check-if-string-is-palindrome-or-not-",
+       "check-if-a-number-is-prime-or-not",
+       "reverse-an-array-ii",
+       "check-if-the-array-is-sorted-ii",
+       "sum-of-digits-in-a-given-number",
+       "fibonacci-number"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sorting",
+    "title": "Sorting",
+    "groups": [
+     {
+      "id": "algorithms",
+      "title": "Algorithms",
+      "problemIds": [
+       "selection-sort",
+       "bubble-sort",
+       "insertion-sorting",
+       "merge-sorting",
+       "quick-sorting",
+       "recursive-bubble-sort",
+       "recursive-insertion-sort"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "arrays",
+    "title": "Arrays",
+    "groups": [
+     {
+      "id": "fundamentals",
+      "title": "Fundamentals",
+      "problemIds": [
+       "linear-search",
+       "largest-element",
+       "second-largest-element",
+       "maximum-consecutive-ones",
+       "left-rotate-array-by-one",
+       "left-rotate-array"
+      ]
+     },
+     {
+      "id": "logic-building",
+      "title": "Logic Building",
+      "problemIds": [
+       "move-zeros-to-end",
+       "remove-duplicates-from-sorted-array",
+       "find-missing-number",
+       "union-of-two-sorted-arrays",
+       "intersection-of-two-sorted-arrays"
+      ]
+     },
+     {
+      "id": "faqs-medium",
+      "title": "FAQs(Medium)",
+      "problemIds": [
+       "majority-element-i",
+       "leaders-in-an-array",
+       "rearrange-array-elements-by-sign",
+       "print-the-matrix-in-spiral-manner",
+       "pascals-triangle-i",
+       "pascals-triangle-ii",
+       "pascals-triangle-iii",
+       "rotate-matrix-by-90-degrees",
+       "set-matrix-zeroes",
+       "two-sum",
+       "3-sum",
+       "4-sum",
+       "sort-an-array-of-0's-1's-and-2's",
+       "kadane's-algorithm",
+       "next-permutation"
+      ]
+     },
+     {
+      "id": "faqs-hard",
+      "title": "FAQs(Hard)",
+      "problemIds": [
+       "majority-element-ii",
+       "find-the-repeating-and-missing-number",
+       "count-inversions",
+       "reverse-pairs",
+       "maximum-product-subarray-in-an-array",
+       "merge-two-sorted-arrays-without-extra-space"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hashing",
+    "title": "Hashing",
+    "groups": [
+     {
+      "id": "theory",
+      "title": "Theory",
+      "problemIds": [
+       "basic-hashing"
+      ]
+     },
+     {
+      "id": "faqs",
+      "title": "FAQs",
+      "problemIds": [
+       "longest-consecutive-sequence-in-an-array",
+       "longest-subarray-with-sum-k",
+       "largest-subarray-with-sum-0",
+       "count-subarrays-with-given-sum",
+       "count-subarrays-with-given-xor-k"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "groups": [
+     {
+      "id": "fundamentals",
+      "title": "Fundamentals",
+      "problemIds": [
+       "search-x-in-sorted-array",
+       "lower-bound-",
+       "upper-bound"
+      ]
+     },
+     {
+      "id": "logic-building",
+      "title": "Logic Building",
+      "problemIds": [
+       "search-insert-position",
+       "floor-and-ceil-in-sorted-array",
+       "first-and-last-occurrence",
+       "search-in-rotated-sorted-array-i",
+       "search-in-rotated-sorted-array-2",
+       "find-minimum-in-rotated-sorted-array",
+       "find-out-how-many-times-the-array-is-rotated",
+       "single-element-in-sorted-array",
+       "count-occurrences-in-a-sorted-array"
+      ]
+     },
+     {
+      "id": "on-answers",
+      "title": "On answers",
+      "problemIds": [
+       "find-square-root-of-a-number",
+       "find-nth-root-of-a-number",
+       "find-the-smallest-divisor",
+       "koko-eating-bananas",
+       "minimum-days-to-make-m-bouquets",
+       "capacity-to-ship-packages-within-d-days",
+       "kth-missing-positive-number",
+       "painters-partition"
+      ]
+     },
+     {
+      "id": "faqs",
+      "title": "FAQs",
+      "problemIds": [
+       "aggressive-cows",
+       "book-allocation-problem",
+       "find-peak-element",
+       "median-of-2-sorted-arrays",
+       "kth-element-of-2-sorted-arrays",
+       "minimise-max-distance-to-gas-stations",
+       "split-array---largest-sum"
+      ]
+     },
+     {
+      "id": "2d-arrays",
+      "title": "2D Arrays",
+      "problemIds": [
+       "find-row-with-maximum-1's",
+       "search-in-a-2d-matrix",
+       "search-in-2d-matrix-ii",
+       "find-peak-element-ii",
+       "matrix-median"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "strings-basic-and-medium",
+    "title": "Strings (Basic and Medium)",
+    "groups": [
+     {
+      "id": "parentheses",
+      "title": "Parentheses",
+      "problemIds": [
+       "remove-outermost-parentheses",
+       "maximum-nesting-depth-of-the-parentheses"
+      ]
+     },
+     {
+      "id": "string-conversions",
+      "title": "String Conversions",
+      "problemIds": [
+       "roman-to-integer",
+       "string-to-integer-atoi"
+      ]
+     },
+     {
+      "id": "substring-problems",
+      "title": "Substring Problems",
+      "problemIds": [
+       "count-number-of-substring",
+       "longest-palindromic-substring",
+       "sum-of-beauty-of-all-substrings"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "recursion",
+    "title": "Recursion",
+    "groups": [
+     {
+      "id": "implementation-problems",
+      "title": "Implementation Problems",
+      "problemIds": [
+       "pow(x,n)",
+       "generate-parentheses",
+       "power-set",
+       "count-good-numbers",
+       "reverse-a-stack"
+      ]
+     },
+     {
+      "id": "subsequence-pattern-problems",
+      "title": "Subsequence Pattern Problems",
+      "problemIds": [
+       "learn-all-patterns-of-subsequences",
+       "check-if-there-exists-a-subsequence-with-sum-k",
+       "count-all-subsequences-with-sum-k",
+       "generate-binary-strings-without-consecutive-1s"
+      ]
+     },
+     {
+      "id": "faqs-medium",
+      "title": "FAQs (Medium)",
+      "problemIds": [
+       "combination-sum",
+       "combination-sum-ii",
+       "subsets-i",
+       "subsets-ii",
+       "combination-sum-iii"
+      ]
+     },
+     {
+      "id": "hard",
+      "title": "Hard",
+      "problemIds": [
+       "letter-combinations-of-a-phone-number"
+      ]
+     },
+     {
+      "id": "faqs-hard",
+      "title": "FAQs (Hard)",
+      "problemIds": [
+       "palindrome-partitioning",
+       "word-search",
+       "n-queen",
+       "rat-in-a-maze",
+       "m-coloring-problem",
+       "sudoko-solver",
+       "expression-add-operators"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list",
+    "title": "Linked-List",
+    "groups": [
+     {
+      "id": "fundamentals-single-ll",
+      "title": "Fundamentals (Single LL)",
+      "problemIds": [
+       "introduction-to-singly-linkedlist",
+       "traversal-in-linked-list",
+       "deletion-in-linked-list",
+       "insertion-in-linked-list",
+       "deletion-of-the-head-of-ll",
+       "deletion-of-the-tail-of-ll",
+       "deletion-of-the-kth-element-of-ll",
+       "delete-the-element-with-value-x",
+       "insertion-at-the-head-of-ll",
+       "insertion-at-the-tail-of-ll",
+       "insertion-at-the-kth-position-of-ll",
+       "insertion-before-the-value-x-in-ll",
+       "find-the-length-of-the-linked-list",
+       "search-in-linked-list"
+      ]
+     },
+     {
+      "id": "fundamentals-doubly-ll",
+      "title": "Fundamentals (Doubly LL)",
+      "problemIds": [
+       "introduction-to-doubly-ll",
+       "deletion-in-doubly-ll",
+       "insertion-in-dll",
+       "convert-array-to-dll",
+       "delete-tail-of-dll",
+       "delete-kth-element-of-dll",
+       "removing-given-node-in-dll",
+       "insert-node-before-head-in-dll",
+       "insert-node-before-tail-in-dll",
+       "insert-node-before-kth-node-in-dll",
+       "insert-before-given-node-in-dll",
+       "delete-head-of-dll",
+       "reverse-a-doubly-linked-list"
+      ]
+     },
+     {
+      "id": "logic-building",
+      "title": "Logic Building",
+      "problemIds": [
+       "add-two-numbers-in-ll",
+       "segregate-odd-and-even-nodes-in-ll",
+       "sort-a-ll-of-0's-1's-and-2's",
+       "remove-nth-node-from-the-back-of-the-ll",
+       "reverse-a-ll"
+      ]
+     },
+     {
+      "id": "faqs-medium",
+      "title": "FAQs (Medium)",
+      "problemIds": [
+       "add-one-to-a-number-represented-by-ll",
+       "find-middle-of-linked-list",
+       "delete-the-middle-node-in-ll",
+       "check-if-ll-is-palindrome-or-not",
+       "find-the-intersection-point-of-y-ll",
+       "detect-a-loop-in-ll",
+       "find-the-starting-point-in-ll",
+       "length-of-loop-in-ll"
+      ]
+     },
+     {
+      "id": "faqs-hard",
+      "title": "FAQs (Hard)",
+      "problemIds": [
+       "reverse-ll-in-group-of-given-size-k",
+       "rotate-a-ll",
+       "merge-sorted-lists-",
+       "flattening-of-ll",
+       "sort-ll",
+       "clone-a-ll-with-random-and-next-pointer"
+      ]
+     },
+     {
+      "id": "faqs-dll",
+      "title": "FAQS (DLL)",
+      "problemIds": [
+       "delete-all-occurrences-of-a-key-in-dll",
+       "remove-duplicated-from-sorted-dll",
+       "find-pairs-with-given-sum-in-doubly-linked-list"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bit-manipulation",
+    "title": "Bit Manipulation",
+    "groups": [
+     {
+      "id": "theory",
+      "title": "Theory",
+      "problemIds": [
+       "introduction-to-bits-and-tricks"
+      ]
+     },
+     {
+      "id": "bit-fundamentals",
+      "title": "Bit Fundamentals",
+      "problemIds": [
+       "check-if-the-i-th-bit-is-set-or-not",
+       "check-if-a-number-is-odd-or-not",
+       "check-if-a-number-is-power-of-2-or-not",
+       "count-the-number-of-set-bits",
+       "set-the-rightmost-unset-bit",
+       "swap-two-numbers"
+      ]
+     },
+     {
+      "id": "problems",
+      "title": "Problems",
+      "problemIds": [
+       "minimum-bit-flips-to-convert-number",
+       "single-number---i",
+       "single-number---ii",
+       "single-number---iii",
+       "divide-two-numbers-without-multiplication-and-division",
+       "power-set-bit-manipulation",
+       "xor-of-numbers-in-a-given-range"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "greedy-algorithms",
+    "title": "Greedy Algorithms",
+    "groups": [
+     {
+      "id": "easy",
+      "title": "Easy",
+      "problemIds": [
+       "assign-cookies",
+       "lemonade-change",
+       "fractional-knapsack",
+       "jump-game---i"
+      ]
+     },
+     {
+      "id": "scheduling-and-interval-problems",
+      "title": "Scheduling and Interval Problems",
+      "problemIds": [
+       "shortest-job-first",
+       "job-sequencing-problem",
+       "n-meetings-in-one-room",
+       "non-overlapping-intervals",
+       "insert-interval",
+       "merge-intervals",
+       "minimum-number-of-platforms-required-for-a-railway"
+      ]
+     },
+     {
+      "id": "hard",
+      "title": "Hard",
+      "problemIds": [
+       "valid-paranthesis-checker",
+       "candy",
+       "jump-game-ii"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sliding-window-and-2-pointer",
+    "title": "Sliding Window / 2 Pointer",
+    "groups": [
+     {
+      "id": "pattern-and-template",
+      "title": "Pattern and Template",
+      "problemIds": [
+       "theory"
+      ]
+     },
+     {
+      "id": "constant-window",
+      "title": "Constant Window",
+      "problemIds": [
+       "maximum-points-you-can-obtain-from-cards-"
+      ]
+     },
+     {
+      "id": "longest-and-smallest-window-problems",
+      "title": "Longest and Smallest Window Problems",
+      "problemIds": [
+       "longest-substring-without-repeating-characters",
+       "max-consecutive-ones-iii",
+       "fruit-into-baskets",
+       "longest-substring-with-at-most-k-distinct-characters",
+       "longest-repeating-character-replacement",
+       "minimum-window-substring-",
+       "minimum-window-subsequence"
+      ]
+     },
+     {
+      "id": "counting-subarrays-and-substrings-problems",
+      "title": "Counting Subarrays / Substrings Problems",
+      "problemIds": [
+       "number-of-substrings-containing-all-three-characters",
+       "binary-subarrays-with-sum",
+       "count-number-of-nice-subarrays",
+       "subarrays-with-k-different-integers"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stack-and-queues",
+    "title": "Stack / Queues",
+    "groups": [
+     {
+      "id": "implementation",
+      "title": "Implementation",
+      "problemIds": [
+       "implementation-using-different-ds",
+       "implement-stack-using-arrays",
+       "implement-queue-using-arrays",
+       "implement-stack-using-queue",
+       "implement-queue-using-stack",
+       "implement-stack-using-linkedlist",
+       "implement-queue-using-linkedlist",
+       "balanced-paranthesis"
+      ]
+     },
+     {
+      "id": "expression-conversions",
+      "title": "Prefix, Infix and Postfix Conversions",
+      "problemIds": [
+       "infix-to-postfix-conversion",
+       "infix-to-prefix-conversion",
+       "prefix-to-infix-conversion",
+       "prefix-to-postfix-conversion",
+       "postfix-to-infix-conversion",
+       "postfix-to-prefix-conversion"
+      ]
+     },
+     {
+      "id": "monotonic-stack",
+      "title": "Monotonic Stack",
+      "problemIds": [
+       "next-greater-element",
+       "next-greater-element---2",
+       "asteroid-collision",
+       "sum-of-subarray-minimums",
+       "sum-of-subarray-ranges",
+       "remove-k-digits",
+       "next-smaller-element"
+      ]
+     },
+     {
+      "id": "faqs",
+      "title": "FAQs",
+      "problemIds": [
+       "implement-min-stack",
+       "sliding-window-maximum",
+       "trapping-rainwater",
+       "largest-rectangle-in-a-histogram",
+       "maximum-rectangles",
+       "stock-span-problem",
+       "celebrity-problem",
+       "lru-cache",
+       "lfu-cache",
+       "number-of-greater-elements-to-the-right"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-trees",
+    "title": "Binary Trees",
+    "groups": [
+     {
+      "id": "theory-and-traversals",
+      "title": "Theory/Traversals",
+      "problemIds": [
+       "introduction-",
+       "inorder-traversal",
+       "preorder-traversal",
+       "postorder-traversal",
+       "level-order-traversal",
+       "pre,-post,-inorder-in-one-traversal"
+      ]
+     },
+     {
+      "id": "medium-problems",
+      "title": "Medium Problems",
+      "problemIds": [
+       "maximum-depth-in-bt",
+       "check-if-two-trees-are-identical-or-not",
+       "check-for-balanced-binary-tree",
+       "diameter-of-binary-tree",
+       "maximum-path-sum-",
+       "check-for-symmetrical-bts",
+       "children-sum-property-in-binary-tree"
+      ]
+     },
+     {
+      "id": "faqs",
+      "title": "FAQs",
+      "problemIds": [
+       "zig-zag-or-spiral-traversal",
+       "boundary-traversal",
+       "vertical-order-traversal",
+       "top-view-of-bt",
+       "bottom-view-of-bt",
+       "right-left-view-of-bt",
+       "print-root-to-leaf-path-in-bt",
+       "lca-in-bt",
+       "maximum-width-of-bt",
+       "print-all-nodes-at-a-distance-of-k-in-bt",
+       "minimum-time-taken-to-burn-the-bt-from-a-given-node",
+       "count-total-nodes-in-a-complete-bt",
+       "flatten-binary-tree-to-linked-list"
+      ]
+     },
+     {
+      "id": "construction-problems",
+      "title": "Construction Problems",
+      "problemIds": [
+       "requirements-needed-to-construct-a-unique-bt",
+       "construct-a-bt-from-preorder-and-inorder",
+       "construct-a-bt-from-postorder-and-inorder",
+       "serialize-and-de-serialize-bt"
+      ]
+     },
+     {
+      "id": "traversal-in-constant-space",
+      "title": "Traversal in Constant Space",
+      "problemIds": [
+       "morris-inorder-traversal-",
+       "morris-preorder-traversal-"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search-trees",
+    "title": "Binary Search Trees",
+    "groups": [
+     {
+      "id": "theory-and-basics",
+      "title": "Theory and Basics",
+      "problemIds": [
+       "introduction-to-bst",
+       "search-in-bst",
+       "floor-and-ceil-in-a-bst",
+       "minimum-and-maximum-in-bst"
+      ]
+     },
+     {
+      "id": "medium",
+      "title": "Medium",
+      "problemIds": [
+       "insert-a-given-node-in-bst",
+       "delete-a-node-in-bst",
+       "kth-smallest-and-largest-element-in-bst",
+       "check-if-a-tree-is-a-bst-or-not",
+       "lca-in-bst",
+       "construct-a-bst-from-a-preorder-traversal",
+       "inorder-successor-and-predecessor-in-bst"
+      ]
+     },
+     {
+      "id": "faqs",
+      "title": "FAQs",
+      "problemIds": [
+       "bst-iterator",
+       "two-sum-in-bst",
+       "correct-bst-with-two-nodes-swapped",
+       "largest-bst-in-binary-tree"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "heaps",
+    "title": "Heaps",
+    "groups": [
+     {
+      "id": "theory-and-implementation",
+      "title": "Theory and Implementation",
+      "problemIds": [
+       "heaps-theory",
+       "heapify-algorithm",
+       "build-heap-from-a-given-array",
+       "implement-min-heap",
+       "implement-max-heap",
+       "check-if-an-array-represents-a-min-heap-",
+       "convert-min-heap-to-max-heap",
+       "heap-sort",
+       "k-th-largest-element-in-an-array"
+      ]
+     },
+     {
+      "id": "faqs",
+      "title": "FAQs",
+      "problemIds": [
+       "kth-largest-element-in-a-stream-of-running-integers",
+       "sort-k-sorted-array",
+       "merge-k-sorted-lists",
+       "replace-elements-by-their-rank",
+       "task-scheduler",
+       "hand-of-straights",
+       "design-twitter",
+       "minimum-cost-to-connect-sticks",
+       "maximum-sum-combination",
+       "find-median-from-data-stream",
+       "top-k-frequent-elements"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graph",
+    "title": "Graphs",
+    "groups": [
+     {
+      "id": "theory-and-traversals",
+      "title": "Theory and traversals",
+      "problemIds": [
+       "introduction-to-graph",
+       "traversal-techniques",
+       "connected-components"
+      ]
+     },
+     {
+      "id": "traversal-problems",
+      "title": "Traversal Problems",
+      "problemIds": [
+       "number-of-provinces",
+       "number-of-islands",
+       "flood-fill-algorithm",
+       "number-of-enclaves",
+       "rotten-oranges",
+       "distance-of-nearest-cell-having-one",
+       "surrounded-regions",
+       "number-of-distinct-islands"
+      ]
+     },
+     {
+      "id": "cycles",
+      "title": "Cycles",
+      "problemIds": [
+       "detect-a-cycle-in-an-undirected-graph",
+       "bipartite-graph",
+       "topological-sort-or-kahns-algorithm",
+       "detect-a-cycle-in-a-directed-graph"
+      ]
+     },
+     {
+      "id": "hard-problems",
+      "title": "Hard Problems",
+      "problemIds": [
+       "find-eventual-safe-states",
+       "course-schedule-i",
+       "course-schedule-ii",
+       "alient-dictionary",
+       "shortest-path-in-dag",
+       "shortest-path-in-undirected-graph-with-unit-weights",
+       "word-ladder-i",
+       "word-ladder-ii"
+      ]
+     },
+     {
+      "id": "shortest-path-algorithms",
+      "title": "Shortest Path Algorithms",
+      "problemIds": [
+       "dijkstra's-algorithm",
+       "print-shortest-path-",
+       "shortest-path-with-minimum-effort",
+       "path-with-minimum-effort",
+       "cheapest-flight-within-k-stops",
+       "minimum-multiplications-to-reach-end",
+       "number-of-ways-to-arrive-at-destination",
+       "bellman-ford-algorithm",
+       "floyd-warshall-algorithm",
+       "find-the-city-with-the-smallest-number-of-neighbors",
+       "network-delay-time",
+       "swim-in-rising-water"
+      ]
+     },
+     {
+      "id": "minimum-spanning-tree",
+      "title": "Minimum Spanning Tree",
+      "problemIds": [
+       "mst-theory",
+       "disjoint-set-",
+       "find-the-mst-weight"
+      ]
+     },
+     {
+      "id": "hard-problems-ii",
+      "title": "Hard Problems II",
+      "problemIds": [
+       "number-of-operations-to-make-network-connected",
+       "accounts-merge",
+       "number-of-islands-ii",
+       "making-a-large-island",
+       "most-stones-removed-with-same-row-or-column"
+      ]
+     },
+     {
+      "id": "additional-algorithms",
+      "title": "Additional Algorithms",
+      "problemIds": [
+       "kosaraju's-algorithm",
+       "bridges-in-graph",
+       "articulation-point-in-graph"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming",
+    "title": "Dynamic Programming",
+    "groups": [
+     {
+      "id": "introduction",
+      "title": "Introduction",
+      "problemIds": [
+       "introduction-to-dp"
+      ]
+     },
+     {
+      "id": "1d-dp",
+      "title": "1D DP",
+      "problemIds": [
+       "climbing-stairs",
+       "frog-jump",
+       "frog-jump-with-k-distances",
+       "maximum-sum-of-non-adjacent-elements",
+       "house-robber"
+      ]
+     },
+     {
+      "id": "2d-dp",
+      "title": "2D DP",
+      "problemIds": [
+       "ninja's-training"
+      ]
+     },
+     {
+      "id": "dp-on-grids",
+      "title": "DP on grids",
+      "problemIds": [
+       "grid-unique-paths",
+       "unique-paths-ii",
+       "minimum-falling-path-sum",
+       "triangle",
+       "cherry-pickup-ii",
+       "count-square-submatrices-with-all-one"
+      ]
+     },
+     {
+      "id": "dp-on-stocks",
+      "title": "DP on stocks",
+      "problemIds": [
+       "best-time-to-buy-and-sell-stock",
+       "best-time-to-buy-and-sell-stock-ii",
+       "best-time-to-buy-and-sell-stock-iii",
+       "best-time-to-buy-and-sell-stock-iv",
+       "best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
+       "best-time-to-buy-and-sell-stock-with-cooldown"
+      ]
+     },
+     {
+      "id": "dp-on-subsequences",
+      "title": "DP on subsequences",
+      "problemIds": [
+       "subset-sum-equals-to-target",
+       "partition-equal-subset-sum",
+       "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
+       "count-subsets-with-sum-k",
+       "count-partitions-with-given-difference",
+       "0-and-1-knapsack",
+       "minimum-coins",
+       "target-sum",
+       "coin-change-ii",
+       "unbounded-knapsack",
+       "rod-cutting-problem"
+      ]
+     },
+     {
+      "id": "lis-dp",
+      "title": "LIS",
+      "problemIds": [
+       "longest-increasing-subsequence",
+       "print-longest-increasing-subsequence",
+       "largest-divisible-subset",
+       "longest-string-chain",
+       "longest-bitonic-subsequence",
+       "number-of-longest-increasing-subsequences"
+      ]
+     },
+     {
+      "id": "dp-on-strings",
+      "title": "DP on strings",
+      "problemIds": [
+       "longest-common-subsequence",
+       "longest-common-substring",
+       "longest-palindromic-subsequence",
+       "minimum-insertions-to-make-string-palindrome",
+       "minimum-insertions-or-deletions-to-convert-string-a-to-b",
+       "shortest-common-supersequence",
+       "distinct-subsequences",
+       "edit-distance",
+       "wildcard-matching",
+       "word-break",
+       "count-palindromic-subsequences"
+      ]
+     },
+     {
+      "id": "mcm-dp",
+      "title": "MCM DP",
+      "problemIds": [
+       "matrix-chain-multiplication",
+       "burst-balloons",
+       "palindrome-partitioning-ii-",
+       "partition-array-for-maximum-sum",
+       "minimum-cost-to-cut-the-stick",
+       "different-ways-to-evaluate-a-boolean-expression"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "tries",
+    "title": "Tries",
+    "groups": [
+     {
+      "id": "triessubc",
+      "title": "Theory",
+      "problemIds": [
+       "bit-prerequisites-for-trie-problems",
+       "trie-implementation-and-operations",
+       "trie-implementation-and-advanced-operations"
+      ]
+     },
+     {
+      "id": "problems",
+      "title": "Problems",
+      "problemIds": [
+       "longest-word-with-all-prefixes",
+       "number-of-distinct-substrings-in-a-string",
+       "maximum-xor-of-two-numbers-in-an-array",
+       "maximum-xor-with-an-element-from-an-array"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "strings-advanced-algo",
+    "title": "Strings (Advanced Algo)",
+    "groups": [
+     {
+      "id": "medium-problems",
+      "title": "Medium Problems",
+      "problemIds": [
+       "reverse-every-word-in-a-string",
+       "minimum-number-of-bracket-reversals-to-make-an-expression-balanced",
+       "count-and-say"
+      ]
+     },
+     {
+      "id": "advanced-problems-less-asked",
+      "title": "Advanced Problems (Less asked)",
+      "problemIds": [
+       "hashing-in-strings-theory",
+       "rabin-karp-algorithm",
+       "z-function",
+       "kmp-algorithm-or-lps-array",
+       "shortest-palindrome",
+       "longest-happy-prefix"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "maths",
+    "title": "Maths",
+    "groups": [
+     {
+      "id": "sieve-of-eratosthenes",
+      "title": "Sieve of Eratosthenes",
+      "problemIds": [
+       "print-all-primes-till-n",
+       "prime-factorisation-of-a-number",
+       "count-primes-in-range-l-to-r"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sde",
+  "slug": "strivers-sde-sheet",
+  "name": "SDE Sheet",
+  "short": "SDE",
+  "description": "",
+  "count": 156,
+  "sections": [
+   {
+    "id": "arrays",
+    "title": "Arrays",
+    "groups": [
+     {
+      "id": "arrays",
+      "title": "",
+      "problemIds": [
+       "set-matrix-zeroes",
+       "pascals-triangle-i",
+       "next-permutation",
+       "kadane's-algorithm",
+       "sort-an-array-of-0's-1's-and-2's"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "arrays-part-ii",
+    "title": "Arrays Part-II",
+    "groups": [
+     {
+      "id": "arrays-part-ii",
+      "title": "",
+      "problemIds": [
+       "rotate-matrix-by-90-degrees",
+       "merge-overlapping-subintervals",
+       "merge-two-sorted-arrays-without-extra-space",
+       "find-the-duplicate-number",
+       "find-the-repeating-and-missing-number"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "arrays-part-iii",
+    "title": "Arrays Part-III",
+    "groups": [
+     {
+      "id": "arrays-part-iii",
+      "title": "",
+      "problemIds": [
+       "search-in-a-2d-matrix",
+       "majority-element-i",
+       "majority-element-ii",
+       "grid-unique-paths",
+       "reverse-pairs"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "arrays-part-iv",
+    "title": "Arrays Part-IV",
+    "groups": [
+     {
+      "id": "arrays-part-iv",
+      "title": "",
+      "problemIds": [
+       "two-sum",
+       "4-sum",
+       "longest-consecutive-sequence-in-an-array",
+       "count-subarrays-with-given-xor-k",
+       "longest-substring-without-repeating-characters"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list",
+    "title": "Linked List",
+    "groups": [
+     {
+      "id": "linked-list",
+      "title": "",
+      "problemIds": [
+       "reverse-a-ll",
+       "find-middle-of-linked-list",
+       "merge-sorted-lists-",
+       "remove-nth-node-from-the-back-of-the-ll",
+       "delete-node-in-a-linked-list-o1"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list-part-ii",
+    "title": "Linked List Part-II",
+    "groups": [
+     {
+      "id": "linked-list-part-ii",
+      "title": "",
+      "problemIds": [
+       "find-the-intersection-point-of-y-ll",
+       "detect-a-loop-in-ll",
+       "reverse-ll-in-group-of-given-size-k",
+       "check-if-ll-is-palindrome-or-not",
+       "find-the-starting-point-in-ll",
+       "flattening-of-ll"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list-and-arrays",
+    "title": "Linked List and Arrays",
+    "groups": [
+     {
+      "id": "linked-list-and-arrays",
+      "title": "",
+      "problemIds": [
+       "rotate-a-ll",
+       "clone-a-ll-with-random-and-next-pointer",
+       "3-sum",
+       "trapping-rainwater",
+       "remove-duplicates-from-sorted-array",
+       "maximum-consecutive-ones"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "greedy-algorithm",
+    "title": "Greedy Algorithm",
+    "groups": [
+     {
+      "id": "greedy-algorithm",
+      "title": "",
+      "problemIds": [
+       "n-meetings-in-one-room",
+       "minimum-number-of-platforms-required-for-a-railway",
+       "job-sequencing-problem",
+       "fractional-knapsack",
+       "minimum-coins",
+       "assign-cookies"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "recursion",
+    "title": "Recursion",
+    "groups": [
+     {
+      "id": "recursion",
+      "title": "",
+      "problemIds": [
+       "subsets-ii",
+       "combination-sum",
+       "combination-sum-ii",
+       "palindrome-partitioning",
+       "permutation-sequence"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "recursion-and-backtracking",
+    "title": "Recursion and Backtracking",
+    "groups": [
+     {
+      "id": "recursion-and-backtracking",
+      "title": "",
+      "problemIds": [
+       "permutations-of-a-string",
+       "n-queen",
+       "sudoko-solver",
+       "m-coloring-problem",
+       "rat-in-a-maze"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "groups": [
+     {
+      "id": "binary-search",
+      "title": "",
+      "problemIds": [
+       "matrix-median",
+       "single-element-in-sorted-array",
+       "median-of-2-sorted-arrays",
+       "kth-element-of-2-sorted-arrays",
+       "allocate-minimum-number-of-pages",
+       "aggressive-cows"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "heaps",
+    "title": "Heaps",
+    "groups": [
+     {
+      "id": "heaps",
+      "title": "",
+      "problemIds": [
+       "implement-max-heap",
+       "k-th-largest-element-in-an-array",
+       "maximum-sum-combination",
+       "find-median-from-data-stream",
+       "merge-k-sorted-arrays",
+       "top-k-frequent-elements"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stack-and-queue",
+    "title": "Stack and Queue",
+    "groups": [
+     {
+      "id": "stack-and-queue",
+      "title": "",
+      "problemIds": [
+       "implement-stack-using-arrays",
+       "implement-queue-using-arrays",
+       "implement-queue-using-stack",
+       "balanced-paranthesis",
+       "next-greater-element",
+       "sort-a-stack"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stack-and-queue-part-ii",
+    "title": "Stack and Queue Part-II",
+    "groups": [
+     {
+      "id": "stack-and-queue-part-ii",
+      "title": "",
+      "problemIds": [
+       "next-smaller-element",
+       "lru-cache",
+       "lfu-cache",
+       "largest-rectangle-in-a-histogram",
+       "sliding-window-maximum",
+       "implement-min-stack",
+       "rotten-oranges",
+       "stock-span-problem",
+       "maximum-of-minimums-for-every-window-size",
+       "celebrity-problem"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "string",
+    "title": "String",
+    "groups": [
+     {
+      "id": "string",
+      "title": "",
+      "problemIds": [
+       "reverse-every-word-in-a-string",
+       "longest-palindrome-in-a-string",
+       "roman-to-integer",
+       "implement-strstr",
+       "longest-common-prefix",
+       "rabin-karp-algorithm"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "string-part-ii",
+    "title": "String Part-II",
+    "groups": [
+     {
+      "id": "string-part-ii",
+      "title": "",
+      "problemIds": [
+       "z-function",
+       "kmp-algorithm-or-lps-array",
+       "minimum-insertions-to-make-string-palindrome",
+       "valid-anagram",
+       "count-and-say",
+       "compare-version-numbers"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-tree",
+    "title": "Binary Tree",
+    "groups": [
+     {
+      "id": "binary-tree",
+      "title": "",
+      "problemIds": [
+       "inorder-traversal",
+       "postorder-traversal",
+       "morris-inorder-traversal-",
+       "morris-preorder-traversal-",
+       "right-left-view-of-bt",
+       "bottom-view-of-bt",
+       "top-view-of-bt",
+       "pre,-post,-inorder-in-one-traversal",
+       "vertical-order-traversal",
+       "print-root-to-leaf-path-in-bt",
+       "maximum-width-of-bt"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-tree-part-ii",
+    "title": "Binary Tree part-II",
+    "groups": [
+     {
+      "id": "binary-tree-part-ii",
+      "title": "",
+      "problemIds": [
+       "level-order-traversal",
+       "maximum-depth-in-bt",
+       "diameter-of-binary-tree",
+       "check-for-balanced-binary-tree",
+       "lca-in-bt",
+       "check-if-two-trees-are-identical-or-not",
+       "zig-zag-or-spiral-traversal",
+       "boundary-traversal"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-tree-part-iii",
+    "title": "Binary Tree part-III",
+    "groups": [
+     {
+      "id": "binary-tree-part-iii",
+      "title": "",
+      "problemIds": [
+       "maximum-path-sum-",
+       "construct-a-bt-from-preorder-and-inorder",
+       "construct-a-bt-from-postorder-and-inorder",
+       "flatten-binary-tree-to-linked-list",
+       "check-for-symmetrical-bts",
+       "children-sum-property-in-binary-tree"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search-tree",
+    "title": "Binary Search Tree",
+    "groups": [
+     {
+      "id": "binary-search-tree",
+      "title": "",
+      "problemIds": [
+       "populating-next-right-pointers-in-each-node",
+       "search-in-bst",
+       "construct-bst-from-given-keys",
+       "construct-a-bst-from-a-preorder-traversal",
+       "check-if-a-tree-is-a-bst-or-not",
+       "lca-in-bst",
+       "inorder-successor-and-predecessor-in-bst"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search-tree-part-ii",
+    "title": "Binary Search Tree Part-II",
+    "groups": [
+     {
+      "id": "binary-search-tree-part-ii",
+      "title": "",
+      "problemIds": [
+       "kth-smallest-and-largest-element-in-bst",
+       "two-sum-in-bst",
+       "bst-iterator",
+       "serialize-and-de-serialize-bt"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-trees-miscellaneous",
+    "title": "Binary Trees[Miscellaneous]",
+    "groups": [
+     {
+      "id": "binary-trees-miscellaneous",
+      "title": "",
+      "problemIds": [
+       "binary-tree-to-doubly-linked-list",
+       "find-median-in-a-stream",
+       "kth-largest-element-in-a-stream-of-running-integers",
+       "distinct-numbers-in-each-subarray"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graph",
+    "title": "Graph",
+    "groups": [
+     {
+      "id": "graph",
+      "title": "",
+      "problemIds": [
+       "clone-graph",
+       "traversal-techniques",
+       "bipartite-graph"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graph-part-ii",
+    "title": "Graph Part-II",
+    "groups": [
+     {
+      "id": "graph-part-ii",
+      "title": "",
+      "problemIds": [
+       "dijkstra's-algorithm",
+       "bellman-ford-algorithm"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming",
+    "title": "Dynamic Programming",
+    "groups": [
+     {
+      "id": "dynamic-programming",
+      "title": "",
+      "problemIds": [
+       "longest-increasing-subsequence",
+       "longest-common-subsequence",
+       "0-and-1-knapsack",
+       "edit-distance",
+       "maximum-sum-increasing-subsequence",
+       "matrix-chain-multiplication"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming-part-ii",
+    "title": "Dynamic Programming Part-II",
+    "groups": [
+     {
+      "id": "dynamic-programming-part-ii",
+      "title": "",
+      "problemIds": [
+       "coin-change-ii",
+       "subset-sum-equals-to-target",
+       "rod-cutting-problem",
+       "super-egg-drop",
+       "word-break",
+       "maximum-profit-in-job-scheduling"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "trie",
+    "title": "Trie",
+    "groups": [
+     {
+      "id": "trie",
+      "title": "",
+      "problemIds": [
+       "trie-implementation-and-operations",
+       "trie-implementation-and-advanced-operations",
+       "longest-word-with-all-prefixes",
+       "number-of-distinct-substrings-in-a-string",
+       "maximum-xor-of-two-numbers-in-an-array",
+       "maximum-xor-with-an-element-from-an-array"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "s75",
+  "slug": "strivers-75-sheet",
+  "name": "Striver’s 75 – India’s Blind 75 Alternative",
+  "short": "Striver's 75",
+  "description": "Revisit core DSA patterns with a focused set of questions for coding interviews and placements.\nPractise choosing an approach, explaining its complexity, and solving difficult problems independently.",
+  "count": 75,
+  "sections": [
+   {
+    "id": "arrays-and-hashing",
+    "title": "Arrays and Hashing",
+    "groups": [
+     {
+      "id": "arrays-and-hashing",
+      "title": "",
+      "problemIds": [
+       "kadane's-algorithm",
+       "3-sum",
+       "longest-consecutive-sequence-in-an-array",
+       "count-subarrays-with-given-sum",
+       "majority-element-ii",
+       "next-permutation",
+       "maximum-product-subarray-in-an-array",
+       "count-subarrays-with-given-xor-k",
+       "count-inversions"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search-and-search-on-answer",
+    "title": "Binary Search and Search on Answer",
+    "groups": [
+     {
+      "id": "binary-search-and-search-on-answer",
+      "title": "",
+      "problemIds": [
+       "search-in-rotated-sorted-array-i",
+       "koko-eating-bananas",
+       "aggressive-cows",
+       "split-array---largest-sum",
+       "median-of-2-sorted-arrays"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sliding-window-and-two-pointers",
+    "title": "Sliding Window and Two Pointers",
+    "groups": [
+     {
+      "id": "sliding-window-and-two-pointers",
+      "title": "",
+      "problemIds": [
+       "longest-substring-without-repeating-characters",
+       "longest-substring-with-at-most-k-distinct-characters",
+       "longest-repeating-character-replacement",
+       "binary-subarrays-with-sum",
+       "minimum-window-substring-"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-lists",
+    "title": "Linked Lists",
+    "groups": [
+     {
+      "id": "linked-lists",
+      "title": "",
+      "problemIds": [
+       "remove-nth-node-from-the-back-of-the-ll",
+       "find-the-starting-point-in-ll",
+       "add-two-numbers-in-ll",
+       "clone-a-ll-with-random-and-next-pointer",
+       "flattening-of-ll",
+       "reverse-ll-in-group-of-given-size-k"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stacks-queues-heaps-and-caches",
+    "title": "Stacks, Queues, Heaps and Caches",
+    "groups": [
+     {
+      "id": "stacks-queues-heaps-and-caches",
+      "title": "",
+      "problemIds": [
+       "k-th-largest-element-in-an-array",
+       "asteroid-collision",
+       "sum-of-subarray-minimums",
+       "lru-cache",
+       "sliding-window-maximum",
+       "trapping-rainwater",
+       "largest-rectangle-in-a-histogram",
+       "lfu-cache"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "greedy-and-intervals",
+    "title": "Greedy and Intervals",
+    "groups": [
+     {
+      "id": "greedy-and-intervals",
+      "title": "",
+      "problemIds": [
+       "non-overlapping-intervals",
+       "candy"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-trees-and-bst",
+    "title": "Binary Trees and BST",
+    "groups": [
+     {
+      "id": "binary-trees-and-bst",
+      "title": "",
+      "problemIds": [
+       "diameter-of-binary-tree",
+       "lca-in-bt",
+       "check-if-a-tree-is-a-bst-or-not",
+       "construct-a-bt-from-preorder-and-inorder",
+       "correct-bst-with-two-nodes-swapped",
+       "maximum-path-sum-",
+       "vertical-order-traversal",
+       "minimum-time-taken-to-burn-the-bt-from-a-given-node",
+       "serialize-and-de-serialize-bt"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "recursion-backtracking-and-tries",
+    "title": "Recursion, Backtracking and Tries",
+    "groups": [
+     {
+      "id": "recursion-backtracking-and-tries",
+      "title": "",
+      "problemIds": [
+       "combination-sum",
+       "palindrome-partitioning",
+       "word-search",
+       "maximum-xor-of-two-numbers-in-an-array",
+       "trie-implementation-and-advanced-operations",
+       "n-queen",
+       "sudoko-solver"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graphs-shortest-paths-and-dsu",
+    "title": "Graphs, Shortest Paths and DSU",
+    "groups": [
+     {
+      "id": "graphs-shortest-paths-and-dsu",
+      "title": "",
+      "problemIds": [
+       "number-of-islands",
+       "rotten-oranges",
+       "bipartite-graph",
+       "course-schedule-ii",
+       "dijkstra's-algorithm",
+       "accounts-merge",
+       "shortest-path-with-minimum-effort",
+       "cheapest-flight-within-k-stops",
+       "find-the-mst-weight",
+       "making-a-large-island",
+       "bridges-in-graph",
+       "word-ladder-ii"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming",
+    "title": "Dynamic Programming",
+    "groups": [
+     {
+      "id": "dynamic-programming",
+      "title": "",
+      "problemIds": [
+       "house-robber",
+       "longest-increasing-subsequence",
+       "0-and-1-knapsack",
+       "minimum-coins",
+       "longest-common-subsequence",
+       "edit-distance",
+       "best-time-to-buy-and-sell-stock-iii",
+       "distinct-subsequences",
+       "cherry-pickup-ii",
+       "burst-balloons"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "string-matching",
+    "title": "String Matching",
+    "groups": [
+     {
+      "id": "string-matching",
+      "title": "",
+      "problemIds": [
+       "shortest-palindrome"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "number-theory",
+    "title": "Number Theory",
+    "groups": [
+     {
+      "id": "number-theory",
+      "title": "",
+      "problemIds": [
+       "count-primes-in-range-l-to-r"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "blind75",
+  "slug": "blind-75",
+  "name": "Blind 75 Sheet",
+  "short": "Blind 75",
+  "description": "Refresh your DSA knowledge with problems across arrays, strings, trees, graphs, dynamic programming, and more.\nCompare approaches, explain their complexity, and revisit the problems that challenge you.",
+  "count": 69,
+  "sections": [
+   {
+    "id": "array",
+    "title": "Array",
+    "groups": [
+     {
+      "id": "array",
+      "title": "",
+      "problemIds": [
+       "two-sum",
+       "best-time-to-buy-and-sell-stock",
+       "contains-duplicate",
+       "product-of-array-except-self",
+       "maximum-product-subarray-in-an-array",
+       "find-minimum-in-rotated-sorted-array",
+       "search-in-rotated-sorted-array-i",
+       "3-sum",
+       "container-with-most-water"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary",
+    "title": "Binary",
+    "groups": [
+     {
+      "id": "binary",
+      "title": "",
+      "problemIds": [
+       "sum-of-two-integers",
+       "number-of-1-bits",
+       "counting-bits",
+       "find-missing-number",
+       "reverse-bit"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming",
+    "title": "Dynamic Programming",
+    "groups": [
+     {
+      "id": "dynamic-programming",
+      "title": "",
+      "problemIds": [
+       "climbing-stairs",
+       "coin-change-ii",
+       "longest-increasing-subsequence",
+       "longest-common-subsequence",
+       "word-break",
+       "combination-sum",
+       "maximum-sum-of-non-adjacent-elements",
+       "house-robber",
+       "decode-ways",
+       "grid-unique-paths",
+       "jump-game---i"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graph",
+    "title": "Graph",
+    "groups": [
+     {
+      "id": "graph",
+      "title": "",
+      "problemIds": [
+       "clone-graph",
+       "course-schedule-i",
+       "pacific-atlantic-water-flow",
+       "longest-consecutive-sequence-in-an-array",
+       "alient-dictionary",
+       "graph-valid-tree",
+       "connected-components"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "interval",
+    "title": "Interval",
+    "groups": [
+     {
+      "id": "interval",
+      "title": "",
+      "problemIds": [
+       "insert-interval",
+       "merge-intervals",
+       "non-overlapping-intervals",
+       "find-the-repeating-and-missing-number",
+       "meeting-rooms",
+       "meeting-rooms-ii"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list",
+    "title": "Linked List",
+    "groups": [
+     {
+      "id": "linked-list",
+      "title": "",
+      "problemIds": [
+       "reverse-a-ll",
+       "detect-a-loop-in-ll",
+       "merge-sorted-lists-",
+       "merge-k-sorted-arrays",
+       "remove-nth-node-from-the-back-of-the-ll",
+       "reorder-list"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "matrix",
+    "title": "Matrix",
+    "groups": [
+     {
+      "id": "matrix",
+      "title": "",
+      "problemIds": [
+       "set-matrix-zeroes",
+       "print-the-matrix-in-spiral-manner",
+       "rotate-matrix-by-90-degrees",
+       "word-search"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "string",
+    "title": "String",
+    "groups": [
+     {
+      "id": "string",
+      "title": "",
+      "problemIds": [
+       "longest-repeating-character-replacement",
+       "minimum-window-substring-",
+       "valid-anagram",
+       "group-words-by-anagrams",
+       "balanced-paranthesis",
+       "palindrome-number",
+       "longest-palindromic-substring",
+       "palindromic-substrings",
+       "encode-and-decode-strings"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "tree",
+    "title": "Tree",
+    "groups": [
+     {
+      "id": "tree",
+      "title": "",
+      "problemIds": [
+       "maximum-depth-in-bt",
+       "check-if-two-trees-are-identical-or-not",
+       "maximum-path-sum-",
+       "level-order-traversal",
+       "serialize-and-de-serialize-bt",
+       "subtree-of-another-tree",
+       "check-if-a-tree-is-a-bst-or-not",
+       "lca-in-bst",
+       "trie-implementation-and-operations",
+       "trie-implementation-and-advanced-operations"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "heap",
+    "title": "Heap",
+    "groups": [
+     {
+      "id": "heap",
+      "title": "",
+      "problemIds": [
+       "top-k-frequent-elements",
+       "find-median-from-data-stream"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p150",
+  "slug": "strivers-150-master-patterns-in-dsa",
+  "name": "Strivers 150 – Master Patterns in DSA",
+  "short": "150 Patterns",
+  "description": "Build your approach to coding interviews with 150 DSA questions organised by topic and problem-solving pattern.\nLearn when a technique applies, compare related problems, and practise adapting your solution to new constraints.",
+  "count": 150,
+  "sections": [
+   {
+    "id": "arrays",
+    "title": "Arrays",
+    "groups": [
+     {
+      "id": "linear-scan-and-state-tracking",
+      "title": "Linear Scan and State Tracking",
+      "problemIds": [
+       "move-zeros-to-end",
+       "remove-duplicates-from-sorted-array",
+       "find-missing-number",
+       "majority-element-i",
+       "kadane's-algorithm",
+       "maximum-product-subarray-in-an-array"
+      ]
+     },
+     {
+      "id": "two-pointer-and-in-place-manipulation",
+      "title": "Two Pointer and In-place Manipulation",
+      "problemIds": [
+       "palindrome-check",
+       "sort-an-array-of-0's-1's-and-2's",
+       "rearrange-array-elements-by-sign",
+       "print-the-matrix-in-spiral-manner",
+       "rotate-matrix-by-90-degrees",
+       "3-sum",
+       "trapping-rainwater"
+      ]
+     },
+     {
+      "id": "divide-and-conquer-merge-sort-counting",
+      "title": "Divide and Conquer / Merge Sort Counting",
+      "problemIds": [
+       "count-inversions",
+       "reverse-pairs"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hashing",
+    "title": "Hashing",
+    "groups": [
+     {
+      "id": "hash-sets-and-prefix-hashing",
+      "title": "Hash Sets and Prefix Hashing",
+      "problemIds": [
+       "two-sum",
+       "valid-anagram",
+       "sort-characters-by-frequency",
+       "longest-consecutive-sequence-in-an-array",
+       "longest-subarray-with-sum-k",
+       "count-subarrays-with-given-sum"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sliding-window-and-two-pointers",
+    "title": "Sliding Window and Two Pointers",
+    "groups": [
+     {
+      "id": "counting-windows-and-exact-constraints",
+      "title": "Counting Windows and Exact Constraints",
+      "problemIds": [
+       "binary-subarrays-with-sum"
+      ]
+     },
+     {
+      "id": "sliding-window-optimization",
+      "title": "Sliding Window Optimization",
+      "problemIds": [
+       "longest-substring-without-repeating-characters",
+       "maximum-points-you-can-obtain-from-cards-",
+       "max-consecutive-ones-iii",
+       "fruit-into-baskets",
+       "longest-repeating-character-replacement",
+       "longest-substring-with-at-most-k-distinct-characters",
+       "minimum-window-substring-"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "groups": [
+     {
+      "id": "sorted-rotated-and-matrix-search",
+      "title": "Sorted, Rotated and Matrix Search",
+      "problemIds": [
+       "search-x-in-sorted-array",
+       "search-insert-position",
+       "first-and-last-occurrence",
+       "search-in-rotated-sorted-array-i",
+       "search-in-a-2d-matrix",
+       "single-element-in-sorted-array"
+      ]
+     },
+     {
+      "id": "search-on-answer",
+      "title": "Search on Answer",
+      "problemIds": [
+       "find-peak-element",
+       "find-the-smallest-divisor",
+       "minimum-days-to-make-m-bouquets",
+       "split-array---largest-sum"
+      ]
+     },
+     {
+      "id": "partition-search-on-sorted-arrays",
+      "title": "Partition Search on Sorted Arrays",
+      "problemIds": [
+       "median-of-2-sorted-arrays"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "strings",
+    "title": "Strings",
+    "groups": [
+     {
+      "id": "linear-scan-and-state-tracking",
+      "title": "Linear Scan and State Tracking",
+      "problemIds": [
+       "longest-common-prefix",
+       "count-and-say",
+       "reverse-every-word-in-a-string",
+       "minimum-number-of-bracket-reversals-to-make-an-expression-balanced"
+      ]
+     },
+     {
+      "id": "string-matching-rolling-hash",
+      "title": "String Matching / Rolling Hash",
+      "problemIds": [
+       "shortest-palindrome"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stack-and-queues",
+    "title": "Stack and Queues",
+    "groups": [
+     {
+      "id": "stack-queue-and-data-structure-design",
+      "title": "Stack, Queue and Data Structure Design",
+      "problemIds": [
+       "balanced-paranthesis",
+       "implement-queue-using-stack",
+       "implement-min-stack",
+       "lru-cache",
+       "asteroid-collision",
+       "lfu-cache"
+      ]
+     },
+     {
+      "id": "monotonic-stack-queue",
+      "title": "Monotonic Stack / Queue",
+      "problemIds": [
+       "next-greater-element---2",
+       "sliding-window-maximum",
+       "largest-rectangle-in-a-histogram",
+       "maximum-rectangles"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list",
+    "title": "Linked List",
+    "groups": [
+     {
+      "id": "pointer-traversal-and-cycle-detection",
+      "title": "Pointer Traversal and Cycle Detection",
+      "problemIds": [
+       "find-middle-of-linked-list",
+       "detect-a-loop-in-ll",
+       "delete-the-middle-node-in-ll",
+       "remove-nth-node-from-the-back-of-the-ll"
+      ]
+     },
+     {
+      "id": "in-place-reversal-rewiring-and-merge",
+      "title": "In-place Reversal, Rewiring and Merge",
+      "problemIds": [
+       "reverse-a-ll",
+       "merge-sorted-lists-",
+       "add-two-numbers-in-ll",
+       "add-one-to-a-number-represented-by-ll",
+       "segregate-odd-and-even-nodes-in-ll",
+       "clone-a-ll-with-random-and-next-pointer",
+       "reverse-ll-in-group-of-given-size-k"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-trees",
+    "title": "Binary Trees",
+    "groups": [
+     {
+      "id": "tree-dfs-construction-and-tree-dp",
+      "title": "Tree DFS, Construction and Tree DP",
+      "problemIds": [
+       "inorder-traversal",
+       "maximum-depth-in-bt",
+       "check-for-balanced-binary-tree",
+       "diameter-of-binary-tree",
+       "lca-in-bt",
+       "construct-a-bt-from-preorder-and-inorder",
+       "maximum-path-sum-",
+       "serialize-and-de-serialize-bt"
+      ]
+     },
+     {
+      "id": "bfs-views-and-tree-transformation",
+      "title": "BFS / Views and Tree Transformation",
+      "problemIds": [
+       "level-order-traversal",
+       "right-left-view-of-bt",
+       "zig-zag-or-spiral-traversal"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search-trees",
+    "title": "Binary Search Trees",
+    "groups": [
+     {
+      "id": "bst-ordering-and-inorder",
+      "title": "BST Ordering and Inorder",
+      "problemIds": [
+       "search-in-bst",
+       "insert-a-given-node-in-bst",
+       "delete-a-node-in-bst",
+       "check-if-a-tree-is-a-bst-or-not",
+       "kth-smallest-and-largest-element-in-bst",
+       "lca-in-bst"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "heaps",
+    "title": "Heaps",
+    "groups": [
+     {
+      "id": "heap-and-priority-queue",
+      "title": "Heap and Priority Queue",
+      "problemIds": [
+       "kth-largest-element-in-a-stream-of-running-integers",
+       "heapify-algorithm",
+       "build-heap-from-a-given-array",
+       "implement-max-heap",
+       "k-th-largest-element-in-an-array",
+       "heap-sort"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "recursion-and-backtracking",
+    "title": "Recursion and Backtracking",
+    "groups": [
+     {
+      "id": "subsets-combinations-and-partitioning",
+      "title": "Subsets, Combinations and Partitioning",
+      "problemIds": [
+       "subsets-i",
+       "generate-parentheses",
+       "letter-combinations-of-a-phone-number",
+       "combination-sum",
+       "check-if-there-exists-a-subsequence-with-sum-k",
+       "combination-sum-iii",
+       "subsets-ii",
+       "palindrome-partitioning"
+      ]
+     },
+     {
+      "id": "constraint-satisfaction-and-grid-backtracking",
+      "title": "Constraint Satisfaction and Grid Backtracking",
+      "problemIds": [
+       "word-search",
+       "n-queen",
+       "sudoko-solver"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "greedy-algorithms",
+    "title": "Greedy Algorithms",
+    "groups": [
+     {
+      "id": "intervals-scheduling",
+      "title": "Intervals / Scheduling",
+      "problemIds": [
+       "n-meetings-in-one-room",
+       "insert-interval",
+       "non-overlapping-intervals"
+      ]
+     },
+     {
+      "id": "greedy-choice-and-feasibility",
+      "title": "Greedy Choice and Feasibility",
+      "problemIds": [
+       "jump-game---i",
+       "valid-paranthesis-checker",
+       "candy"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graphs",
+    "title": "Graphs",
+    "groups": [
+     {
+      "id": "graph-dfs-bfs-and-grid-traversal",
+      "title": "Graph DFS / BFS and Grid Traversal",
+      "problemIds": [
+       "flood-fill-algorithm",
+       "number-of-provinces",
+       "number-of-islands",
+       "number-of-enclaves",
+       "rotten-oranges",
+       "surrounded-regions"
+      ]
+     },
+     {
+      "id": "graph-ordering-and-structural-connectivity",
+      "title": "Graph Ordering and Structural Connectivity",
+      "problemIds": [
+       "detect-a-cycle-in-an-undirected-graph",
+       "bipartite-graph",
+       "course-schedule-i",
+       "course-schedule-ii",
+       "find-eventual-safe-states"
+      ]
+     },
+     {
+      "id": "disjoint-set-union-and-mst",
+      "title": "Disjoint Set Union and MST",
+      "problemIds": [
+       "connected-components",
+       "accounts-merge",
+       "most-stones-removed-with-same-row-or-column",
+       "making-a-large-island"
+      ]
+     },
+     {
+      "id": "shortest-path",
+      "title": "Shortest Path",
+      "problemIds": [
+       "dijkstra's-algorithm",
+       "word-ladder-i"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming",
+    "title": "Dynamic Programming",
+    "groups": [
+     {
+      "id": "linear-grid-and-multi-state-dp",
+      "title": "Linear, Grid and Multi-State DP",
+      "problemIds": [
+       "climbing-stairs",
+       "best-time-to-buy-and-sell-stock",
+       "house-robber",
+       "maximum-sum-of-non-adjacent-elements",
+       "best-time-to-buy-and-sell-stock-ii",
+       "best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
+       "minimum-coins",
+       "grid-unique-paths",
+       "minimum-falling-path-sum",
+       "triangle"
+      ]
+     },
+     {
+      "id": "knapsack-subset-dp",
+      "title": "Knapsack / Subset DP",
+      "problemIds": [
+       "subset-sum-equals-to-target",
+       "partition-equal-subset-sum",
+       "target-sum"
+      ]
+     },
+     {
+      "id": "lis-sequence-and-string-dp",
+      "title": "LIS, Sequence and String DP",
+      "problemIds": [
+       "longest-increasing-subsequence",
+       "longest-common-subsequence",
+       "edit-distance",
+       "distinct-subsequences",
+       "wildcard-matching"
+      ]
+     },
+     {
+      "id": "interval-partition-dp",
+      "title": "Interval / Partition DP",
+      "problemIds": [
+       "palindrome-partitioning-ii-",
+       "burst-balloons"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "tries",
+    "title": "Tries",
+    "groups": [
+     {
+      "id": "prefix-matching-and-bitwise-trie",
+      "title": "Prefix Matching and Bitwise Trie",
+      "problemIds": [
+       "trie-implementation-and-operations",
+       "trie-implementation-and-advanced-operations",
+       "longest-word-with-all-prefixes"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bit-manipulation",
+    "title": "Bit Manipulation",
+    "groups": [
+     {
+      "id": "bitwise-xor-and-bitmask-enumeration",
+      "title": "Bitwise XOR and Bitmask Enumeration",
+      "problemIds": [
+       "minimum-bit-flips-to-convert-number",
+       "single-number---i",
+       "single-number---ii"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mathematics",
+    "title": "Mathematics",
+    "groups": [
+     {
+      "id": "number-theory",
+      "title": "Number Theory",
+      "problemIds": [
+       "pow(x,n)"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "p180",
+  "slug": "strivers-180-master-dsa-patterns",
+  "name": "Striver's 180 – Master DSA Patterns",
+  "short": "180 Patterns",
+  "description": "Recognise the approaches behind DSA problems with practice organised by topic and pattern.\nCompare related questions, explain your reasoning, and apply what you learn to unfamiliar coding interviews.",
+  "count": 179,
+  "sections": [
+   {
+    "id": "arrays",
+    "title": "Arrays",
+    "groups": [
+     {
+      "id": "linear-scan",
+      "title": "Linear Scan",
+      "problemIds": [
+       "majority-element-i",
+       "kadane's-algorithm",
+       "majority-element-ii",
+       "maximum-product-subarray-in-an-array"
+      ]
+     },
+     {
+      "id": "two-pointers",
+      "title": "Two Pointers",
+      "problemIds": [
+       "sort-an-array-of-0's-1's-and-2's",
+       "3-sum",
+       "next-permutation",
+       "4-sum",
+       "merge-two-sorted-arrays-without-extra-space",
+       "trapping-rainwater"
+      ]
+     },
+     {
+      "id": "divide-and-conquer",
+      "title": "Divide and Conquer",
+      "problemIds": [
+       "count-inversions",
+       "reverse-pairs"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "hashing",
+    "title": "Hashing",
+    "groups": [
+     {
+      "id": "hashing-prefix-sums",
+      "title": "Hashing & Prefix Sums",
+      "problemIds": [
+       "two-sum",
+       "longest-consecutive-sequence-in-an-array",
+       "longest-subarray-with-sum-k",
+       "count-subarrays-with-given-sum",
+       "count-subarrays-with-given-xor-k"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search",
+    "title": "Binary Search",
+    "groups": [
+     {
+      "id": "binary-search",
+      "title": "Binary Search",
+      "problemIds": [
+       "find-peak-element",
+       "find-minimum-in-rotated-sorted-array",
+       "search-in-rotated-sorted-array-2",
+       "single-element-in-sorted-array",
+       "search-in-2d-matrix-ii",
+       "find-peak-element-ii"
+      ]
+     },
+     {
+      "id": "search-on-answer",
+      "title": "Search on Answer",
+      "problemIds": [
+       "find-nth-root-of-a-number",
+       "koko-eating-bananas",
+       "aggressive-cows",
+       "book-allocation-problem",
+       "matrix-median"
+      ]
+     },
+     {
+      "id": "partition-search",
+      "title": "Partition Search",
+      "problemIds": [
+       "kth-element-of-2-sorted-arrays",
+       "median-of-2-sorted-arrays"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "sliding-window-and-two-pointers",
+    "title": "Sliding Window and Two Pointers",
+    "groups": [
+     {
+      "id": "sliding-window",
+      "title": "Sliding Window",
+      "problemIds": [
+       "longest-substring-without-repeating-characters",
+       "maximum-points-you-can-obtain-from-cards-",
+       "max-consecutive-ones-iii",
+       "longest-repeating-character-replacement",
+       "longest-substring-with-at-most-k-distinct-characters",
+       "minimum-window-substring-"
+      ]
+     },
+     {
+      "id": "counting-windows",
+      "title": "Counting Windows",
+      "problemIds": [
+       "number-of-substrings-containing-all-three-characters",
+       "binary-subarrays-with-sum",
+       "count-number-of-nice-subarrays"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "recursion-and-backtracking",
+    "title": "Recursion and Backtracking",
+    "groups": [
+     {
+      "id": "subsets-combinations",
+      "title": "Subsets & Combinations",
+      "problemIds": [
+       "power-set",
+       "generate-parentheses",
+       "letter-combinations-of-a-phone-number",
+       "combination-sum",
+       "combination-sum-ii",
+       "subsets-ii",
+       "palindrome-partitioning"
+      ]
+     },
+     {
+      "id": "backtracking",
+      "title": "Backtracking",
+      "problemIds": [
+       "word-search",
+       "n-queen",
+       "sudoko-solver"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "linked-list",
+    "title": "Linked List",
+    "groups": [
+     {
+      "id": "fast-slow-pointers",
+      "title": "Fast & Slow Pointers",
+      "problemIds": [
+       "find-middle-of-linked-list",
+       "find-the-intersection-point-of-y-ll",
+       "check-if-ll-is-palindrome-or-not",
+       "detect-a-loop-in-ll",
+       "remove-nth-node-from-the-back-of-the-ll",
+       "find-the-starting-point-in-ll",
+       "length-of-loop-in-ll"
+      ]
+     },
+     {
+      "id": "reversal-rewiring",
+      "title": "Reversal & Rewiring",
+      "problemIds": [
+       "reverse-a-ll",
+       "merge-sorted-lists-",
+       "sort-a-ll-of-0's-1's-and-2's",
+       "add-two-numbers-in-ll",
+       "rotate-a-ll",
+       "sort-ll",
+       "clone-a-ll-with-random-and-next-pointer",
+       "reverse-ll-in-group-of-given-size-k",
+       "flattening-of-ll"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "stack-and-queues",
+    "title": "Stack and Queues",
+    "groups": [
+     {
+      "id": "monotonic-stack-queue",
+      "title": "Monotonic Stack / Queue",
+      "problemIds": [
+       "next-greater-element",
+       "next-greater-element---2",
+       "stock-span-problem",
+       "sum-of-subarray-minimums",
+       "sum-of-subarray-ranges",
+       "remove-k-digits",
+       "sliding-window-maximum",
+       "largest-rectangle-in-a-histogram",
+       "maximum-rectangles"
+      ]
+     },
+     {
+      "id": "data-structure-design",
+      "title": "Data Structure Design",
+      "problemIds": [
+       "implement-min-stack",
+       "asteroid-collision",
+       "celebrity-problem",
+       "lru-cache",
+       "lfu-cache"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "greedy-algorithms",
+    "title": "Greedy Algorithms",
+    "groups": [
+     {
+      "id": "greedy",
+      "title": "Greedy",
+      "problemIds": [
+       "jump-game---i",
+       "valid-paranthesis-checker",
+       "candy"
+      ]
+     },
+     {
+      "id": "intervals-scheduling",
+      "title": "Intervals & Scheduling",
+      "problemIds": [
+       "n-meetings-in-one-room",
+       "insert-interval",
+       "non-overlapping-intervals",
+       "minimum-number-of-platforms-required-for-a-railway",
+       "job-sequencing-problem"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "heaps",
+    "title": "Heaps",
+    "groups": [
+     {
+      "id": "heap-priority-queue",
+      "title": "Heap / Priority Queue",
+      "problemIds": [
+       "heapify-algorithm",
+       "build-heap-from-a-given-array",
+       "implement-min-heap",
+       "k-th-largest-element-in-an-array",
+       "find-median-from-data-stream"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-trees",
+    "title": "Binary Trees",
+    "groups": [
+     {
+      "id": "bfs",
+      "title": "BFS",
+      "problemIds": [
+       "level-order-traversal",
+       "maximum-width-of-bt",
+       "right-left-view-of-bt",
+       "top-view-of-bt",
+       "print-all-nodes-at-a-distance-of-k-in-bt",
+       "minimum-time-taken-to-burn-the-bt-from-a-given-node",
+       "vertical-order-traversal"
+      ]
+     },
+     {
+      "id": "dfs-tree-dp",
+      "title": "DFS / Tree DP",
+      "problemIds": [
+       "print-root-to-leaf-path-in-bt",
+       "diameter-of-binary-tree",
+       "lca-in-bt",
+       "boundary-traversal",
+       "construct-a-bt-from-preorder-and-inorder",
+       "morris-inorder-traversal-",
+       "maximum-path-sum-",
+       "serialize-and-de-serialize-bt"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "binary-search-trees",
+    "title": "Binary Search Trees",
+    "groups": [
+     {
+      "id": "inorder-traversal",
+      "title": "Inorder Traversal",
+      "problemIds": [
+       "insert-a-given-node-in-bst",
+       "lca-in-bst",
+       "delete-a-node-in-bst",
+       "inorder-successor-and-predecessor-in-bst",
+       "kth-smallest-and-largest-element-in-bst",
+       "check-if-a-tree-is-a-bst-or-not",
+       "construct-a-bst-from-a-preorder-traversal",
+       "two-sum-in-bst",
+       "correct-bst-with-two-nodes-swapped",
+       "largest-bst-in-binary-tree"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "graphs",
+    "title": "Graphs",
+    "groups": [
+     {
+      "id": "bfs-dfs",
+      "title": "BFS / DFS",
+      "problemIds": [
+       "flood-fill-algorithm",
+       "number-of-islands",
+       "rotten-oranges",
+       "distance-of-nearest-cell-having-one",
+       "surrounded-regions",
+       "number-of-distinct-islands",
+       "detect-a-cycle-in-an-undirected-graph",
+       "bipartite-graph"
+      ]
+     },
+     {
+      "id": "ordering-connectivity",
+      "title": "Ordering & Connectivity",
+      "problemIds": [
+       "detect-a-cycle-in-a-directed-graph",
+       "topological-sort-or-kahns-algorithm",
+       "course-schedule-ii",
+       "alient-dictionary",
+       "kosaraju's-algorithm",
+       "bridges-in-graph",
+       "articulation-point-in-graph"
+      ]
+     },
+     {
+      "id": "shortest-path",
+      "title": "Shortest Path",
+      "problemIds": [
+       "shortest-path-in-undirected-graph-with-unit-weights",
+       "shortest-path-in-dag",
+       "dijkstra's-algorithm",
+       "path-with-minimum-effort",
+       "cheapest-flight-within-k-stops",
+       "bellman-ford-algorithm",
+       "floyd-warshall-algorithm",
+       "word-ladder-i",
+       "word-ladder-ii"
+      ]
+     },
+     {
+      "id": "dsu-mst",
+      "title": "DSU / MST",
+      "problemIds": [
+       "disjoint-set-",
+       "find-the-mst-weight",
+       "number-of-operations-to-make-network-connected",
+       "number-of-islands-ii",
+       "making-a-large-island"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "dynamic-programming",
+    "title": "Dynamic Programming",
+    "groups": [
+     {
+      "id": "state-transition-dp",
+      "title": "State Transition DP",
+      "problemIds": [
+       "frog-jump-with-k-distances",
+       "house-robber",
+       "ninja's-training",
+       "unique-paths-ii",
+       "best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees",
+       "best-time-to-buy-and-sell-stock-iv"
+      ]
+     },
+     {
+      "id": "knapsack-dp",
+      "title": "Knapsack DP",
+      "problemIds": [
+       "0-and-1-knapsack",
+       "partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference",
+       "target-sum",
+       "coin-change-ii"
+      ]
+     },
+     {
+      "id": "sequence-dp",
+      "title": "Sequence DP",
+      "problemIds": [
+       "longest-common-subsequence",
+       "longest-common-substring",
+       "longest-palindromic-subsequence",
+       "longest-increasing-subsequence",
+       "number-of-longest-increasing-subsequences",
+       "edit-distance",
+       "wildcard-matching"
+      ]
+     },
+     {
+      "id": "partition-dp",
+      "title": "Partition DP",
+      "problemIds": [
+       "matrix-chain-multiplication",
+       "palindrome-partitioning-ii-"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "tries",
+    "title": "Tries",
+    "groups": [
+     {
+      "id": "trie",
+      "title": "Trie",
+      "problemIds": [
+       "trie-implementation-and-advanced-operations",
+       "longest-word-with-all-prefixes",
+       "number-of-distinct-substrings-in-a-string",
+       "maximum-xor-of-two-numbers-in-an-array",
+       "maximum-xor-with-an-element-from-an-array"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "strings",
+    "title": "Strings",
+    "groups": [
+     {
+      "id": "string-matching",
+      "title": "String Matching",
+      "problemIds": [
+       "rabin-karp-algorithm",
+       "z-function",
+       "kmp-algorithm-or-lps-array",
+       "shortest-palindrome"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "bit-manipulation",
+    "title": "Bit Manipulation",
+    "groups": [
+     {
+      "id": "bit-manipulation",
+      "title": "Bit Manipulation",
+      "problemIds": [
+       "power-set-bit-manipulation",
+       "single-number---ii",
+       "single-number---iii",
+       "find-the-repeating-and-missing-number"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mathematics",
+    "title": "Mathematics",
+    "groups": [
+     {
+      "id": "number-theory",
+      "title": "Number Theory",
+      "problemIds": [
+       "print-all-primes-till-n"
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

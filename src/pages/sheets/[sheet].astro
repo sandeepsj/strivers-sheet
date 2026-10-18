@@ -1,0 +1,99 @@
+---
+import Base from '../../layouts/Base.astro';
+import FilterBar from '../../components/FilterBar.astro';
+import GroupList from '../../components/GroupList.astro';
+import Progress from '../../components/Progress.tsx';
+import { sheets, sheetProblemIds, url, type Sheet } from '../../lib/data';
+
+export function getStaticPaths() {
+  return sheets.map((sheet) => ({ params: { sheet: sheet.id }, props: { sheet } }));
+}
+const { sheet } = Astro.props as { sheet: Sheet };
+---
+
+<Base title={`${sheet.name} · Sheet Tracker`} description={sheet.description}>
+  <a href={url('/')} class="muted back">← All sheets</a>
+  <h1>{sheet.name}</h1>
+  <p class="muted desc">{sheet.description}</p>
+  <div class="card summary"><Progress client:load ids={sheetProblemIds(sheet)} /></div>
+
+  <FilterBar />
+
+  {
+    sheet.sections.map((section, i) => {
+      const scope = `${sheet.id}--${section.id}`;
+      return (
+        <details class="section" id={scope} data-filter-block open={i === 0}>
+          <summary>
+            <span class="step">{String(i + 1).padStart(2, '0')}</span>
+            <span class="name">{section.title}</span>
+            <span class="count" data-count-for={scope} />
+          </summary>
+          <a class="topic-link" href={url(`/topics/${sheet.id}/${section.id}/`)}>
+            Topic page &amp; notes →
+          </a>
+          {section.groups.map((g) => (
+            <GroupList group={g} scope={scope} />
+          ))}
+        </details>
+      );
+    })
+  }
+</Base>
+
+<script>
+  import { enhanceLists } from '../../lib/list-client';
+  enhanceLists();
+</script>
+
+<style>
+  .back {
+    font-size: 13px;
+  }
+  h1 {
+    margin: 10px 0 6px;
+  }
+  .desc {
+    max-width: 720px;
+    white-space: pre-line;
+    margin: 0 0 16px;
+  }
+  .summary {
+    padding: 14px 18px;
+    max-width: 520px;
+  }
+  .section {
+    border-bottom: 1px solid var(--border);
+    padding: 6px 0 14px;
+  }
+  summary {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    padding: 10px 0 4px;
+    cursor: pointer;
+    list-style: none;
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 700;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary::after {
+    content: '+';
+    margin-left: auto;
+    color: var(--muted);
+    font-weight: 400;
+  }
+  details[open] > summary::after {
+    content: '−';
+  }
+  .step {
+    font: 500 13px var(--font-mono);
+    color: var(--muted);
+  }
+  .topic-link {
+    font-size: 13px;
+  }
+</style>

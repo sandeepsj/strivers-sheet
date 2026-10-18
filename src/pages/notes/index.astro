@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import NotesList from '../../components/NotesList.tsx';
+import { noteKey, problems, sheets, url } from '../../lib/data';
+
+const targets: Record<string, { title: string; href: string; kind: string }> = {};
+for (const p of problems) targets[noteKey.problem(p.id)] = { title: p.title, href: url(`/problems/${p.id}/`), kind: 'problem' };
+for (const s of sheets)
+  for (const sec of s.sections)
+    targets[noteKey.topic(s.id, sec.id)] = {
+      title: `${sec.title} (${s.short})`,
+      href: url(`/topics/${s.id}/${sec.id}/`),
+      kind: 'topic',
+    };
+---
+
+<Base title="My notes · Sheet Tracker">
+  <h1>My notes</h1>
+  <p class="muted">Stored as Markdown files in <code>Strivers Sheet/notes</code> in your Google Drive.</p>
+  <NotesList client:load targets={targets} />
+</Base>

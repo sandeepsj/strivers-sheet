@@ -1,0 +1,38 @@
+---
+import type { Group } from '../lib/data';
+import ProblemRow from './ProblemRow.astro';
+
+interface Props {
+  group: Group;
+  scope: string;
+}
+const { group, scope } = Astro.props;
+const id = `${scope}--${group.id}`;
+---
+
+<div class="group" data-filter-block>
+  {
+    group.title && (
+      <h3>
+        {group.title} <span class="count" data-count-for={id} />
+      </h3>
+    )
+  }
+  <div class="card rows" id={id}>
+    {group.problemIds.map((pid) => <ProblemRow id={pid} />)}
+  </div>
+</div>
+
+<style>
+  .group {
+    margin-top: 14px;
+  }
+  h3 {
+    font-size: 14px;
+    margin: 0 0 8px;
+    color: var(--muted);
+    display: flex;
+    gap: 8px;
+    align-items: baseline;
+  }
+</style>

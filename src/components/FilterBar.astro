@@ -1,0 +1,38 @@
+<form id="filters" class="filters">
+  <input name="q" type="search" placeholder="Search problems…" autocomplete="off" />
+  <select name="diff" aria-label="Difficulty">
+    <option value="">All levels</option>
+    <option value="easy">Easy</option>
+    <option value="medium">Medium</option>
+    <option value="hard">Hard</option>
+    <option value="article">Reading</option>
+  </select>
+  <select name="status" aria-label="Status">
+    <option value="">Any status</option>
+    <option value="unsolved">Unsolved</option>
+    <option value="solved">Solved</option>
+    <option value="revisit">Revisit</option>
+  </select>
+</form>
+
+<style>
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 20px 0 16px;
+  }
+  .filters input,
+  .filters select {
+    font: inherit;
+    padding: 7px 10px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+  }
+  .filters input {
+    flex: 1;
+    min-width: 200px;
+  }
+</style>

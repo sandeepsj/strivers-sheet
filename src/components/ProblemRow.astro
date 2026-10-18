@@ -1,0 +1,24 @@
+---
+import { problemById, url } from '../lib/data';
+
+interface Props {
+  id: string;
+}
+const p = problemById.get(Astro.props.id)!;
+const diff = p.kind === 'article' ? 'article' : (p.difficulty ?? '');
+---
+
+<div class="problem-row" data-id={p.id} data-diff={diff} data-title={p.title.toLowerCase()}>
+  <input type="checkbox" class="solved" aria-label={`Mark ${p.title} solved`} />
+  <a class="title" href={url(`/problems/${p.id}/`)}>{p.title}</a>
+  <span class="meta">
+    <span class="revisit-dot" title="Marked to revisit">↻</span>
+    <span class="note-dot" title="Has notes">✎</span>
+    {diff && <span class={`chip ${diff}`}>{p.kind === 'article' ? 'read' : diff}</span>}
+  </span>
+  <span class="links">
+    {p.links.leetcode && <a href={p.links.leetcode} target="_blank" rel="noopener">LeetCode</a>}
+    {p.links.article && <a href={p.links.article} target="_blank" rel="noopener">Article</a>}
+    {p.links.video && <a href={p.links.video} target="_blank" rel="noopener">Video</a>}
+  </span>
+</div>

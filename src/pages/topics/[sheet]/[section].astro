@@ -1,0 +1,47 @@
+---
+import Base from '../../../layouts/Base.astro';
+import FilterBar from '../../../components/FilterBar.astro';
+import GroupList from '../../../components/GroupList.astro';
+import NoteEditor from '../../../components/NoteEditor.tsx';
+import Progress from '../../../components/Progress.tsx';
+import { noteKey, sectionProblemIds, sheets, url, type Section, type Sheet } from '../../../lib/data';
+
+export function getStaticPaths() {
+  return sheets.flatMap((sheet) =>
+    sheet.sections.map((section) => ({ params: { sheet: sheet.id, section: section.id }, props: { sheet, section } })),
+  );
+}
+const { sheet, section } = Astro.props as { sheet: Sheet; section: Section };
+const scope = `${sheet.id}--${section.id}`;
+---
+
+<Base title={`${section.title} · ${sheet.short} · Sheet Tracker`}>
+  <a href={url(`/sheets/${sheet.id}/#${scope}`)} class="muted back">← {sheet.name}</a>
+  <h1>{section.title}</h1>
+  <div class="card summary"><Progress client:load ids={sectionProblemIds(section)} /></div>
+
+  <NoteEditor client:load noteKey={noteKey.topic(sheet.id, section.id)} heading="Topic notes" />
+
+  <FilterBar />
+  <div id={scope}>
+    {section.groups.map((g) => <GroupList group={g} scope={scope} />)}
+  </div>
+</Base>
+
+<script>
+  import { enhanceLists } from '../../../lib/list-client';
+  enhanceLists();
+</script>
+
+<style>
+  .back {
+    font-size: 13px;
+  }
+  h1 {
+    margin: 10px 0 14px;
+  }
+  .summary {
+    padding: 14px 18px;
+    max-width: 520px;
+  }
+</style>

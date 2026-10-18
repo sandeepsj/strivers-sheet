@@ -1,0 +1,118 @@
+---
+import Base from '../../layouts/Base.astro';
+import NoteEditor from '../../components/NoteEditor.tsx';
+import ProblemActions from '../../components/ProblemActions.tsx';
+import { noteKey, placements, problems, url, type Problem } from '../../lib/data';
+
+export function getStaticPaths() {
+  return problems.map((problem) => ({ params: { id: problem.id }, props: { problem } }));
+}
+const { problem: p } = Astro.props as { problem: Problem };
+const where = placements(p.id);
+const diff = p.kind === 'article' ? 'article' : p.difficulty;
+---
+
+<Base title={`${p.title} · Sheet Tracker`} description={p.summary}>
+  <div class="head">
+    {diff && <span class={`chip ${diff}`}>{p.kind === 'article' ? 'reading' : diff}</span>}
+    <h1>{p.title}</h1>
+    <p class="summary">{p.summary}</p>
+    <div class="links">
+      {
+        p.links.leetcode && (
+          <a class="btn primary" href={p.links.leetcode} target="_blank" rel="noopener">
+            Solve on LeetCode ↗
+          </a>
+        )
+      }
+      {
+        p.links.article && (
+          <a class="btn" href={p.links.article} target="_blank" rel="noopener">
+            Article ↗
+          </a>
+        )
+      }
+      {
+        p.links.video && (
+          <a class="btn" href={p.links.video} target="_blank" rel="noopener">
+            Video ↗
+          </a>
+        )
+      }
+    </div>
+  </div>
+
+  <ProblemActions client:load id={p.id} />
+
+  {
+    (p.topics.length > 0 || p.patterns.length > 0) && (
+      <div class="tags">
+        {p.topics.map((t) => (
+          <span class="chip tag">{t}</span>
+        ))}
+        {p.patterns.map((t) => (
+          <span class="chip tag pattern">{t}</span>
+        ))}
+      </div>
+    )
+  }
+
+  <NoteEditor client:load noteKey={noteKey.problem(p.id)} />
+
+  <section class="where">
+    <h2>Appears in</h2>
+    <ul>
+      {
+        where.map(({ sheet, section, group }) => (
+          <li>
+            <a href={url(`/sheets/${sheet.id}/#${sheet.id}--${section.id}`)}>{sheet.short}</a>
+            <span class="muted">
+              {' '}
+              › <a href={url(`/topics/${sheet.id}/${section.id}/`)}>{section.title}</a>
+              {group.title && ` › ${group.title}`}
+            </span>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .head h1 {
+    margin: 8px 0 8px;
+    font-size: clamp(26px, 4vw, 34px);
+  }
+  .summary {
+    font-size: 17px;
+    max-width: 720px;
+    margin: 0 0 16px;
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 18px;
+  }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 16px;
+  }
+  .tags .pattern {
+    border-style: dashed;
+  }
+  .where {
+    margin-top: 28px;
+  }
+  .where h2 {
+    font-size: 16px;
+  }
+  .where ul {
+    padding-left: 18px;
+  }
+  .where li {
+    margin: 4px 0;
+  }
+</style>

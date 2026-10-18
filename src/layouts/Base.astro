@@ -1,0 +1,115 @@
+---
+import '../styles/global.css';
+import AuthButton from '../components/AuthButton.tsx';
+import { url } from '../lib/data';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = "Track your progress through Striver's DSA sheets. Your progress and notes live in your own Google Drive." } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href={url('favicon.svg')} />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container inner">
+        <a class="brand" href={url('/')}>
+          <span class="logo">S</span>
+          <span>Sheet Tracker</span>
+        </a>
+        <nav>
+          <a href={url('/')}>Sheets</a>
+          <a href={url('/notes/')}>Notes</a>
+        </nav>
+        <AuthButton client:load />
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="container muted">
+      Problem lists from <a href="https://takeuforward.org/prep-hub">takeuforward.org</a>. Progress and notes are stored
+      only in your Google Drive.
+    </footer>
+    <script>
+      import { init } from '../lib/store';
+      init();
+    </script>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+  .inner {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    height: 58px;
+  }
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 17px;
+    color: var(--text);
+  }
+  .brand:hover {
+    text-decoration: none;
+  }
+  .logo {
+    width: 28px;
+    height: 28px;
+    border-radius: 8px;
+    display: grid;
+    place-content: center;
+    background: var(--accent);
+    color: #fff;
+  }
+  nav {
+    display: flex;
+    gap: 16px;
+    flex: 1;
+  }
+  nav a {
+    color: var(--muted);
+    font-weight: 500;
+  }
+  main {
+    padding-top: 28px;
+    padding-bottom: 48px;
+    min-height: 70vh;
+  }
+  footer {
+    padding-bottom: 32px;
+    font-size: 13px;
+  }
+  @media (max-width: 520px) {
+    .brand span:last-child {
+      display: none;
+    }
+  }
+</style>
