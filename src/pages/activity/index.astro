@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import Heatmap from '../../components/Heatmap.tsx';
+import Sessions from '../../components/Sessions.tsx';
+---
+
+<Base title="Activity · Sheet Tracker">
+  <h1>Activity</h1>
+  <p class="muted">Each square is a day; its shade is how many problems you marked solved that day.</p>
+  <Heatmap client:load />
+  <Sessions client:load />
+</Base>

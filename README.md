@@ -6,6 +6,9 @@ progress and notes are saved **in your own Google Drive**. There is no server an
 
 - **One problem, many sheets.** 532 unique problems back 1,124 sheet entries. Solving a problem in
   any sheet marks it solved in every sheet that contains it.
+- **Activity heatmap**: a year of days, each shaded by how many problems you marked solved that day, plus streaks.
+- **Sessions**: coming back after a break? Start a new session and every problem is unsolved again,
+  so you can track a fresh run. Earlier sessions are kept (switch back any time); notes are shared by all sessions.
 - **Notes** per problem and per topic (sheet section) are saved as Markdown files in Drive.
 - Works signed out too: progress is kept in the browser and merged into Drive the first time you sign in.
 
@@ -13,13 +16,14 @@ progress and notes are saved **in your own Google Drive**. There is no server an
 
 ```
 Strivers Sheet/
-  progress.json                       { version, updatedAt, items: { <problemId>: { solved, revisit?, at } } }
+  progress.json                       { version: 2, active, activeAt, sessions: { <id>: { name, startedAt, at,
+                                        items: { <problemId>: { solved, solvedAt?, revisit?, at } } } } }
   notes/problem--<problemId>.md
   notes/topic--<sheetId>--<sectionId>.md
 ```
 
 The app uses the `drive.file` scope. It can only see files it created itself, not the rest of your Drive.
-Progress is merged per problem, and the newest change wins. That way two devices or tabs don't overwrite each other.
+Progress is merged per session and per problem, and the newest change wins. Version-1 files (a single `items` map) are migrated into "Session 1". That way two devices or tabs don't overwrite each other.
 
 ## Data pipeline
 

@@ -292,3 +292,141 @@ input[type='checkbox'].solved:focus-visible {
 .count.complete {
   color: var(--accent);
 }
+
+/* activity heatmap */
+.heatmap,
+.sessions {
+  padding: 16px 18px;
+  margin-top: 20px;
+}
+.heatmap header,
+.sessions header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.heatmap h2,
+.sessions h2 {
+  margin: 0;
+  font-size: 18px;
+}
+.heatmap header p,
+.sessions header p {
+  margin: 2px 0 0;
+  font-size: 13px;
+  max-width: 560px;
+}
+.heatmap select,
+.new-session input,
+.sessions li input {
+  font: inherit;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+}
+.hm-scroll {
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+.hm {
+  display: grid;
+  grid-auto-rows: 12px;
+  gap: 3px;
+  width: max-content;
+}
+.hm-month,
+.hm-day {
+  font-size: 10px;
+  line-height: 12px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.hm-cell {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  background: var(--surface-2);
+}
+.hm-cell.l1 {
+  background: color-mix(in srgb, var(--accent) 30%, var(--surface-2));
+}
+.hm-cell.l2 {
+  background: color-mix(in srgb, var(--accent) 55%, var(--surface-2));
+}
+.hm-cell.l3 {
+  background: color-mix(in srgb, var(--accent) 78%, var(--surface-2));
+}
+.hm-cell.l4 {
+  background: var(--accent);
+}
+.heatmap footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--muted);
+}
+.heatmap footer strong {
+  color: var(--text);
+}
+.hm-legend {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+}
+
+/* sessions */
+.new-session {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  padding: 12px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  background: var(--surface-2);
+}
+.new-session p {
+  flex-basis: 100%;
+  margin: 0 0 4px;
+  font-size: 14px;
+}
+.new-session input {
+  flex: 1;
+  min-width: 180px;
+}
+.sessions ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sessions li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 0;
+  border-top: 1px solid var(--border);
+}
+.sessions li .info {
+  display: flex;
+  flex-direction: column;
+}
+.sessions li .info span {
+  font-size: 13px;
+}
+.sessions .name {
+  all: unset;
+  font-weight: 600;
+  cursor: text;
+}
+.sessions li.current .name {
+  color: var(--accent);
+}

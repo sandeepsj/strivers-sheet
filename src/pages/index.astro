@@ -1,6 +1,8 @@
 ---
 import Base from '../layouts/Base.astro';
+import Heatmap from '../components/Heatmap.tsx';
 import Progress from '../components/Progress.tsx';
+import SessionBadge from '../components/SessionBadge.tsx';
 import { problems, sheets, sheetProblemIds, url } from '../lib/data';
 
 const allIds = problems.map((p) => p.id);
@@ -14,8 +16,10 @@ const allIds = problems.map((p) => p.id);
       sheet that contains it. Progress and notes are saved to your own Google Drive.
     </p>
     <div class="overall card">
+      <SessionBadge client:load />
       <Progress client:load ids={allIds} label="unique problems solved" />
     </div>
+    <Heatmap client:visible compact />
   </section>
 
   <section class="grid">
